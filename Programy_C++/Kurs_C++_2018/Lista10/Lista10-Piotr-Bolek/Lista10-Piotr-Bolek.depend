@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1446671344 source:c:\prawie_dysk_d\programy_c++\lista10\lista10-piotr-bolek\main.cpp
+	<iostream>
+
+1527688550 source:c:\prawie_dysk_d\programy_c++\kurs_c++_2018\lista10\lista10-piotr-bolek\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<algorithm>
+	"Lista10.h"
+
+1527687701 source:c:\prawie_dysk_d\programy_c++\kurs_c++_2018\lista10\lista10-piotr-bolek\lista10.cpp
+	<bits/stdc++.h>
+	<iostream>
+	"Lista10.h"
+
+1527687701 c:\prawie_dysk_d\programy_c++\kurs_c++_2018\lista10\lista10-piotr-bolek\lista10.h
+

@@ -1,0 +1,16 @@
+producent 
+marka
+198
+90
+Rogal
+BMR
+2017
+190
+Bolek
+Bolcedes
+1990
+100
+Gorniak
+Gorniaken
+2010
+20

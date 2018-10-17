@@ -1,0 +1,6 @@
+C:\Prawie_dysk_D\Programy_C#\Tosty\Tost\Tost\bin\Debug\Tost.exe.config
+C:\Prawie_dysk_D\Programy_C#\Tosty\Tost\Tost\bin\Debug\Tost.exe
+C:\Prawie_dysk_D\Programy_C#\Tosty\Tost\Tost\bin\Debug\Tost.pdb
+C:\Prawie_dysk_D\Programy_C#\Tosty\Tost\Tost\obj\Debug\Tost.csprojResolveAssemblyReference.cache
+C:\Prawie_dysk_D\Programy_C#\Tosty\Tost\Tost\obj\Debug\Tost.exe
+C:\Prawie_dysk_D\Programy_C#\Tosty\Tost\Tost\obj\Debug\Tost.pdb

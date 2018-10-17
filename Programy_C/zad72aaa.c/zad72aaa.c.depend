@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1479985752 source:c:\prawie dysk d\programy_c\zad72aaa.c\zad72aaa.c
+	<stdio.h>
+	"zad72fun.h"
+
+1479985742 c:\prawie dysk d\programy_c\zad72aaa.c\zad72fun.h
+	<stdio.h>
+
+1479985747 source:c:\prawie dysk d\programy_c\zad72aaa.c\zad72fun.c
+	"zad72fun.h"
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1519647484 source:c:\prawie_dysk_d\programy_po\lista1\zadanie1_piotr_bolek\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Zadanie1_Piotr_Bolek.h"
+
+1519657953 source:c:\prawie_dysk_d\programy_po\lista1\zadanie1_piotr_bolek\zadanie1_piotr_bolek.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Zadanie1_Piotr_Bolek.h"
+
+1519660106 c:\prawie_dysk_d\programy_po\lista1\zadanie1_piotr_bolek\zadanie1_piotr_bolek.h
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1521037659 source:c:\prawie_dysk_d\programy_c++\kurs_c++_2018\lista3\lista3_piotr_bolek\lista3.cpp
+	<bits/stdc++.h>
+	"Lista3.h"
+
+1520989447 c:\prawie_dysk_d\programy_c++\kurs_c++_2018\lista3\lista3_piotr_bolek\lista3.h
+
+1521036997 source:c:\prawie_dysk_d\programy_c++\kurs_c++_2018\lista3\lista3_piotr_bolek\main.cpp
+	<bits/stdc++.h>
+	<initializer_list>
+	"Lista3.h"
+

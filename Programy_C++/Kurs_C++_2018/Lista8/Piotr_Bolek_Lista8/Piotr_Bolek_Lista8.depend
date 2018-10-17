@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1446671344 source:c:\prawie_dysk_d\programy_c++\kurs_c++_2018\lista8\piotr_bolek_lista8\main.cpp
+	<iostream>
+
+1524667718 source:c:\prawie_dysk_d\programy_c++\kurs_c++_2018\lista8\piotr_bolek_lista8\lista8.cpp
+	<bits/stdc++.h>
+	"Lista8.h"
+
+1524667874 c:\prawie_dysk_d\programy_c++\kurs_c++_2018\lista8\piotr_bolek_lista8\lista8.h
+

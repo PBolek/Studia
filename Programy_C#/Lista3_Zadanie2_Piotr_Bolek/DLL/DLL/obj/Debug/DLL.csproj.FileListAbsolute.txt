@@ -1,0 +1,5 @@
+C:\Prawie_dysk_D\Programy_C#\Lista3_Zadanie2_Piotr_Bolek\DLL\DLL\bin\Debug\DLL.dll
+C:\Prawie_dysk_D\Programy_C#\Lista3_Zadanie2_Piotr_Bolek\DLL\DLL\bin\Debug\DLL.pdb
+C:\Prawie_dysk_D\Programy_C#\Lista3_Zadanie2_Piotr_Bolek\DLL\DLL\obj\Debug\DLL.csprojResolveAssemblyReference.cache
+C:\Prawie_dysk_D\Programy_C#\Lista3_Zadanie2_Piotr_Bolek\DLL\DLL\obj\Debug\DLL.dll
+C:\Prawie_dysk_D\Programy_C#\Lista3_Zadanie2_Piotr_Bolek\DLL\DLL\obj\Debug\DLL.pdb

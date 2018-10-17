@@ -1,0 +1,143 @@
+import java.io.*;
+import java.util.Hashtable;
+
+class Wyrazenie{
+    public int oblicz(){
+        return 0;
+    }
+
+    public String toString(){
+        return "";
+    }
+}
+
+class Dodaj extends Wyrazenie{
+    private Wyrazenie left;
+    private Wyrazenie right;
+
+    Dodaj(Wyrazenie a, Wyrazenie b){
+        this.left = a;
+        this.right = b;
+    }
+
+    public int oblicz(){
+        int wynik;
+        wynik = this.left.oblicz() + this.right.oblicz();
+        return wynik;
+    }
+
+    public String toString(){
+        String wynik;
+        wynik = "" + this.left.oblicz() + "+" + this.right.oblicz();
+        return wynik;
+    }
+}
+
+class Odejmij extends Wyrazenie{
+    private Wyrazenie left;
+    private Wyrazenie right;
+
+    Odejmij(Wyrazenie a, Wyrazenie b){
+        this.left = a;
+        this.right = b;
+    }
+
+    public int oblicz(){
+        int wynik;
+        wynik = this.left.oblicz() - this.right.oblicz();
+        return wynik;
+    }
+
+    public String toString(){
+        String wynik;
+        wynik = "" + this.left.oblicz() + "-" + this.right.oblicz();
+        return wynik;
+    }
+}
+
+class Iloraz extends Wyrazenie{
+    private Wyrazenie left;
+    private Wyrazenie right;
+
+    Iloraz(Wyrazenie a, Wyrazenie b){
+        this.left = a;
+        this.left = b;
+    }
+
+    public int oblicz(){
+        int wynik;
+        if(this.right.oblicz() == 0){
+            throw new Exception("Dzielenie przez 0");
+        }
+        wynik = this.left.oblicz() / this.right.oblicz();
+        return wynik;
+    }
+
+    public String toString(){
+        String wynik;
+        wynik = "" + this.left.oblicz() + "/" + this.right.oblicz();
+        return wynik;
+    }
+}
+
+class Iloczyn extends Wyrazenie{
+    private Wyrazenie left;
+    private Wyrazenie right;
+
+    Iloczyn(Wyrazenie a, Wyrazenie b){
+        this.left = a;
+        this.right = b;
+    }
+
+    public int oblicz(){
+        int wynik;
+        wynik = this.left.oblicz() * this.right.oblicz();
+        return wynik;
+    }
+
+    public String toString(){
+        String wynik;
+        wynik = "" + this.left.oblicz() + "*" + this.right.oblicz();
+        return wynik;
+    }
+}
+
+class Stala extends Wyrazenie{
+    private int stala;
+
+    Stala(int stala){
+        this.stala = stala;
+    }
+
+    public int oblicz(){
+        return this.stala;
+    }
+
+    public String toString(){
+        String wynik = "" + this.stala;
+        return wynik;
+    }
+}
+
+class Zmienna extends Wyrazenie{
+    private String zmienna;
+    private Hashtable<String, Integer> tab;
+
+    Zmienna(String zmienna, Hashtable<String, Integer> tab){
+        this.zmienna = zmienna;
+        this.tab = tab;
+    }
+
+    public int oblicz(){
+        int wynik;
+        wynik = tab.get(this.zmienna);
+        return wynik;
+    }
+}
+
+public class Zadanie2{
+    public static void main(String[] args){
+        Wyrazenie wyrazenie = new Dodaj(new Stala(4), new Stala(5));
+        System.out.print(wyrazenie.oblicz());
+    }
+}

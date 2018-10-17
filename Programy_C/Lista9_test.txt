@@ -1,0 +1,5663 @@
+xml version=1.0 encoding=UTF-8
+gpx version=1.0 creator=GPSBabel - httpwww.gpsbabel.org xmlns=httpwww.topografix.comGPX10
+  time2017-11-24T143910.345Ztime
+  bounds minlat=50.846555410 minlon=16.693066600 maxlat=50.895880980 maxlon=16.742606750
+  wpt lat=50.894328230 lon=16.739751960
+    ele206.000000ele
+    time2017-11-24T093156Ztime
+    nameLAP001name
+    cmtLAP001cmt
+    descLAP001desc
+  wpt
+  wpt lat=50.892354460 lon=16.727060920
+    ele288.400000ele
+    time2017-11-24T094018Ztime
+    nameLAP002name
+    cmtLAP002cmt
+    descLAP002desc
+  wpt
+  wpt lat=50.883481800 lon=16.732986670
+    ele353.200000ele
+    time2017-11-24T094749Ztime
+    nameLAP003name
+    cmtLAP003cmt
+    descLAP003desc
+  wpt
+  wpt lat=50.879229240 lon=16.728114610
+    ele331.400000ele
+    time2017-11-24T095431Ztime
+    nameLAP004name
+    cmtLAP004cmt
+    descLAP004desc
+  wpt
+  wpt lat=50.858360990 lon=16.718847990
+    ele471.400000ele
+    time2017-11-24T101202Ztime
+    nameLAP005name
+    cmtLAP005cmt
+    descLAP005desc
+  wpt
+  wpt lat=50.846777610 lon=16.698189030
+    ele365.200000ele
+    time2017-11-24T102233Ztime
+    nameLAP006name
+    cmtLAP006cmt
+    descLAP006desc
+  wpt
+  wpt lat=50.865122670 lon=16.708755850
+    ele697.000000ele
+    time2017-11-24T104446Ztime
+    nameLAP007name
+    cmtLAP007cmt
+    descLAP007desc
+  wpt
+  wpt lat=50.865683160 lon=16.709033960
+    ele695.400000ele
+    time2017-11-24T105123Ztime
+    nameLAP008name
+    cmtLAP008cmt
+    descLAP008desc
+  wpt
+  wpt lat=50.877831560 lon=16.723512610
+    ele403.400000ele
+    time2017-11-24T110314Ztime
+    nameLAP009name
+    cmtLAP009cmt
+    descLAP009desc
+  wpt
+  wpt lat=50.881411550 lon=16.727666680
+    ele363.800000ele
+    time2017-11-24T110624Ztime
+    nameLAP010name
+    cmtLAP010cmt
+    descLAP010desc
+  wpt
+  wpt lat=50.881488920 lon=16.727761390
+    ele359.000000ele
+    time2017-11-24T111702Ztime
+    nameLAP011name
+    cmtLAP011cmt
+    descLAP011desc
+  wpt
+  wpt lat=50.881470060 lon=16.727777400
+    ele355.000000ele
+    time2017-11-24T112547Ztime
+    nameLAP012name
+    cmtLAP012cmt
+    descLAP012desc
+  wpt
+  wpt lat=50.883767710 lon=16.733313730
+    ele328.600000ele
+    time2017-11-24T112805Ztime
+    nameLAP013name
+    cmtLAP013cmt
+    descLAP013desc
+  wpt
+  wpt lat=50.891848030 lon=16.742226630
+    ele207.800000ele
+    time2017-11-24T113328Ztime
+    nameLAP014name
+    cmtLAP014cmt
+    descLAP014desc
+  wpt
+  trk
+    name2017-11-24T093156Zname
+    trkseg
+      trkpt lat=50.894328230 lon=16.739751960
+        ele206.000000ele
+        time2017-11-24T093156Ztime
+        speed1.204000speed
+      trkpt
+      trkpt lat=50.894439800 lon=16.739519020
+        ele206.800000ele
+        time2017-11-24T093204Ztime
+        speed2.687000speed
+      trkpt
+      trkpt lat=50.894524620 lon=16.739385170
+        ele205.600000ele
+        time2017-11-24T093209Ztime
+        speed2.613000speed
+      trkpt
+      trkpt lat=50.894554040 lon=16.739325320
+        ele205.000000ele
+        time2017-11-24T093211Ztime
+        speed2.678000speed
+      trkpt
+      trkpt lat=50.894580530 lon=16.739255330
+        ele205.200000ele
+        time2017-11-24T093213Ztime
+        speed2.687000speed
+      trkpt
+      trkpt lat=50.894625960 lon=16.739166650
+        ele205.200000ele
+        time2017-11-24T093216Ztime
+        speed2.715000speed
+      trkpt
+      trkpt lat=50.894697630 lon=16.739003450
+        ele205.000000ele
+        time2017-11-24T093221Ztime
+        speed2.753000speed
+      trkpt
+      trkpt lat=50.894829640 lon=16.738766580
+        ele205.400000ele
+        time2017-11-24T093229Ztime
+        speed2.753000speed
+      trkpt
+      trkpt lat=50.894958220 lon=16.738518140
+        ele205.800000ele
+        time2017-11-24T093237Ztime
+        speed2.771000speed
+      trkpt
+      trkpt lat=50.894973980 lon=16.738481600
+        ele206.400000ele
+        time2017-11-24T093238Ztime
+        speed2.781000speed
+      trkpt
+      trkpt lat=50.894990570 lon=16.738450920
+        ele206.400000ele
+        time2017-11-24T093239Ztime
+        speed2.781000speed
+      trkpt
+      trkpt lat=50.895102970 lon=16.738210190
+        ele206.000000ele
+        time2017-11-24T093246Ztime
+        speed2.837000speed
+      trkpt
+      trkpt lat=50.895145220 lon=16.738107510
+        ele206.200000ele
+        time2017-11-24T093249Ztime
+        speed2.846000speed
+      trkpt
+      trkpt lat=50.895243620 lon=16.737850860
+        ele206.400000ele
+        time2017-11-24T093256Ztime
+        speed2.874000speed
+      trkpt
+      trkpt lat=50.895335070 lon=16.737564030
+        ele208.800000ele
+        time2017-11-24T093303Ztime
+        speed2.921000speed
+      trkpt
+      trkpt lat=50.895346640 lon=16.737525890
+        ele209.400000ele
+        time2017-11-24T093304Ztime
+        speed2.930000speed
+      trkpt
+      trkpt lat=50.895359540 lon=16.737487170
+        ele209.600000ele
+        time2017-11-24T093305Ztime
+        speed2.939000speed
+      trkpt
+      trkpt lat=50.895441020 lon=16.737209730
+        ele211.200000ele
+        time2017-11-24T093312Ztime
+        speed3.014000speed
+      trkpt
+      trkpt lat=50.895531370 lon=16.736936480
+        ele211.400000ele
+        time2017-11-24T093319Ztime
+        speed3.051000speed
+      trkpt
+      trkpt lat=50.895613770 lon=16.736665990
+        ele211.200000ele
+        time2017-11-24T093326Ztime
+        speed3.042000speed
+      trkpt
+      trkpt lat=50.895650650 lon=16.736498860
+        ele210.400000ele
+        time2017-11-24T093330Ztime
+        speed3.042000speed
+      trkpt
+      trkpt lat=50.895677050 lon=16.736378660
+        ele209.000000ele
+        time2017-11-24T093333Ztime
+        speed3.042000speed
+      trkpt
+      trkpt lat=50.895725410 lon=16.736178250
+        ele208.000000ele
+        time2017-11-24T093338Ztime
+        speed3.042000speed
+      trkpt
+      trkpt lat=50.895778810 lon=16.735902400
+        ele206.800000ele
+        time2017-11-24T093344Ztime
+        speed3.060000speed
+      trkpt
+      trkpt lat=50.895819210 lon=16.735642980
+        ele204.800000ele
+        time2017-11-24T093350Ztime
+        speed3.107000speed
+      trkpt
+      trkpt lat=50.895880980 lon=16.735348690
+        ele205.600000ele
+        time2017-11-24T093357Ztime
+        speed3.126000speed
+      trkpt
+      trkpt lat=50.895823820 lon=16.735060940
+        ele205.800000ele
+        time2017-11-24T093405Ztime
+        speed3.098000speed
+      trkpt
+      trkpt lat=50.895738990 lon=16.734792640
+        ele207.000000ele
+        time2017-11-24T093413Ztime
+        speed2.958000speed
+      trkpt
+      trkpt lat=50.895686350 lon=16.734512930
+        ele208.000000ele
+        time2017-11-24T093421Ztime
+        speed2.846000speed
+      trkpt
+      trkpt lat=50.895645370 lon=16.734216300
+        ele210.000000ele
+        time2017-11-24T093429Ztime
+        speed2.781000speed
+      trkpt
+      trkpt lat=50.895609070 lon=16.733908260
+        ele211.600000ele
+        time2017-11-24T093438Ztime
+        speed2.734000speed
+      trkpt
+      trkpt lat=50.895567080 lon=16.733620600
+        ele213.600000ele
+        time2017-11-24T093447Ztime
+        speed2.659000speed
+      trkpt
+      trkpt lat=50.895520140 lon=16.733352370
+        ele218.200000ele
+        time2017-11-24T093458Ztime
+        speed2.482000speed
+      trkpt
+      trkpt lat=50.895458790 lon=16.733073010
+        ele223.400000ele
+        time2017-11-24T093510Ztime
+        speed2.277000speed
+      trkpt
+      trkpt lat=50.895455940 lon=16.733046180
+        ele223.800000ele
+        time2017-11-24T093511Ztime
+        speed2.267000speed
+      trkpt
+      trkpt lat=50.895431710 lon=16.732763290
+        ele227.600000ele
+        time2017-11-24T093522Ztime
+        speed2.155000speed
+      trkpt
+      trkpt lat=50.895406230 lon=16.732464810
+        ele230.000000ele
+        time2017-11-24T093533Ztime
+        speed2.090000speed
+      trkpt
+      trkpt lat=50.895338590 lon=16.732194750
+        ele232.200000ele
+        time2017-11-24T093544Ztime
+        speed2.034000speed
+      trkpt
+      trkpt lat=50.895299450 lon=16.731959130
+        ele235.800000ele
+        time2017-11-24T093554Ztime
+        speed1.978000speed
+      trkpt
+      trkpt lat=50.895291990 lon=16.731918900
+        ele236.600000ele
+        time2017-11-24T093556Ztime
+        speed1.969000speed
+      trkpt
+      trkpt lat=50.895273460 lon=16.731626880
+        ele240.400000ele
+        time2017-11-24T093608Ztime
+        speed1.875000speed
+      trkpt
+      trkpt lat=50.895229620 lon=16.731455050
+        ele242.400000ele
+        time2017-11-24T093615Ztime
+        speed1.847000speed
+      trkpt
+      trkpt lat=50.895202970 lon=16.731354210
+        ele243.200000ele
+        time2017-11-24T093619Ztime
+        speed1.847000speed
+      trkpt
+      trkpt lat=50.895195090 lon=16.731328730
+        ele243.200000ele
+        time2017-11-24T093620Ztime
+        speed1.847000speed
+      trkpt
+      trkpt lat=50.895128620 lon=16.731048860
+        ele245.200000ele
+        time2017-11-24T093631Ztime
+        speed1.838000speed
+      trkpt
+      trkpt lat=50.895114790 lon=16.730959510
+        ele246.400000ele
+        time2017-11-24T093635Ztime
+        speed1.857000speed
+      trkpt
+      trkpt lat=50.895102810 lon=16.730906530
+        ele246.600000ele
+        time2017-11-24T093637Ztime
+        speed1.857000speed
+      trkpt
+      trkpt lat=50.895084200 lon=16.730838890
+        ele247.400000ele
+        time2017-11-24T093640Ztime
+        speed1.847000speed
+      trkpt
+      trkpt lat=50.895065090 lon=16.730775610
+        ele248.600000ele
+        time2017-11-24T093643Ztime
+        speed1.847000speed
+      trkpt
+      trkpt lat=50.895046980 lon=16.730739230
+        ele249.000000ele
+        time2017-11-24T093645Ztime
+        speed1.838000speed
+      trkpt
+      trkpt lat=50.894987470 lon=16.730638570
+        ele251.400000ele
+        time2017-11-24T093652Ztime
+        speed1.810000speed
+      trkpt
+      trkpt lat=50.894841120 lon=16.730467910
+        ele253.400000ele
+        time2017-11-24T093704Ztime
+        speed1.745000speed
+      trkpt
+      trkpt lat=50.894756470 lon=16.730382410
+        ele255.400000ele
+        time2017-11-24T093711Ztime
+        speed1.726000speed
+      trkpt
+      trkpt lat=50.894574660 lon=16.730287620
+        ele259.200000ele
+        time2017-11-24T093722Ztime
+        speed1.717000speed
+      trkpt
+      trkpt lat=50.894471310 lon=16.730231370
+        ele261.200000ele
+        time2017-11-24T093728Ztime
+        speed1.745000speed
+      trkpt
+      trkpt lat=50.894397800 lon=16.730183180
+        ele262.800000ele
+        time2017-11-24T093732Ztime
+        speed1.773000speed
+      trkpt
+      trkpt lat=50.894327400 lon=16.730117210
+        ele264.000000ele
+        time2017-11-24T093736Ztime
+        speed1.810000speed
+      trkpt
+      trkpt lat=50.894299650 lon=16.730083180
+        ele264.400000ele
+        time2017-11-24T093738Ztime
+        speed1.829000speed
+      trkpt
+      trkpt lat=50.894269810 lon=16.730057530
+        ele265.200000ele
+        time2017-11-24T093740Ztime
+        speed1.847000speed
+      trkpt
+      trkpt lat=50.894212310 lon=16.730004060
+        ele266.000000ele
+        time2017-11-24T093744Ztime
+        speed1.875000speed
+      trkpt
+      trkpt lat=50.894053560 lon=16.729838760
+        ele268.800000ele
+        time2017-11-24T093753Ztime
+        speed1.922000speed
+      trkpt
+      trkpt lat=50.894037630 lon=16.729819570
+        ele269.000000ele
+        time2017-11-24T093754Ztime
+        speed1.931000speed
+      trkpt
+      trkpt lat=50.893873350 lon=16.729659060
+        ele272.200000ele
+        time2017-11-24T093803Ztime
+        speed2.015000speed
+      trkpt
+      trkpt lat=50.893751560 lon=16.729413220
+        ele273.800000ele
+        time2017-11-24T093813Ztime
+        speed2.099000speed
+      trkpt
+      trkpt lat=50.893687270 lon=16.729135020
+        ele276.200000ele
+        time2017-11-24T093824Ztime
+        speed2.109000speed
+      trkpt
+      trkpt lat=50.893655590 lon=16.728937540
+        ele278.200000ele
+        time2017-11-24T093832Ztime
+        speed2.071000speed
+      trkpt
+      trkpt lat=50.893594820 lon=16.728657670
+        ele279.600000ele
+        time2017-11-24T093843Ztime
+        speed2.034000speed
+      trkpt
+      trkpt lat=50.893500440 lon=16.728406130
+        ele279.800000ele
+        time2017-11-24T093853Ztime
+        speed1.997000speed
+      trkpt
+      trkpt lat=50.893402450 lon=16.728178980
+        ele281.600000ele
+        time2017-11-24T093903Ztime
+        speed2.006000speed
+      trkpt
+      trkpt lat=50.893383430 lon=16.728017960
+        ele282.400000ele
+        time2017-11-24T093909Ztime
+        speed1.997000speed
+      trkpt
+      trkpt lat=50.893308490 lon=16.727749910
+        ele284.400000ele
+        time2017-11-24T093920Ztime
+        speed1.987000speed
+      trkpt
+      trkpt lat=50.893272450 lon=16.727698280
+        ele285.000000ele
+        time2017-11-24T093923Ztime
+        speed1.987000speed
+      trkpt
+      trkpt lat=50.893102550 lon=16.727555530
+        ele287.800000ele
+        time2017-11-24T093934Ztime
+        speed1.950000speed
+      trkpt
+      trkpt lat=50.892916140 lon=16.727535000
+        ele287.800000ele
+        time2017-11-24T093943Ztime
+        speed1.969000speed
+      trkpt
+      trkpt lat=50.892745140 lon=16.727429300
+        ele288.400000ele
+        time2017-11-24T093952Ztime
+        speed2.034000speed
+      trkpt
+      trkpt lat=50.892699630 lon=16.727324280
+        ele289.000000ele
+        time2017-11-24T093957Ztime
+        speed2.071000speed
+      trkpt
+      trkpt lat=50.892586730 lon=16.727114230
+        ele289.800000ele
+        time2017-11-24T094005Ztime
+        speed2.081000speed
+      trkpt
+      trkpt lat=50.892520760 lon=16.727006020
+        ele289.800000ele
+        time2017-11-24T094009Ztime
+        speed2.118000speed
+      trkpt
+      trkpt lat=50.892432830 lon=16.727009120
+        ele289.200000ele
+        time2017-11-24T094014Ztime
+        speed2.155000speed
+      trkpt
+      trkpt lat=50.892354460 lon=16.727060920
+        ele288.400000ele
+        time2017-11-24T094018Ztime
+        speed2.165000speed
+      trkpt
+      trkpt lat=50.892237200 lon=16.727196700
+        ele286.600000ele
+        time2017-11-24T094025Ztime
+        speed2.202000speed
+      trkpt
+      trkpt lat=50.892088840 lon=16.727409600
+        ele285.000000ele
+        time2017-11-24T094036Ztime
+        speed2.183000speed
+      trkpt
+      trkpt lat=50.892006030 lon=16.727695260
+        ele285.000000ele
+        time2017-11-24T094043Ztime
+        speed2.211000speed
+      trkpt
+      trkpt lat=50.891925140 lon=16.727951080
+        ele284.400000ele
+        time2017-11-24T094050Ztime
+        speed2.323000speed
+      trkpt
+      trkpt lat=50.891839060 lon=16.728208900
+        ele286.800000ele
+        time2017-11-24T094057Ztime
+        speed2.417000speed
+      trkpt
+      trkpt lat=50.891731860 lon=16.728462120
+        ele291.000000ele
+        time2017-11-24T094105Ztime
+        speed2.501000speed
+      trkpt
+      trkpt lat=50.891612250 lon=16.728710310
+        ele294.200000ele
+        time2017-11-24T094112Ztime
+        speed2.557000speed
+      trkpt
+      trkpt lat=50.891490120 lon=16.728919600
+        ele297.000000ele
+        time2017-11-24T094118Ztime
+        speed2.641000speed
+      trkpt
+      trkpt lat=50.891365320 lon=16.729170480
+        ele294.800000ele
+        time2017-11-24T094124Ztime
+        speed2.734000speed
+      trkpt
+      trkpt lat=50.891259280 lon=16.729447830
+        ele293.200000ele
+        time2017-11-24T094131Ztime
+        speed2.874000speed
+      trkpt
+      trkpt lat=50.891137080 lon=16.729707670
+        ele289.400000ele
+        time2017-11-24T094139Ztime
+        speed2.930000speed
+      trkpt
+      trkpt lat=50.891018890 lon=16.729973130
+        ele288.800000ele
+        time2017-11-24T094146Ztime
+        speed2.930000speed
+      trkpt
+      trkpt lat=50.890891070 lon=16.730229860
+        ele289.000000ele
+        time2017-11-24T094153Ztime
+        speed2.958000speed
+      trkpt
+      trkpt lat=50.890754190 lon=16.730437480
+        ele290.600000ele
+        time2017-11-24T094159Ztime
+        speed3.023000speed
+      trkpt
+      trkpt lat=50.890606920 lon=16.730637480
+        ele292.600000ele
+        time2017-11-24T094207Ztime
+        speed3.079000speed
+      trkpt
+      trkpt lat=50.890449010 lon=16.730788180
+        ele296.200000ele
+        time2017-11-24T094215Ztime
+        speed3.023000speed
+      trkpt
+      trkpt lat=50.890289500 lon=16.730955490
+        ele296.600000ele
+        time2017-11-24T094222Ztime
+        speed2.958000speed
+      trkpt
+      trkpt lat=50.890141640 lon=16.731174420
+        ele295.600000ele
+        time2017-11-24T094230Ztime
+        speed2.958000speed
+      trkpt
+      trkpt lat=50.890036450 lon=16.731415320
+        ele294.600000ele
+        time2017-11-24T094237Ztime
+        speed2.948000speed
+      trkpt
+      trkpt lat=50.889908460 lon=16.731664590
+        ele293.400000ele
+        time2017-11-24T094245Ztime
+        speed2.939000speed
+      trkpt
+      trkpt lat=50.889809630 lon=16.731936920
+        ele293.000000ele
+        time2017-11-24T094254Ztime
+        speed2.893000speed
+      trkpt
+      trkpt lat=50.889695050 lon=16.732195840
+        ele294.800000ele
+        time2017-11-24T094303Ztime
+        speed2.818000speed
+      trkpt
+      trkpt lat=50.889575700 lon=16.732427430
+        ele297.000000ele
+        time2017-11-24T094311Ztime
+        speed2.753000speed
+      trkpt
+      trkpt lat=50.889423900 lon=16.732608150
+        ele296.600000ele
+        time2017-11-24T094319Ztime
+        speed2.734000speed
+      trkpt
+      trkpt lat=50.889258110 lon=16.732776960
+        ele296.400000ele
+        time2017-11-24T094327Ztime
+        speed2.697000speed
+      trkpt
+      trkpt lat=50.889100530 lon=16.732933280
+        ele295.200000ele
+        time2017-11-24T094335Ztime
+        speed2.678000speed
+      trkpt
+      trkpt lat=50.888963980 lon=16.733133770
+        ele295.800000ele
+        time2017-11-24T094344Ztime
+        speed2.650000speed
+      trkpt
+      trkpt lat=50.888811100 lon=16.733339130
+        ele297.600000ele
+        time2017-11-24T094353Ztime
+        speed2.603000speed
+      trkpt
+      trkpt lat=50.888639190 lon=16.733472490
+        ele298.200000ele
+        time2017-11-24T094402Ztime
+        speed2.575000speed
+      trkpt
+      trkpt lat=50.888441040 lon=16.733566700
+        ele298.600000ele
+        time2017-11-24T094411Ztime
+        speed2.529000speed
+      trkpt
+      trkpt lat=50.888254460 lon=16.733622690
+        ele298.000000ele
+        time2017-11-24T094419Ztime
+        speed2.547000speed
+      trkpt
+      trkpt lat=50.888071900 lon=16.733666190
+        ele300.000000ele
+        time2017-11-24T094427Ztime
+        speed2.557000speed
+      trkpt
+      trkpt lat=50.887879620 lon=16.733721760
+        ele302.200000ele
+        time2017-11-24T094435Ztime
+        speed2.566000speed
+      trkpt
+      trkpt lat=50.887682640 lon=16.733723360
+        ele306.200000ele
+        time2017-11-24T094443Ztime
+        speed2.594000speed
+      trkpt
+      trkpt lat=50.887494300 lon=16.733701150
+        ele310.600000ele
+        time2017-11-24T094451Ztime
+        speed2.613000speed
+      trkpt
+      trkpt lat=50.887295230 lon=16.733677680
+        ele314.800000ele
+        time2017-11-24T094459Ztime
+        speed2.631000speed
+      trkpt
+      trkpt lat=50.887128680 lon=16.733569380
+        ele316.400000ele
+        time2017-11-24T094507Ztime
+        speed2.650000speed
+      trkpt
+      trkpt lat=50.886941510 lon=16.733453880
+        ele318.400000ele
+        time2017-11-24T094516Ztime
+        speed2.622000speed
+      trkpt
+      trkpt lat=50.886754510 lon=16.733398390
+        ele319.400000ele
+        time2017-11-24T094524Ztime
+        speed2.622000speed
+      trkpt
+      trkpt lat=50.886578580 lon=16.733313230
+        ele321.400000ele
+        time2017-11-24T094532Ztime
+        speed2.622000speed
+      trkpt
+      trkpt lat=50.886397190 lon=16.733259000
+        ele325.800000ele
+        time2017-11-24T094540Ztime
+        speed2.622000speed
+      trkpt
+      trkpt lat=50.886210860 lon=16.733206950
+        ele329.400000ele
+        time2017-11-24T094549Ztime
+        speed2.594000speed
+      trkpt
+      trkpt lat=50.886020510 lon=16.733163780
+        ele331.800000ele
+        time2017-11-24T094557Ztime
+        speed2.557000speed
+      trkpt
+      trkpt lat=50.885833510 lon=16.733133520
+        ele332.600000ele
+        time2017-11-24T094605Ztime
+        speed2.547000speed
+      trkpt
+      trkpt lat=50.885645340 lon=16.733099660
+        ele335.000000ele
+        time2017-11-24T094613Ztime
+        speed2.575000speed
+      trkpt
+      trkpt lat=50.885458250 lon=16.733069320
+        ele336.600000ele
+        time2017-11-24T094621Ztime
+        speed2.575000speed
+      trkpt
+      trkpt lat=50.885258850 lon=16.733049960
+        ele336.800000ele
+        time2017-11-24T094629Ztime
+        speed2.594000speed
+      trkpt
+      trkpt lat=50.885076960 lon=16.733010900
+        ele338.200000ele
+        time2017-11-24T094637Ztime
+        speed2.613000speed
+      trkpt
+      trkpt lat=50.884887530 lon=16.732977540
+        ele339.200000ele
+        time2017-11-24T094647Ztime
+        speed2.575000speed
+      trkpt
+      trkpt lat=50.884696840 lon=16.732966890
+        ele341.000000ele
+        time2017-11-24T094656Ztime
+        speed2.501000speed
+      trkpt
+      trkpt lat=50.884496770 lon=16.732988770
+        ele343.600000ele
+        time2017-11-24T094706Ztime
+        speed2.435000speed
+      trkpt
+      trkpt lat=50.884364670 lon=16.733006870
+        ele345.400000ele
+        time2017-11-24T094712Ztime
+        speed2.417000speed
+      trkpt
+      trkpt lat=50.884168110 lon=16.733043000
+        ele347.000000ele
+        time2017-11-24T094720Ztime
+        speed2.435000speed
+      trkpt
+      trkpt lat=50.883978340 lon=16.733076780
+        ele349.400000ele
+        time2017-11-24T094727Ztime
+        speed2.473000speed
+      trkpt
+      trkpt lat=50.883790000 lon=16.733132010
+        ele351.200000ele
+        time2017-11-24T094736Ztime
+        speed2.547000speed
+      trkpt
+      trkpt lat=50.883657230 lon=16.733127070
+        ele352.400000ele
+        time2017-11-24T094741Ztime
+        speed2.958000speed
+      trkpt
+      trkpt lat=50.883481800 lon=16.732986670
+        ele353.200000ele
+        time2017-11-24T094749Ztime
+        speed2.715000speed
+      trkpt
+      trkpt lat=50.883296480 lon=16.732849540
+        ele352.000000ele
+        time2017-11-24T094758Ztime
+        speed2.678000speed
+      trkpt
+      trkpt lat=50.883254230 lon=16.732828000
+        ele352.400000ele
+        time2017-11-24T094800Ztime
+        speed2.669000speed
+      trkpt
+      trkpt lat=50.883076030 lon=16.732717190
+        ele353.400000ele
+        time2017-11-24T094808Ztime
+        speed2.650000speed
+      trkpt
+      trkpt lat=50.882902690 lon=16.732592810
+        ele357.200000ele
+        time2017-11-24T094816Ztime
+        speed2.650000speed
+      trkpt
+      trkpt lat=50.882748800 lon=16.732405810
+        ele356.400000ele
+        time2017-11-24T094825Ztime
+        speed2.594000speed
+      trkpt
+      trkpt lat=50.882656180 lon=16.732145800
+        ele355.400000ele
+        time2017-11-24T094833Ztime
+        speed2.557000speed
+      trkpt
+      trkpt lat=50.882585520 lon=16.731857380
+        ele358.400000ele
+        time2017-11-24T094842Ztime
+        speed2.519000speed
+      trkpt
+      trkpt lat=50.882534650 lon=16.731583790
+        ele360.400000ele
+        time2017-11-24T094850Ztime
+        speed2.510000speed
+      trkpt
+      trkpt lat=50.882492820 lon=16.731485560
+        ele361.200000ele
+        time2017-11-24T094853Ztime
+        speed2.510000speed
+      trkpt
+      trkpt lat=50.882464150 lon=16.731278270
+        ele362.400000ele
+        time2017-11-24T094859Ztime
+        speed2.519000speed
+      trkpt
+      trkpt lat=50.882415870 lon=16.730985910
+        ele363.400000ele
+        time2017-11-24T094907Ztime
+        speed2.566000speed
+      trkpt
+      trkpt lat=50.882336330 lon=16.730702020
+        ele364.200000ele
+        time2017-11-24T094916Ztime
+        speed2.557000speed
+      trkpt
+      trkpt lat=50.882304980 lon=16.730411840
+        ele366.200000ele
+        time2017-11-24T094925Ztime
+        speed2.491000speed
+      trkpt
+      trkpt lat=50.882281430 lon=16.730090140
+        ele367.400000ele
+        time2017-11-24T094933Ztime
+        speed2.482000speed
+      trkpt
+      trkpt lat=50.882248150 lon=16.729802220
+        ele368.000000ele
+        time2017-11-24T094940Ztime
+        speed2.585000speed
+      trkpt
+      trkpt lat=50.882205570 lon=16.729511280
+        ele369.000000ele
+        time2017-11-24T094948Ztime
+        speed2.650000speed
+      trkpt
+      trkpt lat=50.882171290 lon=16.729213640
+        ele369.200000ele
+        time2017-11-24T094956Ztime
+        speed2.622000speed
+      trkpt
+      trkpt lat=50.882098370 lon=16.728952800
+        ele369.800000ele
+        time2017-11-24T095003Ztime
+        speed2.659000speed
+      trkpt
+      trkpt lat=50.882013630 lon=16.728681560
+        ele370.200000ele
+        time2017-11-24T095012Ztime
+        speed2.650000speed
+      trkpt
+      trkpt lat=50.881969200 lon=16.728570410
+        ele370.800000ele
+        time2017-11-24T095016Ztime
+        speed2.613000speed
+      trkpt
+      trkpt lat=50.881893260 lon=16.728449460
+        ele372.400000ele
+        time2017-11-24T095021Ztime
+        speed2.566000speed
+      trkpt
+      trkpt lat=50.881757140 lon=16.728238910
+        ele375.400000ele
+        time2017-11-24T095029Ztime
+        speed2.529000speed
+      trkpt
+      trkpt lat=50.881641050 lon=16.728053250
+        ele376.600000ele
+        time2017-11-24T095036Ztime
+        speed2.547000speed
+      trkpt
+      trkpt lat=50.881547680 lon=16.727785870
+        ele376.000000ele
+        time2017-11-24T095044Ztime
+        speed2.566000speed
+      trkpt
+      trkpt lat=50.881412730 lon=16.727525020
+        ele371.800000ele
+        time2017-11-24T095051Ztime
+        speed2.613000speed
+      trkpt
+      trkpt lat=50.881294630 lon=16.727310360
+        ele369.200000ele
+        time2017-11-24T095058Ztime
+        speed2.715000speed
+      trkpt
+      trkpt lat=50.881156580 lon=16.727106850
+        ele369.200000ele
+        time2017-11-24T095105Ztime
+        speed2.753000speed
+      trkpt
+      trkpt lat=50.881038640 lon=16.726890090
+        ele368.600000ele
+        time2017-11-24T095112Ztime
+        speed2.781000speed
+      trkpt
+      trkpt lat=50.880891370 lon=16.726713820
+        ele369.000000ele
+        time2017-11-24T095119Ztime
+        speed2.809000speed
+      trkpt
+      trkpt lat=50.880740420 lon=16.726529170
+        ele370.000000ele
+        time2017-11-24T095126Ztime
+        speed2.837000speed
+      trkpt
+      trkpt lat=50.880584510 lon=16.726371250
+        ele373.400000ele
+        time2017-11-24T095134Ztime
+        speed2.855000speed
+      trkpt
+      trkpt lat=50.880405980 lon=16.726272010
+        ele376.800000ele
+        time2017-11-24T095142Ztime
+        speed2.837000speed
+      trkpt
+      trkpt lat=50.880239760 lon=16.726151480
+        ele380.600000ele
+        time2017-11-24T095150Ztime
+        speed2.790000speed
+      trkpt
+      trkpt lat=50.880066180 lon=16.726027600
+        ele382.000000ele
+        time2017-11-24T095158Ztime
+        speed2.753000speed
+      trkpt
+      trkpt lat=50.879893170 lon=16.725892480
+        ele382.000000ele
+        time2017-11-24T095205Ztime
+        speed2.743000speed
+      trkpt
+      trkpt lat=50.879717070 lon=16.725765410
+        ele382.400000ele
+        time2017-11-24T095212Ztime
+        speed2.781000speed
+      trkpt
+      trkpt lat=50.879558990 lon=16.725575230
+        ele383.800000ele
+        time2017-11-24T095220Ztime
+        speed2.818000speed
+      trkpt
+      trkpt lat=50.879399390 lon=16.725398280
+        ele385.400000ele
+        time2017-11-24T095228Ztime
+        speed2.818000speed
+      trkpt
+      trkpt lat=50.879238800 lon=16.725292840
+        ele386.800000ele
+        time2017-11-24T095236Ztime
+        speed2.771000speed
+      trkpt
+      trkpt lat=50.879042660 lon=16.725219750
+        ele388.400000ele
+        time2017-11-24T095245Ztime
+        speed2.715000speed
+      trkpt
+      trkpt lat=50.878842330 lon=16.725162580
+        ele389.200000ele
+        time2017-11-24T095253Ztime
+        speed2.706000speed
+      trkpt
+      trkpt lat=50.878649630 lon=16.725164430
+        ele387.800000ele
+        time2017-11-24T095300Ztime
+        speed2.715000speed
+      trkpt
+      trkpt lat=50.878614260 lon=16.725163670
+        ele387.000000ele
+        time2017-11-24T095302Ztime
+        speed2.725000speed
+      trkpt
+      trkpt lat=50.878657340 lon=16.725339190
+        ele385.400000ele
+        time2017-11-24T095308Ztime
+        speed2.183000speed
+      trkpt
+      trkpt lat=50.878624070 lon=16.725633140
+        ele381.200000ele
+        time2017-11-24T095315Ztime
+        speed3.004000speed
+      trkpt
+      trkpt lat=50.878526170 lon=16.725881920
+        ele373.800000ele
+        time2017-11-24T095322Ztime
+        speed2.995000speed
+      trkpt
+      trkpt lat=50.878501270 lon=16.726005470
+        ele371.200000ele
+        time2017-11-24T095325Ztime
+        speed2.995000speed
+      trkpt
+      trkpt lat=50.878626420 lon=16.726213840
+        ele365.800000ele
+        time2017-11-24T095331Ztime
+        speed3.042000speed
+      trkpt
+      trkpt lat=50.878763790 lon=16.726432280
+        ele359.600000ele
+        time2017-11-24T095337Ztime
+        speed3.126000speed
+      trkpt
+      trkpt lat=50.878911150 lon=16.726611140
+        ele355.400000ele
+        time2017-11-24T095343Ztime
+        speed3.247000speed
+      trkpt
+      trkpt lat=50.879068310 lon=16.726818850
+        ele352.200000ele
+        time2017-11-24T095349Ztime
+        speed3.340000speed
+      trkpt
+      trkpt lat=50.879182470 lon=16.727059830
+        ele349.200000ele
+        time2017-11-24T095355Ztime
+        speed3.434000speed
+      trkpt
+      trkpt lat=50.879283640 lon=16.727310110
+        ele345.400000ele
+        time2017-11-24T095401Ztime
+        speed3.490000speed
+      trkpt
+      trkpt lat=50.879392690 lon=16.727573300
+        ele342.600000ele
+        time2017-11-24T095407Ztime
+        speed3.499000speed
+      trkpt
+      trkpt lat=50.879491680 lon=16.727819560
+        ele338.800000ele
+        time2017-11-24T095413Ztime
+        speed3.546000speed
+      trkpt
+      trkpt lat=50.879490840 lon=16.727859630
+        ele338.200000ele
+        time2017-11-24T095414Ztime
+        speed3.546000speed
+      trkpt
+      trkpt lat=50.879475750 lon=16.727980330
+        ele336.600000ele
+        time2017-11-24T095418Ztime
+        speed3.518000speed
+      trkpt
+      trkpt lat=50.879456890 lon=16.728019890
+        ele335.000000ele
+        time2017-11-24T095421Ztime
+        speed1.092000speed
+      trkpt
+      trkpt lat=50.879402750 lon=16.728031630
+        ele333.800000ele
+        time2017-11-24T095424Ztime
+        speed1.605000speed
+      trkpt
+      trkpt lat=50.879229240 lon=16.728114610
+        ele331.400000ele
+        time2017-11-24T095431Ztime
+        speed2.538000speed
+      trkpt
+      trkpt lat=50.879064870 lon=16.728238910
+        ele330.200000ele
+        time2017-11-24T095438Ztime
+        speed2.631000speed
+      trkpt
+      trkpt lat=50.878932610 lon=16.728458010
+        ele334.000000ele
+        time2017-11-24T095446Ztime
+        speed2.697000speed
+      trkpt
+      trkpt lat=50.878926990 lon=16.728493300
+        ele334.400000ele
+        time2017-11-24T095447Ztime
+        speed2.706000speed
+      trkpt
+      trkpt lat=50.878880720 lon=16.728596060
+        ele334.200000ele
+        time2017-11-24T095451Ztime
+        speed2.715000speed
+      trkpt
+      trkpt lat=50.878767230 lon=16.728839560
+        ele334.800000ele
+        time2017-11-24T095459Ztime
+        speed2.603000speed
+      trkpt
+      trkpt lat=50.878609230 lon=16.729006020
+        ele333.000000ele
+        time2017-11-24T095507Ztime
+        speed2.650000speed
+      trkpt
+      trkpt lat=50.878437150 lon=16.729171060
+        ele332.200000ele
+        time2017-11-24T095515Ztime
+        speed2.641000speed
+      trkpt
+      trkpt lat=50.878273540 lon=16.729330740
+        ele335.400000ele
+        time2017-11-24T095522Ztime
+        speed2.725000speed
+      trkpt
+      trkpt lat=50.878113780 lon=16.729497370
+        ele339.400000ele
+        time2017-11-24T095530Ztime
+        speed2.818000speed
+      trkpt
+      trkpt lat=50.877941280 lon=16.729651090
+        ele343.400000ele
+        time2017-11-24T095538Ztime
+        speed2.781000speed
+      trkpt
+      trkpt lat=50.877810270 lon=16.729789480
+        ele347.000000ele
+        time2017-11-24T095545Ztime
+        speed2.762000speed
+      trkpt
+      trkpt lat=50.877669790 lon=16.729979160
+        ele350.000000ele
+        time2017-11-24T095553Ztime
+        speed2.678000speed
+      trkpt
+      trkpt lat=50.877516230 lon=16.730171020
+        ele351.800000ele
+        time2017-11-24T095602Ztime
+        speed2.622000speed
+      trkpt
+      trkpt lat=50.877357650 lon=16.730356770
+        ele353.400000ele
+        time2017-11-24T095612Ztime
+        speed2.473000speed
+      trkpt
+      trkpt lat=50.877226050 lon=16.730563460
+        ele353.800000ele
+        time2017-11-24T095620Ztime
+        speed2.463000speed
+      trkpt
+      trkpt lat=50.877168630 lon=16.730648620
+        ele354.400000ele
+        time2017-11-24T095623Ztime
+        speed2.473000speed
+      trkpt
+      trkpt lat=50.877017840 lon=16.730859600
+        ele357.000000ele
+        time2017-11-24T095631Ztime
+        speed2.575000speed
+      trkpt
+      trkpt lat=50.876985320 lon=16.730911060
+        ele357.400000ele
+        time2017-11-24T095633Ztime
+        speed2.603000speed
+      trkpt
+      trkpt lat=50.876881970 lon=16.731150200
+        ele359.200000ele
+        time2017-11-24T095641Ztime
+        speed2.631000speed
+      trkpt
+      trkpt lat=50.876783400 lon=16.731402160
+        ele363.000000ele
+        time2017-11-24T095650Ztime
+        speed2.575000speed
+      trkpt
+      trkpt lat=50.876687090 lon=16.731652190
+        ele366.600000ele
+        time2017-11-24T095659Ztime
+        speed2.519000speed
+      trkpt
+      trkpt lat=50.876613000 lon=16.731926190
+        ele369.000000ele
+        time2017-11-24T095709Ztime
+        speed2.435000speed
+      trkpt
+      trkpt lat=50.876525160 lon=16.732204980
+        ele371.000000ele
+        time2017-11-24T095719Ztime
+        speed2.351000speed
+      trkpt
+      trkpt lat=50.876456420 lon=16.732470010
+        ele371.800000ele
+        time2017-11-24T095727Ztime
+        speed2.342000speed
+      trkpt
+      trkpt lat=50.876393480 lon=16.732761790
+        ele372.800000ele
+        time2017-11-24T095736Ztime
+        speed2.370000speed
+      trkpt
+      trkpt lat=50.876373610 lon=16.732834710
+        ele372.600000ele
+        time2017-11-24T095738Ztime
+        speed2.370000speed
+      trkpt
+      trkpt lat=50.876310660 lon=16.733052720
+        ele372.400000ele
+        time2017-11-24T095744Ztime
+        speed2.398000speed
+      trkpt
+      trkpt lat=50.876230620 lon=16.733312640
+        ele372.000000ele
+        time2017-11-24T095752Ztime
+        speed2.454000speed
+      trkpt
+      trkpt lat=50.876130620 lon=16.733540550
+        ele372.000000ele
+        time2017-11-24T095800Ztime
+        speed2.473000speed
+      trkpt
+      trkpt lat=50.876016540 lon=16.733638030
+        ele372.000000ele
+        time2017-11-24T095805Ztime
+        speed2.491000speed
+      trkpt
+      trkpt lat=50.875825100 lon=16.733649760
+        ele371.400000ele
+        time2017-11-24T095812Ztime
+        speed2.547000speed
+      trkpt
+      trkpt lat=50.875617480 lon=16.733680190
+        ele372.800000ele
+        time2017-11-24T095820Ztime
+        speed2.622000speed
+      trkpt
+      trkpt lat=50.875431820 lon=16.733701560
+        ele372.800000ele
+        time2017-11-24T095827Ztime
+        speed2.687000speed
+      trkpt
+      trkpt lat=50.875333080 lon=16.733729900
+        ele372.400000ele
+        time2017-11-24T095831Ztime
+        speed2.715000speed
+      trkpt
+      trkpt lat=50.875151450 lon=16.733637950
+        ele371.600000ele
+        time2017-11-24T095839Ztime
+        speed2.753000speed
+      trkpt
+      trkpt lat=50.874990680 lon=16.733491260
+        ele371.800000ele
+        time2017-11-24T095846Ztime
+        speed2.762000speed
+      trkpt
+      trkpt lat=50.874850450 lon=16.733290930
+        ele373.200000ele
+        time2017-11-24T095854Ztime
+        speed2.771000speed
+      trkpt
+      trkpt lat=50.874697730 lon=16.733080130
+        ele375.000000ele
+        time2017-11-24T095902Ztime
+        speed2.753000speed
+      trkpt
+      trkpt lat=50.874559520 lon=16.732874440
+        ele378.800000ele
+        time2017-11-24T095909Ztime
+        speed2.781000speed
+      trkpt
+      trkpt lat=50.874491540 lon=16.732598000
+        ele381.000000ele
+        time2017-11-24T095917Ztime
+        speed2.799000speed
+      trkpt
+      trkpt lat=50.874396240 lon=16.732351320
+        ele385.400000ele
+        time2017-11-24T095925Ztime
+        speed2.781000speed
+      trkpt
+      trkpt lat=50.874286430 lon=16.732115210
+        ele389.400000ele
+        time2017-11-24T095933Ztime
+        speed2.762000speed
+      trkpt
+      trkpt lat=50.874165730 lon=16.731876820
+        ele392.600000ele
+        time2017-11-24T095942Ztime
+        speed2.697000speed
+      trkpt
+      trkpt lat=50.874042770 lon=16.731667110
+        ele394.600000ele
+        time2017-11-24T095950Ztime
+        speed2.650000speed
+      trkpt
+      trkpt lat=50.873919220 lon=16.731437950
+        ele395.400000ele
+        time2017-11-24T095959Ztime
+        speed2.613000speed
+      trkpt
+      trkpt lat=50.873791820 lon=16.731223200
+        ele395.200000ele
+        time2017-11-24T100007Ztime
+        speed2.575000speed
+      trkpt
+      trkpt lat=50.873650250 lon=16.731031340
+        ele396.400000ele
+        time2017-11-24T100015Ztime
+        speed2.566000speed
+      trkpt
+      trkpt lat=50.873495770 lon=16.730873680
+        ele398.200000ele
+        time2017-11-24T100023Ztime
+        speed2.557000speed
+      trkpt
+      trkpt lat=50.873335000 lon=16.730725320
+        ele399.600000ele
+        time2017-11-24T100031Ztime
+        speed2.566000speed
+      trkpt
+      trkpt lat=50.873223780 lon=16.730625990
+        ele401.000000ele
+        time2017-11-24T100037Ztime
+        speed2.566000speed
+      trkpt
+      trkpt lat=50.873034510 lon=16.730547290
+        ele402.600000ele
+        time2017-11-24T100046Ztime
+        speed2.557000speed
+      trkpt
+      trkpt lat=50.872848180 lon=16.730452990
+        ele402.400000ele
+        time2017-11-24T100055Ztime
+        speed2.529000speed
+      trkpt
+      trkpt lat=50.872660180 lon=16.730407980
+        ele402.200000ele
+        time2017-11-24T100103Ztime
+        speed2.510000speed
+      trkpt
+      trkpt lat=50.872485330 lon=16.730316870
+        ele402.000000ele
+        time2017-11-24T100111Ztime
+        speed2.529000speed
+      trkpt
+      trkpt lat=50.872292550 lon=16.730219550
+        ele399.400000ele
+        time2017-11-24T100119Ztime
+        speed2.538000speed
+      trkpt
+      trkpt lat=50.872092810 lon=16.730143030
+        ele399.200000ele
+        time2017-11-24T100127Ztime
+        speed2.566000speed
+      trkpt
+      trkpt lat=50.871915280 lon=16.730025850
+        ele399.000000ele
+        time2017-11-24T100135Ztime
+        speed2.613000speed
+      trkpt
+      trkpt lat=50.871729370 lon=16.729935410
+        ele401.400000ele
+        time2017-11-24T100143Ztime
+        speed2.650000speed
+      trkpt
+      trkpt lat=50.871557620 lon=16.729811520
+        ele402.800000ele
+        time2017-11-24T100151Ztime
+        speed2.659000speed
+      trkpt
+      trkpt lat=50.871519320 lon=16.729786960
+        ele403.200000ele
+        time2017-11-24T100153Ztime
+        speed2.669000speed
+      trkpt
+      trkpt lat=50.871345140 lon=16.729653610
+        ele403.400000ele
+        time2017-11-24T100202Ztime
+        speed2.622000speed
+      trkpt
+      trkpt lat=50.871168110 lon=16.729528380
+        ele404.000000ele
+        time2017-11-24T100211Ztime
+        speed2.585000speed
+      trkpt
+      trkpt lat=50.870977850 lon=16.729416820
+        ele405.800000ele
+        time2017-11-24T100219Ztime
+        speed2.585000speed
+      trkpt
+      trkpt lat=50.870800990 lon=16.729296540
+        ele408.400000ele
+        time2017-11-24T100227Ztime
+        speed2.603000speed
+      trkpt
+      trkpt lat=50.870630750 lon=16.729126720
+        ele411.400000ele
+        time2017-11-24T100236Ztime
+        speed2.603000speed
+      trkpt
+      trkpt lat=50.870444420 lon=16.729020270
+        ele413.400000ele
+        time2017-11-24T100244Ztime
+        speed2.603000speed
+      trkpt
+      trkpt lat=50.870260440 lon=16.728935700
+        ele415.600000ele
+        time2017-11-24T100252Ztime
+        speed2.641000speed
+      trkpt
+      trkpt lat=50.870072350 lon=16.728887080
+        ele417.400000ele
+        time2017-11-24T100301Ztime
+        speed2.631000speed
+      trkpt
+      trkpt lat=50.869877300 lon=16.728829250
+        ele418.600000ele
+        time2017-11-24T100310Ztime
+        speed2.585000speed
+      trkpt
+      trkpt lat=50.869685520 lon=16.728755490
+        ele420.600000ele
+        time2017-11-24T100318Ztime
+        speed2.566000speed
+      trkpt
+      trkpt lat=50.869489470 lon=16.728690700
+        ele419.200000ele
+        time2017-11-24T100325Ztime
+        speed2.603000speed
+      trkpt
+      trkpt lat=50.869290400 lon=16.728660770
+        ele419.600000ele
+        time2017-11-24T100333Ztime
+        speed2.659000speed
+      trkpt
+      trkpt lat=50.869101560 lon=16.728598070
+        ele416.400000ele
+        time2017-11-24T100340Ztime
+        speed2.697000speed
+      trkpt
+      trkpt lat=50.868918580 lon=16.728468740
+        ele413.600000ele
+        time2017-11-24T100347Ztime
+        speed2.743000speed
+      trkpt
+      trkpt lat=50.868728980 lon=16.728336560
+        ele409.000000ele
+        time2017-11-24T100355Ztime
+        speed2.781000speed
+      trkpt
+      trkpt lat=50.868599560 lon=16.728242600
+        ele407.600000ele
+        time2017-11-24T100401Ztime
+        speed2.799000speed
+      trkpt
+      trkpt lat=50.868423460 lon=16.728145280
+        ele406.600000ele
+        time2017-11-24T100409Ztime
+        speed2.781000speed
+      trkpt
+      trkpt lat=50.868234110 lon=16.728061630
+        ele404.400000ele
+        time2017-11-24T100417Ztime
+        speed2.762000speed
+      trkpt
+      trkpt lat=50.868045440 lon=16.727994330
+        ele405.600000ele
+        time2017-11-24T100425Ztime
+        speed2.762000speed
+      trkpt
+      trkpt lat=50.867889370 lon=16.727922160
+        ele407.600000ele
+        time2017-11-24T100432Ztime
+        speed2.753000speed
+      trkpt
+      trkpt lat=50.867734380 lon=16.727819820
+        ele410.000000ele
+        time2017-11-24T100439Ztime
+        speed2.725000speed
+      trkpt
+      trkpt lat=50.867565490 lon=16.727688890
+        ele412.400000ele
+        time2017-11-24T100447Ztime
+        speed2.706000speed
+      trkpt
+      trkpt lat=50.867380920 lon=16.727544640
+        ele413.200000ele
+        time2017-11-24T100455Ztime
+        speed2.697000speed
+      trkpt
+      trkpt lat=50.867214370 lon=16.727390330
+        ele410.800000ele
+        time2017-11-24T100502Ztime
+        speed2.725000speed
+      trkpt
+      trkpt lat=50.867053940 lon=16.727257980
+        ele407.000000ele
+        time2017-11-24T100509Ztime
+        speed2.762000speed
+      trkpt
+      trkpt lat=50.866900050 lon=16.727168880
+        ele407.400000ele
+        time2017-11-24T100515Ztime
+        speed2.790000speed
+      trkpt
+      trkpt lat=50.866748000 lon=16.727104340
+        ele409.600000ele
+        time2017-11-24T100521Ztime
+        speed2.818000speed
+      trkpt
+      trkpt lat=50.866553460 lon=16.727007610
+        ele412.200000ele
+        time2017-11-24T100529Ztime
+        speed2.837000speed
+      trkpt
+      trkpt lat=50.866369730 lon=16.726858490
+        ele414.600000ele
+        time2017-11-24T100537Ztime
+        speed2.837000speed
+      trkpt
+      trkpt lat=50.866193540 lon=16.726720360
+        ele417.000000ele
+        time2017-11-24T100545Ztime
+        speed2.846000speed
+      trkpt
+      trkpt lat=50.866095130 lon=16.726633690
+        ele418.800000ele
+        time2017-11-24T100550Ztime
+        speed2.837000speed
+      trkpt
+      trkpt lat=50.865929590 lon=16.726463040
+        ele419.600000ele
+        time2017-11-24T100557Ztime
+        speed2.827000speed
+      trkpt
+      trkpt lat=50.865749800 lon=16.726325820
+        ele421.800000ele
+        time2017-11-24T100605Ztime
+        speed2.837000speed
+      trkpt
+      trkpt lat=50.865562970 lon=16.726215350
+        ele427.200000ele
+        time2017-11-24T100614Ztime
+        speed2.818000speed
+      trkpt
+      trkpt lat=50.865365990 lon=16.726144190
+        ele429.400000ele
+        time2017-11-24T100622Ztime
+        speed2.771000speed
+      trkpt
+      trkpt lat=50.865180080 lon=16.726059530
+        ele426.000000ele
+        time2017-11-24T100630Ztime
+        speed2.762000speed
+      trkpt
+      trkpt lat=50.864985790 lon=16.725987530
+        ele424.000000ele
+        time2017-11-24T100638Ztime
+        speed2.753000speed
+      trkpt
+      trkpt lat=50.864797360 lon=16.725955510
+        ele426.800000ele
+        time2017-11-24T100645Ztime
+        speed2.762000speed
+      trkpt
+      trkpt lat=50.864618330 lon=16.725894490
+        ele427.200000ele
+        time2017-11-24T100652Ztime
+        speed2.790000speed
+      trkpt
+      trkpt lat=50.864425800 lon=16.725812680
+        ele426.400000ele
+        time2017-11-24T100700Ztime
+        speed2.809000speed
+      trkpt
+      trkpt lat=50.864249270 lon=16.725737750
+        ele424.800000ele
+        time2017-11-24T100707Ztime
+        speed2.809000speed
+      trkpt
+      trkpt lat=50.864058330 lon=16.725646470
+        ele424.200000ele
+        time2017-11-24T100715Ztime
+        speed2.818000speed
+      trkpt
+      trkpt lat=50.863875360 lon=16.725515970
+        ele426.000000ele
+        time2017-11-24T100723Ztime
+        speed2.818000speed
+      trkpt
+      trkpt lat=50.863698080 lon=16.725359060
+        ele426.600000ele
+        time2017-11-24T100731Ztime
+        speed2.809000speed
+      trkpt
+      trkpt lat=50.863541920 lon=16.725209440
+        ele429.000000ele
+        time2017-11-24T100738Ztime
+        speed2.818000speed
+      trkpt
+      trkpt lat=50.863373110 lon=16.725063590
+        ele430.200000ele
+        time2017-11-24T100745Ztime
+        speed2.827000speed
+      trkpt
+      trkpt lat=50.863217960 lon=16.724899480
+        ele431.000000ele
+        time2017-11-24T100752Ztime
+        speed2.855000speed
+      trkpt
+      trkpt lat=50.863048480 lon=16.724731080
+        ele432.000000ele
+        time2017-11-24T100800Ztime
+        speed2.874000speed
+      trkpt
+      trkpt lat=50.862882520 lon=16.724556320
+        ele431.200000ele
+        time2017-11-24T100808Ztime
+        speed2.865000speed
+      trkpt
+      trkpt lat=50.862735330 lon=16.724375690
+        ele431.600000ele
+        time2017-11-24T100815Ztime
+        speed2.855000speed
+      trkpt
+      trkpt lat=50.862591160 lon=16.724195230
+        ele432.400000ele
+        time2017-11-24T100822Ztime
+        speed2.865000speed
+      trkpt
+      trkpt lat=50.862449930 lon=16.723985010
+        ele433.200000ele
+        time2017-11-24T100829Ztime
+        speed2.874000speed
+      trkpt
+      trkpt lat=50.862309620 lon=16.723776050
+        ele432.800000ele
+        time2017-11-24T100836Ztime
+        speed2.902000speed
+      trkpt
+      trkpt lat=50.862194700 lon=16.723553930
+        ele433.000000ele
+        time2017-11-24T100843Ztime
+        speed2.921000speed
+      trkpt
+      trkpt lat=50.862046680 lon=16.723331390
+        ele434.600000ele
+        time2017-11-24T100851Ztime
+        speed2.921000speed
+      trkpt
+      trkpt lat=50.861907030 lon=16.723108520
+        ele432.400000ele
+        time2017-11-24T100858Ztime
+        speed2.921000speed
+      trkpt
+      trkpt lat=50.861774930 lon=16.722899140
+        ele434.200000ele
+        time2017-11-24T100905Ztime
+        speed2.939000speed
+      trkpt
+      trkpt lat=50.861630430 lon=16.722688580
+        ele436.600000ele
+        time2017-11-24T100912Ztime
+        speed2.958000speed
+      trkpt
+      trkpt lat=50.861495230 lon=16.722472330
+        ele439.200000ele
+        time2017-11-24T100919Ztime
+        speed2.986000speed
+      trkpt
+      trkpt lat=50.861391710 lon=16.722218270
+        ele441.600000ele
+        time2017-11-24T100926Ztime
+        speed2.995000speed
+      trkpt
+      trkpt lat=50.861328430 lon=16.721926250
+        ele442.800000ele
+        time2017-11-24T100933Ztime
+        speed3.004000speed
+      trkpt
+      trkpt lat=50.861260450 lon=16.721650150
+        ele442.800000ele
+        time2017-11-24T100940Ztime
+        speed3.023000speed
+      trkpt
+      trkpt lat=50.861171520 lon=16.721372540
+        ele444.600000ele
+        time2017-11-24T100948Ztime
+        speed3.014000speed
+      trkpt
+      trkpt lat=50.861033810 lon=16.721160140
+        ele446.200000ele
+        time2017-11-24T100956Ztime
+        speed2.958000speed
+      trkpt
+      trkpt lat=50.860869190 lon=16.721038190
+        ele445.200000ele
+        time2017-11-24T101003Ztime
+        speed2.921000speed
+      trkpt
+      trkpt lat=50.860690740 lon=16.720941630
+        ele446.000000ele
+        time2017-11-24T101011Ztime
+        speed2.893000speed
+      trkpt
+      trkpt lat=50.860507510 lon=16.720877080
+        ele447.600000ele
+        time2017-11-24T101019Ztime
+        speed2.855000speed
+      trkpt
+      trkpt lat=50.860431480 lon=16.720857300
+        ele447.600000ele
+        time2017-11-24T101022Ztime
+        speed2.837000speed
+      trkpt
+      trkpt lat=50.860308440 lon=16.720816900
+        ele447.200000ele
+        time2017-11-24T101027Ztime
+        speed2.818000speed
+      trkpt
+      trkpt lat=50.860131910 lon=16.720755040
+        ele449.400000ele
+        time2017-11-24T101034Ztime
+        speed2.809000speed
+      trkpt
+      trkpt lat=50.859970810 lon=16.720616160
+        ele453.000000ele
+        time2017-11-24T101041Ztime
+        speed2.818000speed
+      trkpt
+      trkpt lat=50.859821530 lon=16.720445920
+        ele454.400000ele
+        time2017-11-24T101048Ztime
+        speed2.827000speed
+      trkpt
+      trkpt lat=50.859722710 lon=16.720353550
+        ele456.000000ele
+        time2017-11-24T101053Ztime
+        speed2.837000speed
+      trkpt
+      trkpt lat=50.859562530 lon=16.720214080
+        ele460.000000ele
+        time2017-11-24T101100Ztime
+        speed2.827000speed
+      trkpt
+      trkpt lat=50.859398160 lon=16.720045600
+        ele461.000000ele
+        time2017-11-24T101108Ztime
+        speed2.827000speed
+      trkpt
+      trkpt lat=50.859231280 lon=16.719911070
+        ele462.200000ele
+        time2017-11-24T101115Ztime
+        speed2.818000speed
+      trkpt
+      trkpt lat=50.859076460 lon=16.719781570
+        ele463.800000ele
+        time2017-11-24T101122Ztime
+        speed2.827000speed
+      trkpt
+      trkpt lat=50.858963980 lon=16.719635050
+        ele464.600000ele
+        time2017-11-24T101128Ztime
+        speed2.827000speed
+      trkpt
+      trkpt lat=50.858814950 lon=16.719477560
+        ele466.400000ele
+        time2017-11-24T101136Ztime
+        speed2.790000speed
+      trkpt
+      trkpt lat=50.858703470 lon=16.719376890
+        ele469.000000ele
+        time2017-11-24T101142Ztime
+        speed2.762000speed
+      trkpt
+      trkpt lat=50.858607750 lon=16.719254680
+        ele470.400000ele
+        time2017-11-24T101147Ztime
+        speed2.725000speed
+      trkpt
+      trkpt lat=50.858493670 lon=16.719074720
+        ele471.600000ele
+        time2017-11-24T101155Ztime
+        speed2.687000speed
+      trkpt
+      trkpt lat=50.858360990 lon=16.718847990
+        ele471.400000ele
+        time2017-11-24T101202Ztime
+        speed2.753000speed
+      trkpt
+      trkpt lat=50.858245230 lon=16.718578350
+        ele471.400000ele
+        time2017-11-24T101209Ztime
+        speed3.228000speed
+      trkpt
+      trkpt lat=50.858173150 lon=16.718307530
+        ele470.800000ele
+        time2017-11-24T101216Ztime
+        speed3.200000speed
+      trkpt
+      trkpt lat=50.858101230 lon=16.718033360
+        ele470.800000ele
+        time2017-11-24T101224Ztime
+        speed3.070000speed
+      trkpt
+      trkpt lat=50.858046160 lon=16.717746110
+        ele470.800000ele
+        time2017-11-24T101232Ztime
+        speed2.921000speed
+      trkpt
+      trkpt lat=50.858003660 lon=16.717468500
+        ele469.600000ele
+        time2017-11-24T101240Ztime
+        speed2.753000speed
+      trkpt
+      trkpt lat=50.857963180 lon=16.717167760
+        ele470.000000ele
+        time2017-11-24T101248Ztime
+        speed2.659000speed
+      trkpt
+      trkpt lat=50.857893610 lon=16.716959130
+        ele471.200000ele
+        time2017-11-24T101254Ztime
+        speed2.650000speed
+      trkpt
+      trkpt lat=50.857830410 lon=16.716712870
+        ele472.800000ele
+        time2017-11-24T101301Ztime
+        speed2.650000speed
+      trkpt
+      trkpt lat=50.857752290 lon=16.716454460
+        ele472.200000ele
+        time2017-11-24T101309Ztime
+        speed2.669000speed
+      trkpt
+      trkpt lat=50.857717510 lon=16.716334850
+        ele472.200000ele
+        time2017-11-24T101313Ztime
+        speed2.631000speed
+      trkpt
+      trkpt lat=50.857640640 lon=16.716058330
+        ele474.600000ele
+        time2017-11-24T101321Ztime
+        speed2.547000speed
+      trkpt
+      trkpt lat=50.857560180 lon=16.715749790
+        ele474.800000ele
+        time2017-11-24T101328Ztime
+        speed2.594000speed
+      trkpt
+      trkpt lat=50.857482310 lon=16.715458180
+        ele474.800000ele
+        time2017-11-24T101335Ztime
+        speed2.827000speed
+      trkpt
+      trkpt lat=50.857388680 lon=16.715184680
+        ele474.600000ele
+        time2017-11-24T101342Ztime
+        speed2.948000speed
+      trkpt
+      trkpt lat=50.857259940 lon=16.714931130
+        ele473.800000ele
+        time2017-11-24T101349Ztime
+        speed3.023000speed
+      trkpt
+      trkpt lat=50.857098420 lon=16.714707590
+        ele470.200000ele
+        time2017-11-24T101355Ztime
+        speed3.163000speed
+      trkpt
+      trkpt lat=50.856929940 lon=16.714510610
+        ele468.000000ele
+        time2017-11-24T101401Ztime
+        speed3.882000speed
+      trkpt
+      trkpt lat=50.856764990 lon=16.714313300
+        ele466.400000ele
+        time2017-11-24T101407Ztime
+        speed3.826000speed
+      trkpt
+      trkpt lat=50.856626430 lon=16.714105260
+        ele463.800000ele
+        time2017-11-24T101413Ztime
+        speed3.826000speed
+      trkpt
+      trkpt lat=50.856472290 lon=16.713910470
+        ele461.800000ele
+        time2017-11-24T101419Ztime
+        speed3.770000speed
+      trkpt
+      trkpt lat=50.856333070 lon=16.713680470
+        ele458.000000ele
+        time2017-11-24T101425Ztime
+        speed3.742000speed
+      trkpt
+      trkpt lat=50.856193760 lon=16.713457680
+        ele456.000000ele
+        time2017-11-24T101431Ztime
+        speed3.723000speed
+      trkpt
+      trkpt lat=50.856042800 lon=16.713235970
+        ele454.200000ele
+        time2017-11-24T101437Ztime
+        speed3.723000speed
+      trkpt
+      trkpt lat=50.855893270 lon=16.713023240
+        ele452.200000ele
+        time2017-11-24T101443Ztime
+        speed3.732000speed
+      trkpt
+      trkpt lat=50.855748010 lon=16.712823670
+        ele451.400000ele
+        time2017-11-24T101449Ztime
+        speed3.732000speed
+      trkpt
+      trkpt lat=50.855585990 lon=16.712629210
+        ele450.400000ele
+        time2017-11-24T101456Ztime
+        speed3.658000speed
+      trkpt
+      trkpt lat=50.855423380 lon=16.712442290
+        ele448.400000ele
+        time2017-11-24T101503Ztime
+        speed3.508000speed
+      trkpt
+      trkpt lat=50.855263290 lon=16.712234420
+        ele443.200000ele
+        time2017-11-24T101510Ztime
+        speed3.424000speed
+      trkpt
+      trkpt lat=50.855117610 lon=16.712044570
+        ele438.800000ele
+        time2017-11-24T101516Ztime
+        speed3.378000speed
+      trkpt
+      trkpt lat=50.854975200 lon=16.711849270
+        ele435.800000ele
+        time2017-11-24T101522Ztime
+        speed3.396000speed
+      trkpt
+      trkpt lat=50.854826000 lon=16.711651790
+        ele432.200000ele
+        time2017-11-24T101529Ztime
+        speed3.434000speed
+      trkpt
+      trkpt lat=50.854710920 lon=16.711495560
+        ele431.400000ele
+        time2017-11-24T101535Ztime
+        speed2.939000speed
+      trkpt
+      trkpt lat=50.854534900 lon=16.711304280
+        ele430.800000ele
+        time2017-11-24T101541Ztime
+        speed3.070000speed
+      trkpt
+      trkpt lat=50.854374050 lon=16.711143180
+        ele429.000000ele
+        time2017-11-24T101546Ztime
+        speed3.219000speed
+      trkpt
+      trkpt lat=50.854217310 lon=16.710997250
+        ele427.400000ele
+        time2017-11-24T101551Ztime
+        speed3.434000speed
+      trkpt
+      trkpt lat=50.854031480 lon=16.710873530
+        ele424.000000ele
+        time2017-11-24T101557Ztime
+        speed3.611000speed
+      trkpt
+      trkpt lat=50.853857220 lon=16.710782170
+        ele422.600000ele
+        time2017-11-24T101602Ztime
+        speed3.704000speed
+      trkpt
+      trkpt lat=50.853663850 lon=16.710672620
+        ele423.400000ele
+        time2017-11-24T101608Ztime
+        speed3.788000speed
+      trkpt
+      trkpt lat=50.853511220 lon=16.710594330
+        ele422.600000ele
+        time2017-11-24T101613Ztime
+        speed3.807000speed
+      trkpt
+      trkpt lat=50.853333270 lon=16.710504560
+        ele421.600000ele
+        time2017-11-24T101619Ztime
+        speed3.751000speed
+      trkpt
+      trkpt lat=50.853161940 lon=16.710407840
+        ele420.000000ele
+        time2017-11-24T101625Ztime
+        speed3.676000speed
+      trkpt
+      trkpt lat=50.852978550 lon=16.710317730
+        ele418.400000ele
+        time2017-11-24T101631Ztime
+        speed3.592000speed
+      trkpt
+      trkpt lat=50.852780650 lon=16.710302890
+        ele417.800000ele
+        time2017-11-24T101638Ztime
+        speed3.508000speed
+      trkpt
+      trkpt lat=50.852602110 lon=16.710235170
+        ele416.600000ele
+        time2017-11-24T101644Ztime
+        speed3.462000speed
+      trkpt
+      trkpt lat=50.852417040 lon=16.710182360
+        ele417.000000ele
+        time2017-11-24T101650Ztime
+        speed3.443000speed
+      trkpt
+      trkpt lat=50.852222580 lon=16.710133410
+        ele416.600000ele
+        time2017-11-24T101656Ztime
+        speed3.443000speed
+      trkpt
+      trkpt lat=50.852028710 lon=16.710067530
+        ele415.000000ele
+        time2017-11-24T101702Ztime
+        speed3.499000speed
+      trkpt
+      trkpt lat=50.851855040 lon=16.709934930
+        ele414.200000ele
+        time2017-11-24T101708Ztime
+        speed3.546000speed
+      trkpt
+      trkpt lat=50.851726460 lon=16.709728820
+        ele413.000000ele
+        time2017-11-24T101714Ztime
+        speed3.564000speed
+      trkpt
+      trkpt lat=50.851597960 lon=16.709513490
+        ele411.800000ele
+        time2017-11-24T101720Ztime
+        speed3.546000speed
+      trkpt
+      trkpt lat=50.851446330 lon=16.709300250
+        ele409.800000ele
+        time2017-11-24T101726Ztime
+        speed3.499000speed
+      trkpt
+      trkpt lat=50.851302080 lon=16.709073100
+        ele405.200000ele
+        time2017-11-24T101732Ztime
+        speed3.555000speed
+      trkpt
+      trkpt lat=50.851173080 lon=16.708845870
+        ele403.000000ele
+        time2017-11-24T101738Ztime
+        speed3.602000speed
+      trkpt
+      trkpt lat=50.851049530 lon=16.708604550
+        ele401.400000ele
+        time2017-11-24T101744Ztime
+        speed3.630000speed
+      trkpt
+      trkpt lat=50.851017100 lon=16.708293170
+        ele399.600000ele
+        time2017-11-24T101751Ztime
+        speed3.611000speed
+      trkpt
+      trkpt lat=50.851012570 lon=16.707980190
+        ele395.000000ele
+        time2017-11-24T101758Ztime
+        speed3.499000speed
+      trkpt
+      trkpt lat=50.851007370 lon=16.707658910
+        ele392.000000ele
+        time2017-11-24T101805Ztime
+        speed3.415000speed
+      trkpt
+      trkpt lat=50.851037470 lon=16.707369730
+        ele392.000000ele
+        time2017-11-24T101811Ztime
+        speed3.368000speed
+      trkpt
+      trkpt lat=50.851057250 lon=16.707065470
+        ele394.200000ele
+        time2017-11-24T101817Ztime
+        speed3.368000speed
+      trkpt
+      trkpt lat=50.851059930 lon=16.706767740
+        ele397.000000ele
+        time2017-11-24T101823Ztime
+        speed3.406000speed
+      trkpt
+      trkpt lat=50.851040650 lon=16.706484690
+        ele396.800000ele
+        time2017-11-24T101829Ztime
+        speed3.434000speed
+      trkpt
+      trkpt lat=50.850971670 lon=16.706199620
+        ele399.800000ele
+        time2017-11-24T101836Ztime
+        speed3.424000speed
+      trkpt
+      trkpt lat=50.850887180 lon=16.705904410
+        ele401.200000ele
+        time2017-11-24T101843Ztime
+        speed3.368000speed
+      trkpt
+      trkpt lat=50.850798330 lon=16.705631580
+        ele402.000000ele
+        time2017-11-24T101849Ztime
+        speed3.359000speed
+      trkpt
+      trkpt lat=50.850718450 lon=16.705374500
+        ele402.400000ele
+        time2017-11-24T101855Ztime
+        speed3.368000speed
+      trkpt
+      trkpt lat=50.850619290 lon=16.705091450
+        ele402.400000ele
+        time2017-11-24T101902Ztime
+        speed3.368000speed
+      trkpt
+      trkpt lat=50.850531530 lon=16.704835970
+        ele402.600000ele
+        time2017-11-24T101908Ztime
+        speed3.350000speed
+      trkpt
+      trkpt lat=50.850437070 lon=16.704589620
+        ele404.000000ele
+        time2017-11-24T101914Ztime
+        speed3.350000speed
+      trkpt
+      trkpt lat=50.850338500 lon=16.704329620
+        ele405.000000ele
+        time2017-11-24T101920Ztime
+        speed3.350000speed
+      trkpt
+      trkpt lat=50.850236240 lon=16.704054350
+        ele406.600000ele
+        time2017-11-24T101927Ztime
+        speed3.359000speed
+      trkpt
+      trkpt lat=50.850128110 lon=16.703774650
+        ele405.400000ele
+        time2017-11-24T101933Ztime
+        speed3.359000speed
+      trkpt
+      trkpt lat=50.850011270 lon=16.703537270
+        ele403.000000ele
+        time2017-11-24T101939Ztime
+        speed3.406000speed
+      trkpt
+      trkpt lat=50.849998700 lon=16.703494530
+        ele402.600000ele
+        time2017-11-24T101940Ztime
+        speed3.415000speed
+      trkpt
+      trkpt lat=50.849902050 lon=16.703249360
+        ele400.200000ele
+        time2017-11-24T101946Ztime
+        speed3.424000speed
+      trkpt
+      trkpt lat=50.849800380 lon=16.703003180
+        ele395.400000ele
+        time2017-11-24T101952Ztime
+        speed3.424000speed
+      trkpt
+      trkpt lat=50.849683200 lon=16.702750130
+        ele392.000000ele
+        time2017-11-24T101958Ztime
+        speed3.434000speed
+      trkpt
+      trkpt lat=50.849572980 lon=16.702503530
+        ele391.000000ele
+        time2017-11-24T102004Ztime
+        speed3.443000speed
+      trkpt
+      trkpt lat=50.849493770 lon=16.702369590
+        ele391.000000ele
+        time2017-11-24T102008Ztime
+        speed3.462000speed
+      trkpt
+      trkpt lat=50.849356640 lon=16.702147300
+        ele385.200000ele
+        time2017-11-24T102015Ztime
+        speed3.452000speed
+      trkpt
+      trkpt lat=50.849196210 lon=16.701975470
+        ele382.400000ele
+        time2017-11-24T102021Ztime
+        speed3.424000speed
+      trkpt
+      trkpt lat=50.849044000 lon=16.701806490
+        ele380.600000ele
+        time2017-11-24T102027Ztime
+        speed3.424000speed
+      trkpt
+      trkpt lat=50.848867060 lon=16.701641960
+        ele380.200000ele
+        time2017-11-24T102034Ztime
+        speed3.424000speed
+      trkpt
+      trkpt lat=50.848702600 lon=16.701460150
+        ele378.800000ele
+        time2017-11-24T102040Ztime
+        speed3.415000speed
+      trkpt
+      trkpt lat=50.848536980 lon=16.701267540
+        ele377.600000ele
+        time2017-11-24T102046Ztime
+        speed3.443000speed
+      trkpt
+      trkpt lat=50.848369760 lon=16.701077020
+        ele375.200000ele
+        time2017-11-24T102053Ztime
+        speed3.490000speed
+      trkpt
+      trkpt lat=50.848205470 lon=16.700917850
+        ele375.200000ele
+        time2017-11-24T102059Ztime
+        speed3.480000speed
+      trkpt
+      trkpt lat=50.848033140 lon=16.700728670
+        ele373.800000ele
+        time2017-11-24T102106Ztime
+        speed3.480000speed
+      trkpt
+      trkpt lat=50.847874130 lon=16.700558930
+        ele372.600000ele
+        time2017-11-24T102112Ztime
+        speed3.471000speed
+      trkpt
+      trkpt lat=50.847702720 lon=16.700414180
+        ele369.800000ele
+        time2017-11-24T102118Ztime
+        speed3.471000speed
+      trkpt
+      trkpt lat=50.847514470 lon=16.700284760
+        ele368.000000ele
+        time2017-11-24T102124Ztime
+        speed3.490000speed
+      trkpt
+      trkpt lat=50.847344900 lon=16.700147880
+        ele366.400000ele
+        time2017-11-24T102130Ztime
+        speed3.518000speed
+      trkpt
+      trkpt lat=50.847159490 lon=16.700037240
+        ele364.200000ele
+        time2017-11-24T102137Ztime
+        speed3.527000speed
+      trkpt
+      trkpt lat=50.846974510 lon=16.699973710
+        ele362.800000ele
+        time2017-11-24T102144Ztime
+        speed3.490000speed
+      trkpt
+      trkpt lat=50.846895380 lon=16.699698530
+        ele363.600000ele
+        time2017-11-24T102152Ztime
+        speed3.415000speed
+      trkpt
+      trkpt lat=50.846822710 lon=16.699415810
+        ele362.000000ele
+        time2017-11-24T102200Ztime
+        speed3.294000speed
+      trkpt
+      trkpt lat=50.846731600 lon=16.699126380
+        ele363.200000ele
+        time2017-11-24T102208Ztime
+        speed3.172000speed
+      trkpt
+      trkpt lat=50.846635540 lon=16.698877690
+        ele363.600000ele
+        time2017-11-24T102214Ztime
+        speed3.126000speed
+      trkpt
+      trkpt lat=50.846555410 lon=16.698583900
+        ele365.600000ele
+        time2017-11-24T102221Ztime
+        speed3.135000speed
+      trkpt
+      trkpt lat=50.846568490 lon=16.698535620
+        ele365.000000ele
+        time2017-11-24T102222Ztime
+        speed3.135000speed
+      trkpt
+      trkpt lat=50.846641740 lon=16.698428000
+        ele364.800000ele
+        time2017-11-24T102226Ztime
+        speed3.144000speed
+      trkpt
+      trkpt lat=50.846777610 lon=16.698189030
+        ele365.200000ele
+        time2017-11-24T102233Ztime
+        speed3.126000speed
+      trkpt
+      trkpt lat=50.846878200 lon=16.698057940
+        ele364.200000ele
+        time2017-11-24T102237Ztime
+        speed3.135000speed
+      trkpt
+      trkpt lat=50.847035110 lon=16.697883510
+        ele362.400000ele
+        time2017-11-24T102243Ztime
+        speed3.172000speed
+      trkpt
+      trkpt lat=50.847198550 lon=16.697708500
+        ele360.000000ele
+        time2017-11-24T102250Ztime
+        speed3.219000speed
+      trkpt
+      trkpt lat=50.847345740 lon=16.697550500
+        ele359.800000ele
+        time2017-11-24T102257Ztime
+        speed3.219000speed
+      trkpt
+      trkpt lat=50.847532740 lon=16.697464670
+        ele365.000000ele
+        time2017-11-24T102306Ztime
+        speed3.135000speed
+      trkpt
+      trkpt lat=50.847724520 lon=16.697386800
+        ele373.000000ele
+        time2017-11-24T102316Ztime
+        speed2.976000speed
+      trkpt
+      trkpt lat=50.847902800 lon=16.697310610
+        ele378.200000ele
+        time2017-11-24T102325Ztime
+        speed2.818000speed
+      trkpt
+      trkpt lat=50.848021070 lon=16.697245150
+        ele381.400000ele
+        time2017-11-24T102331Ztime
+        speed2.734000speed
+      trkpt
+      trkpt lat=50.848121570 lon=16.697183790
+        ele382.200000ele
+        time2017-11-24T102336Ztime
+        speed2.678000speed
+      trkpt
+      trkpt lat=50.848309830 lon=16.697159740
+        ele386.200000ele
+        time2017-11-24T102345Ztime
+        speed2.594000speed
+      trkpt
+      trkpt lat=50.848494650 lon=16.697196360
+        ele390.600000ele
+        time2017-11-24T102353Ztime
+        speed2.566000speed
+      trkpt
+      trkpt lat=50.848676120 lon=16.697259730
+        ele395.600000ele
+        time2017-11-24T102404Ztime
+        speed2.482000speed
+      trkpt
+      trkpt lat=50.848783240 lon=16.697292590
+        ele398.400000ele
+        time2017-11-24T102410Ztime
+        speed2.417000speed
+      trkpt
+      trkpt lat=50.848870320 lon=16.697323600
+        ele400.000000ele
+        time2017-11-24T102415Ztime
+        speed2.361000speed
+      trkpt
+      trkpt lat=50.849049860 lon=16.697336680
+        ele403.800000ele
+        time2017-11-24T102425Ztime
+        speed2.286000speed
+      trkpt
+      trkpt lat=50.849237200 lon=16.697308180
+        ele406.200000ele
+        time2017-11-24T102434Ztime
+        speed2.249000speed
+      trkpt
+      trkpt lat=50.849252120 lon=16.697314470
+        ele406.600000ele
+        time2017-11-24T102435Ztime
+        speed2.249000speed
+      trkpt
+      trkpt lat=50.849334430 lon=16.697330980
+        ele407.000000ele
+        time2017-11-24T102440Ztime
+        speed2.221000speed
+      trkpt
+      trkpt lat=50.849538860 lon=16.697364170
+        ele407.400000ele
+        time2017-11-24T102451Ztime
+        speed2.127000speed
+      trkpt
+      trkpt lat=50.849616310 lon=16.697382190
+        ele408.400000ele
+        time2017-11-24T102455Ztime
+        speed2.137000speed
+      trkpt
+      trkpt lat=50.849793170 lon=16.697367270
+        ele411.400000ele
+        time2017-11-24T102504Ztime
+        speed2.146000speed
+      trkpt
+      trkpt lat=50.849984280 lon=16.697290580
+        ele414.400000ele
+        time2017-11-24T102515Ztime
+        speed2.146000speed
+      trkpt
+      trkpt lat=50.850172790 lon=16.697210870
+        ele417.800000ele
+        time2017-11-24T102525Ztime
+        speed2.127000speed
+      trkpt
+      trkpt lat=50.850205730 lon=16.697213040
+        ele418.800000ele
+        time2017-11-24T102527Ztime
+        speed2.127000speed
+      trkpt
+      trkpt lat=50.850387110 lon=16.697241790
+        ele424.200000ele
+        time2017-11-24T102536Ztime
+        speed2.118000speed
+      trkpt
+      trkpt lat=50.850570260 lon=16.697228720
+        ele427.800000ele
+        time2017-11-24T102546Ztime
+        speed2.137000speed
+      trkpt
+      trkpt lat=50.850606890 lon=16.697214390
+        ele428.000000ele
+        time2017-11-24T102548Ztime
+        speed2.127000speed
+      trkpt
+      trkpt lat=50.850672680 lon=16.697153870
+        ele428.400000ele
+        time2017-11-24T102552Ztime
+        speed2.118000speed
+      trkpt
+      trkpt lat=50.850825400 lon=16.696992270
+        ele427.800000ele
+        time2017-11-24T102602Ztime
+        speed2.127000speed
+      trkpt
+      trkpt lat=50.850879300 lon=16.696953880
+        ele429.000000ele
+        time2017-11-24T102606Ztime
+        speed2.109000speed
+      trkpt
+      trkpt lat=50.851035120 lon=16.696773920
+        ele431.000000ele
+        time2017-11-24T102617Ztime
+        speed2.053000speed
+      trkpt
+      trkpt lat=50.851116930 lon=16.696679620
+        ele432.200000ele
+        time2017-11-24T102623Ztime
+        speed2.034000speed
+      trkpt
+      trkpt lat=50.851272070 lon=16.696515840
+        ele434.800000ele
+        time2017-11-24T102633Ztime
+        speed2.015000speed
+      trkpt
+      trkpt lat=50.851312560 lon=16.696486840
+        ele436.400000ele
+        time2017-11-24T102636Ztime
+        speed2.015000speed
+      trkpt
+      trkpt lat=50.851491600 lon=16.696416510
+        ele440.000000ele
+        time2017-11-24T102646Ztime
+        speed1.997000speed
+      trkpt
+      trkpt lat=50.851547080 lon=16.696367900
+        ele441.200000ele
+        time2017-11-24T102650Ztime
+        speed1.997000speed
+      trkpt
+      trkpt lat=50.851723610 lon=16.696264380
+        ele443.400000ele
+        time2017-11-24T102700Ztime
+        speed1.969000speed
+      trkpt
+      trkpt lat=50.851862750 lon=16.696212750
+        ele446.400000ele
+        time2017-11-24T102708Ztime
+        speed1.997000speed
+      trkpt
+      trkpt lat=50.852035330 lon=16.696081490
+        ele449.800000ele
+        time2017-11-24T102719Ztime
+        speed1.987000speed
+      trkpt
+      trkpt lat=50.852174470 lon=16.695903290
+        ele452.800000ele
+        time2017-11-24T102730Ztime
+        speed1.978000speed
+      trkpt
+      trkpt lat=50.852290560 lon=16.695760210
+        ele453.800000ele
+        time2017-11-24T102739Ztime
+        speed1.950000speed
+      trkpt
+      trkpt lat=50.852336240 lon=16.695701700
+        ele453.800000ele
+        time2017-11-24T102743Ztime
+        speed1.931000speed
+      trkpt
+      trkpt lat=50.852475800 lon=16.695507580
+        ele454.000000ele
+        time2017-11-24T102755Ztime
+        speed1.847000speed
+      trkpt
+      trkpt lat=50.852603370 lon=16.695303230
+        ele453.800000ele
+        time2017-11-24T102804Ztime
+        speed1.857000speed
+      trkpt
+      trkpt lat=50.852730860 lon=16.695076500
+        ele455.200000ele
+        time2017-11-24T102814Ztime
+        speed1.941000speed
+      trkpt
+      trkpt lat=50.852763630 lon=16.694994100
+        ele457.000000ele
+        time2017-11-24T102818Ztime
+        speed1.959000speed
+      trkpt
+      trkpt lat=50.852864720 lon=16.694722450
+        ele460.200000ele
+        time2017-11-24T102828Ztime
+        speed1.959000speed
+      trkpt
+      trkpt lat=50.852952390 lon=16.694461850
+        ele460.200000ele
+        time2017-11-24T102837Ztime
+        speed2.043000speed
+      trkpt
+      trkpt lat=50.853038480 lon=16.694196060
+        ele460.800000ele
+        time2017-11-24T102847Ztime
+        speed2.090000speed
+      trkpt
+      trkpt lat=50.853190690 lon=16.694004120
+        ele463.000000ele
+        time2017-11-24T102857Ztime
+        speed2.109000speed
+      trkpt
+      trkpt lat=50.853243410 lon=16.693969670
+        ele463.800000ele
+        time2017-11-24T102900Ztime
+        speed2.118000speed
+      trkpt
+      trkpt lat=50.853371070 lon=16.693826340
+        ele464.200000ele
+        time2017-11-24T102907Ztime
+        speed2.146000speed
+      trkpt
+      trkpt lat=50.853487080 lon=16.693729270
+        ele464.800000ele
+        time2017-11-24T102914Ztime
+        speed2.165000speed
+      trkpt
+      trkpt lat=50.853631580 lon=16.693654340
+        ele466.400000ele
+        time2017-11-24T102923Ztime
+        speed2.146000speed
+      trkpt
+      trkpt lat=50.853711460 lon=16.693603800
+        ele467.200000ele
+        time2017-11-24T102928Ztime
+        speed2.127000speed
+      trkpt
+      trkpt lat=50.853806590 lon=16.693609500
+        ele469.000000ele
+        time2017-11-24T102934Ztime
+        speed2.090000speed
+      trkpt
+      trkpt lat=50.853822440 lon=16.693615360
+        ele469.400000ele
+        time2017-11-24T102935Ztime
+        speed2.081000speed
+      trkpt
+      trkpt lat=50.853865690 lon=16.693684350
+        ele469.800000ele
+        time2017-11-24T102939Ztime
+        speed2.053000speed
+      trkpt
+      trkpt lat=50.853914640 lon=16.693737490
+        ele469.800000ele
+        time2017-11-24T102942Ztime
+        speed2.034000speed
+      trkpt
+      trkpt lat=50.854100040 lon=16.693806890
+        ele470.800000ele
+        time2017-11-24T102952Ztime
+        speed1.997000speed
+      trkpt
+      trkpt lat=50.854119910 lon=16.693809660
+        ele471.000000ele
+        time2017-11-24T102953Ztime
+        speed1.997000speed
+      trkpt
+      trkpt lat=50.854133910 lon=16.693820050
+        ele471.000000ele
+        time2017-11-24T102954Ztime
+        speed1.997000speed
+      trkpt
+      trkpt lat=50.854316210 lon=16.693860790
+        ele476.800000ele
+        time2017-11-24T103004Ztime
+        speed2.025000speed
+      trkpt
+      trkpt lat=50.854497680 lon=16.693864560
+        ele480.400000ele
+        time2017-11-24T103012Ztime
+        speed2.053000speed
+      trkpt
+      trkpt lat=50.854603550 lon=16.693871930
+        ele481.000000ele
+        time2017-11-24T103018Ztime
+        speed2.099000speed
+      trkpt
+      trkpt lat=50.854800600 lon=16.693864050
+        ele484.800000ele
+        time2017-11-24T103029Ztime
+        speed2.081000speed
+      trkpt
+      trkpt lat=50.854980310 lon=16.693814770
+        ele488.400000ele
+        time2017-11-24T103039Ztime
+        speed2.071000speed
+      trkpt
+      trkpt lat=50.855170500 lon=16.693787030
+        ele490.400000ele
+        time2017-11-24T103049Ztime
+        speed2.081000speed
+      trkpt
+      trkpt lat=50.855186930 lon=16.693782420
+        ele490.200000ele
+        time2017-11-24T103050Ztime
+        speed2.081000speed
+      trkpt
+      trkpt lat=50.855366470 lon=16.693734390
+        ele491.000000ele
+        time2017-11-24T103101Ztime
+        speed2.053000speed
+      trkpt
+      trkpt lat=50.855551040 lon=16.693656770
+        ele493.800000ele
+        time2017-11-24T103112Ztime
+        speed2.006000speed
+      trkpt
+      trkpt lat=50.855712640 lon=16.693511260
+        ele495.400000ele
+        time2017-11-24T103122Ztime
+        speed2.006000speed
+      trkpt
+      trkpt lat=50.855878270 lon=16.693342110
+        ele500.200000ele
+        time2017-11-24T103133Ztime
+        speed2.006000speed
+      trkpt
+      trkpt lat=50.856050850 lon=16.693226860
+        ele505.200000ele
+        time2017-11-24T103146Ztime
+        speed1.950000speed
+      trkpt
+      trkpt lat=50.856231980 lon=16.693143710
+        ele507.600000ele
+        time2017-11-24T103156Ztime
+        speed1.903000speed
+      trkpt
+      trkpt lat=50.856373470 lon=16.693106330
+        ele508.800000ele
+        time2017-11-24T103204Ztime
+        speed1.903000speed
+      trkpt
+      trkpt lat=50.856570360 lon=16.693093170
+        ele509.400000ele
+        time2017-11-24T103213Ztime
+        speed1.941000speed
+      trkpt
+      trkpt lat=50.856709250 lon=16.693067190
+        ele512.600000ele
+        time2017-11-24T103220Ztime
+        speed2.015000speed
+      trkpt
+      trkpt lat=50.856789550 lon=16.693066600
+        ele514.200000ele
+        time2017-11-24T103224Ztime
+        speed2.043000speed
+      trkpt
+      trkpt lat=50.856979560 lon=16.693115470
+        ele515.200000ele
+        time2017-11-24T103233Ztime
+        speed2.081000speed
+      trkpt
+      trkpt lat=50.857039660 lon=16.693135250
+        ele516.200000ele
+        time2017-11-24T103236Ztime
+        speed2.109000speed
+      trkpt
+      trkpt lat=50.857216600 lon=16.693200710
+        ele518.200000ele
+        time2017-11-24T103244Ztime
+        speed2.174000speed
+      trkpt
+      trkpt lat=50.857389440 lon=16.693282100
+        ele520.800000ele
+        time2017-11-24T103251Ztime
+        speed2.239000speed
+      trkpt
+      trkpt lat=50.857566130 lon=16.693360220
+        ele525.400000ele
+        time2017-11-24T103259Ztime
+        speed2.333000speed
+      trkpt
+      trkpt lat=50.857730080 lon=16.693498350
+        ele524.200000ele
+        time2017-11-24T103306Ztime
+        speed2.398000speed
+      trkpt
+      trkpt lat=50.857883130 lon=16.693655430
+        ele524.800000ele
+        time2017-11-24T103316Ztime
+        speed2.435000speed
+      trkpt
+      trkpt lat=50.858048930 lon=16.693808400
+        ele525.800000ele
+        time2017-11-24T103326Ztime
+        speed2.379000speed
+      trkpt
+      trkpt lat=50.858219580 lon=16.693912670
+        ele527.000000ele
+        time2017-11-24T103335Ztime
+        speed2.342000speed
+      trkpt
+      trkpt lat=50.858360310 lon=16.694064210
+        ele530.800000ele
+        time2017-11-24T103344Ztime
+        speed2.305000speed
+      trkpt
+      trkpt lat=50.858413620 lon=16.694159600
+        ele533.200000ele
+        time2017-11-24T103349Ztime
+        speed2.277000speed
+      trkpt
+      trkpt lat=50.858429550 lon=16.694171920
+        ele533.400000ele
+        time2017-11-24T103350Ztime
+        speed2.267000speed
+      trkpt
+      trkpt lat=50.858498870 lon=16.694215840
+        ele534.800000ele
+        time2017-11-24T103354Ztime
+        speed2.239000speed
+      trkpt
+      trkpt lat=50.858672880 lon=16.694330590
+        ele539.600000ele
+        time2017-11-24T103404Ztime
+        speed2.183000speed
+      trkpt
+      trkpt lat=50.858688300 lon=16.694345090
+        ele540.000000ele
+        time2017-11-24T103405Ztime
+        speed2.183000speed
+      trkpt
+      trkpt lat=50.858824920 lon=16.694559330
+        ele541.400000ele
+        time2017-11-24T103415Ztime
+        speed2.127000speed
+      trkpt
+      trkpt lat=50.858889880 lon=16.694783470
+        ele541.400000ele
+        time2017-11-24T103423Ztime
+        speed2.127000speed
+      trkpt
+      trkpt lat=50.859061960 lon=16.694907020
+        ele544.200000ele
+        time2017-11-24T103435Ztime
+        speed2.090000speed
+      trkpt
+      trkpt lat=50.859080400 lon=16.694901150
+        ele544.400000ele
+        time2017-11-24T103436Ztime
+        speed2.081000speed
+      trkpt
+      trkpt lat=50.859215100 lon=16.694927300
+        ele547.400000ele
+        time2017-11-24T103443Ztime
+        speed2.062000speed
+      trkpt
+      trkpt lat=50.859379220 lon=16.695086560
+        ele552.200000ele
+        time2017-11-24T103454Ztime
+        speed2.043000speed
+      trkpt
+      trkpt lat=50.859514250 lon=16.695246310
+        ele555.600000ele
+        time2017-11-24T103503Ztime
+        speed2.025000speed
+      trkpt
+      trkpt lat=50.859585410 lon=16.695367850
+        ele558.000000ele
+        time2017-11-24T103509Ztime
+        speed2.034000speed
+      trkpt
+      trkpt lat=50.859723300 lon=16.695555940
+        ele561.800000ele
+        time2017-11-24T103520Ztime
+        speed2.015000speed
+      trkpt
+      trkpt lat=50.859871820 lon=16.695750070
+        ele564.400000ele
+        time2017-11-24T103532Ztime
+        speed1.950000speed
+      trkpt
+      trkpt lat=50.859952880 lon=16.696004120
+        ele567.400000ele
+        time2017-11-24T103542Ztime
+        speed1.931000speed
+      trkpt
+      trkpt lat=50.859986660 lon=16.696298330
+        ele571.000000ele
+        time2017-11-24T103552Ztime
+        speed1.950000speed
+      trkpt
+      trkpt lat=50.859987830 lon=16.696357590
+        ele571.600000ele
+        time2017-11-24T103554Ztime
+        speed1.959000speed
+      trkpt
+      trkpt lat=50.859994370 lon=16.696475100
+        ele573.000000ele
+        time2017-11-24T103558Ztime
+        speed1.969000speed
+      trkpt
+      trkpt lat=50.860063270 lon=16.696740720
+        ele575.200000ele
+        time2017-11-24T103610Ztime
+        speed1.969000speed
+      trkpt
+      trkpt lat=50.860204840 lon=16.696948680
+        ele578.200000ele
+        time2017-11-24T103621Ztime
+        speed1.922000speed
+      trkpt
+      trkpt lat=50.860295610 lon=16.697200810
+        ele580.600000ele
+        time2017-11-24T103635Ztime
+        speed1.847000speed
+      trkpt
+      trkpt lat=50.860371470 lon=16.697387560
+        ele582.400000ele
+        time2017-11-24T103644Ztime
+        speed1.791000speed
+      trkpt
+      trkpt lat=50.860416560 lon=16.697505240
+        ele584.400000ele
+        time2017-11-24T103650Ztime
+        speed1.764000speed
+      trkpt
+      trkpt lat=50.860470790 lon=16.697647810
+        ele587.200000ele
+        time2017-11-24T103657Ztime
+        speed1.745000speed
+      trkpt
+      trkpt lat=50.860553100 lon=16.697917960
+        ele593.200000ele
+        time2017-11-24T103709Ztime
+        speed1.736000speed
+      trkpt
+      trkpt lat=50.860598700 lon=16.698215440
+        ele598.800000ele
+        time2017-11-24T103719Ztime
+        speed1.782000speed
+      trkpt
+      trkpt lat=50.860630390 lon=16.698536550
+        ele602.200000ele
+        time2017-11-24T103732Ztime
+        speed1.847000speed
+      trkpt
+      trkpt lat=50.860590320 lon=16.698810970
+        ele603.800000ele
+        time2017-11-24T103742Ztime
+        speed1.866000speed
+      trkpt
+      trkpt lat=50.860566430 lon=16.699113470
+        ele606.200000ele
+        time2017-11-24T103752Ztime
+        speed1.903000speed
+      trkpt
+      trkpt lat=50.860622170 lon=16.699386890
+        ele608.800000ele
+        time2017-11-24T103802Ztime
+        speed1.959000speed
+      trkpt
+      trkpt lat=50.860694930 lon=16.699677910
+        ele612.000000ele
+        time2017-11-24T103816Ztime
+        speed1.922000speed
+      trkpt
+      trkpt lat=50.860706410 lon=16.699697860
+        ele612.400000ele
+        time2017-11-24T103817Ztime
+        speed1.913000speed
+      trkpt
+      trkpt lat=50.860734400 lon=16.699768350
+        ele613.400000ele
+        time2017-11-24T103821Ztime
+        speed1.885000speed
+      trkpt
+      trkpt lat=50.860781760 lon=16.699890480
+        ele615.200000ele
+        time2017-11-24T103827Ztime
+        speed1.829000speed
+      trkpt
+      trkpt lat=50.860859300 lon=16.700163890
+        ele618.400000ele
+        time2017-11-24T103837Ztime
+        speed1.810000speed
+      trkpt
+      trkpt lat=50.860946470 lon=16.700451730
+        ele621.000000ele
+        time2017-11-24T103847Ztime
+        speed1.885000speed
+      trkpt
+      trkpt lat=50.860988540 lon=16.700546530
+        ele621.600000ele
+        time2017-11-24T103851Ztime
+        speed1.922000speed
+      trkpt
+      trkpt lat=50.860992820 lon=16.700597490
+        ele622.200000ele
+        time2017-11-24T103853Ztime
+        speed1.941000speed
+      trkpt
+      trkpt lat=50.861090470 lon=16.700870660
+        ele623.000000ele
+        time2017-11-24T103901Ztime
+        speed1.997000speed
+      trkpt
+      trkpt lat=50.861191300 lon=16.701114320
+        ele624.000000ele
+        time2017-11-24T103910Ztime
+        speed2.118000speed
+      trkpt
+      trkpt lat=50.861339080 lon=16.701306180
+        ele624.200000ele
+        time2017-11-24T103920Ztime
+        speed2.146000speed
+      trkpt
+      trkpt lat=50.861461370 lon=16.701546240
+        ele623.600000ele
+        time2017-11-24T103929Ztime
+        speed2.183000speed
+      trkpt
+      trkpt lat=50.861551810 lon=16.701817560
+        ele624.000000ele
+        time2017-11-24T103938Ztime
+        speed2.211000speed
+      trkpt
+      trkpt lat=50.861639320 lon=16.702074550
+        ele624.800000ele
+        time2017-11-24T103946Ztime
+        speed2.249000speed
+      trkpt
+      trkpt lat=50.861727660 lon=16.702357350
+        ele627.800000ele
+        time2017-11-24T103954Ztime
+        speed2.314000speed
+      trkpt
+      trkpt lat=50.861808880 lon=16.702647370
+        ele629.000000ele
+        time2017-11-24T104002Ztime
+        speed2.379000speed
+      trkpt
+      trkpt lat=50.861922040 lon=16.702889440
+        ele631.000000ele
+        time2017-11-24T104010Ztime
+        speed2.463000speed
+      trkpt
+      trkpt lat=50.861947600 lon=16.702931090
+        ele631.600000ele
+        time2017-11-24T104012Ztime
+        speed2.482000speed
+      trkpt
+      trkpt lat=50.862106190 lon=16.703104940
+        ele634.400000ele
+        time2017-11-24T104020Ztime
+        speed2.491000speed
+      trkpt
+      trkpt lat=50.862138210 lon=16.703152960
+        ele635.000000ele
+        time2017-11-24T104022Ztime
+        speed2.501000speed
+      trkpt
+      trkpt lat=50.862221020 lon=16.703443650
+        ele639.000000ele
+        time2017-11-24T104031Ztime
+        speed2.519000speed
+      trkpt
+      trkpt lat=50.862226640 lon=16.703475500
+        ele639.200000ele
+        time2017-11-24T104032Ztime
+        speed2.519000speed
+      trkpt
+      trkpt lat=50.862253120 lon=16.703653530
+        ele640.600000ele
+        time2017-11-24T104038Ztime
+        speed2.501000speed
+      trkpt
+      trkpt lat=50.862293940 lon=16.703788060
+        ele643.400000ele
+        time2017-11-24T104043Ztime
+        speed2.482000speed
+      trkpt
+      trkpt lat=50.862334590 lon=16.704067180
+        ele649.200000ele
+        time2017-11-24T104053Ztime
+        speed2.417000speed
+      trkpt
+      trkpt lat=50.862330150 lon=16.704252840
+        ele651.800000ele
+        time2017-11-24T104059Ztime
+        speed2.370000speed
+      trkpt
+      trkpt lat=50.862288750 lon=16.704537240
+        ele653.400000ele
+        time2017-11-24T104107Ztime
+        speed2.333000speed
+      trkpt
+      trkpt lat=50.862257730 lon=16.704820460
+        ele657.000000ele
+        time2017-11-24T104115Ztime
+        speed2.361000speed
+      trkpt
+      trkpt lat=50.862304750 lon=16.705084740
+        ele657.600000ele
+        time2017-11-24T104127Ztime
+        speed2.305000speed
+      trkpt
+      trkpt lat=50.862388830 lon=16.705346760
+        ele657.000000ele
+        time2017-11-24T104136Ztime
+        speed2.202000speed
+      trkpt
+      trkpt lat=50.862397120 lon=16.705542140
+        ele657.600000ele
+        time2017-11-24T104142Ztime
+        speed2.193000speed
+      trkpt
+      trkpt lat=50.862382120 lon=16.705844390
+        ele660.200000ele
+        time2017-11-24T104149Ztime
+        speed2.221000speed
+      trkpt
+      trkpt lat=50.862387320 lon=16.705910270
+        ele661.000000ele
+        time2017-11-24T104151Ztime
+        speed2.249000speed
+      trkpt
+      trkpt lat=50.862433080 lon=16.706204730
+        ele664.000000ele
+        time2017-11-24T104159Ztime
+        speed2.323000speed
+      trkpt
+      trkpt lat=50.862502900 lon=16.706487540
+        ele667.200000ele
+        time2017-11-24T104209Ztime
+        speed2.389000speed
+      trkpt
+      trkpt lat=50.862512370 lon=16.706776630
+        ele670.400000ele
+        time2017-11-24T104221Ztime
+        speed2.295000speed
+      trkpt
+      trkpt lat=50.862534590 lon=16.706909150
+        ele671.600000ele
+        time2017-11-24T104227Ztime
+        speed2.211000speed
+      trkpt
+      trkpt lat=50.862615140 lon=16.707032440
+        ele673.000000ele
+        time2017-11-24T104234Ztime
+        speed2.118000speed
+      trkpt
+      trkpt lat=50.862760230 lon=16.707235120
+        ele674.600000ele
+        time2017-11-24T104245Ztime
+        speed2.025000speed
+      trkpt
+      trkpt lat=50.862778080 lon=16.707278030
+        ele674.800000ele
+        time2017-11-24T104247Ztime
+        speed2.015000speed
+      trkpt
+      trkpt lat=50.862850750 lon=16.707488750
+        ele674.600000ele
+        time2017-11-24T104254Ztime
+        speed2.006000speed
+      trkpt
+      trkpt lat=50.862954020 lon=16.707737610
+        ele673.600000ele
+        time2017-11-24T104303Ztime
+        speed2.053000speed
+      trkpt
+      trkpt lat=50.862978160 lon=16.707808780
+        ele673.600000ele
+        time2017-11-24T104305Ztime
+        speed2.062000speed
+      trkpt
+      trkpt lat=50.863051920 lon=16.707987310
+        ele672.800000ele
+        time2017-11-24T104311Ztime
+        speed2.118000speed
+      trkpt
+      trkpt lat=50.863136160 lon=16.708077830
+        ele672.200000ele
+        time2017-11-24T104315Ztime
+        speed2.165000speed
+      trkpt
+      trkpt lat=50.863302030 lon=16.708258970
+        ele672.000000ele
+        time2017-11-24T104322Ztime
+        speed2.258000speed
+      trkpt
+      trkpt lat=50.863459360 lon=16.708428870
+        ele673.400000ele
+        time2017-11-24T104328Ztime
+        speed2.389000speed
+      trkpt
+      trkpt lat=50.863638400 lon=16.708487630
+        ele674.800000ele
+        time2017-11-24T104336Ztime
+        speed2.538000speed
+      trkpt
+      trkpt lat=50.863818440 lon=16.708552330
+        ele676.800000ele
+        time2017-11-24T104344Ztime
+        speed2.594000speed
+      trkpt
+      trkpt lat=50.863999580 lon=16.708570690
+        ele679.800000ele
+        time2017-11-24T104352Ztime
+        speed2.594000speed
+      trkpt
+      trkpt lat=50.864083310 lon=16.708597010
+        ele681.200000ele
+        time2017-11-24T104356Ztime
+        speed2.594000speed
+      trkpt
+      trkpt lat=50.864215490 lon=16.708688960
+        ele684.000000ele
+        time2017-11-24T104402Ztime
+        speed2.585000speed
+      trkpt
+      trkpt lat=50.864393610 lon=16.708755510
+        ele688.600000ele
+        time2017-11-24T104410Ztime
+        speed2.575000speed
+      trkpt
+      trkpt lat=50.864573070 lon=16.708708740
+        ele689.800000ele
+        time2017-11-24T104418Ztime
+        speed2.575000speed
+      trkpt
+      trkpt lat=50.864757300 lon=16.708652500
+        ele696.200000ele
+        time2017-11-24T104427Ztime
+        speed2.557000speed
+      trkpt
+      trkpt lat=50.864958130 lon=16.708680490
+        ele699.200000ele
+        time2017-11-24T104435Ztime
+        speed2.538000speed
+      trkpt
+      trkpt lat=50.865083020 lon=16.708767500
+        ele697.600000ele
+        time2017-11-24T104442Ztime
+        speed2.538000speed
+      trkpt
+      trkpt lat=50.865122670 lon=16.708755850
+        ele697.000000ele
+        time2017-11-24T104446Ztime
+        speed1.381000speed
+      trkpt
+      trkpt lat=50.865142620 lon=16.708707900
+        ele697.600000ele
+        time2017-11-24T104452Ztime
+        speed1.017000speed
+      trkpt
+      trkpt lat=50.865079160 lon=16.708548140
+        ele697.000000ele
+        time2017-11-24T104506Ztime
+        speed1.456000speed
+      trkpt
+      trkpt lat=50.865072790 lon=16.708491900
+        ele696.800000ele
+        time2017-11-24T104511Ztime
+        speed0.989000speed
+      trkpt
+      trkpt lat=50.865075900 lon=16.708430880
+        ele696.400000ele
+        time2017-11-24T104517Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.865062650 lon=16.708378410
+        ele697.600000ele
+        time2017-11-24T104523Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.865031560 lon=16.708328290
+        ele698.800000ele
+        time2017-11-24T104531Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.864980090 lon=16.708060400
+        ele702.800000ele
+        time2017-11-24T104554Ztime
+        speed1.082000speed
+      trkpt
+      trkpt lat=50.864969190 lon=16.707962920
+        ele703.600000ele
+        time2017-11-24T104600Ztime
+        speed1.129000speed
+      trkpt
+      trkpt lat=50.864926110 lon=16.707902570
+        ele703.600000ele
+        time2017-11-24T104604Ztime
+        speed1.157000speed
+      trkpt
+      trkpt lat=50.864740030 lon=16.707771560
+        ele704.000000ele
+        time2017-11-24T104613Ztime
+        speed1.428000speed
+      trkpt
+      trkpt lat=50.864670130 lon=16.707723200
+        ele703.400000ele
+        time2017-11-24T104617Ztime
+        speed1.633000speed
+      trkpt
+      trkpt lat=50.864476510 lon=16.707685230
+        ele701.200000ele
+        time2017-11-24T104625Ztime
+        speed2.678000speed
+      trkpt
+      trkpt lat=50.864294700 lon=16.707655300
+        ele700.200000ele
+        time2017-11-24T104634Ztime
+        speed2.407000speed
+      trkpt
+      trkpt lat=50.864173420 lon=16.707560170
+        ele702.000000ele
+        time2017-11-24T104642Ztime
+        speed1.726000speed
+      trkpt
+      trkpt lat=50.864167380 lon=16.707553630
+        ele702.200000ele
+        time2017-11-24T104643Ztime
+        speed2.454000speed
+      trkpt
+      trkpt lat=50.864107200 lon=16.707535940
+        ele704.200000ele
+        time2017-11-24T104650Ztime
+        speed0.998000speed
+      trkpt
+      trkpt lat=50.864079200 lon=16.707450620
+        ele703.400000ele
+        time2017-11-24T104658Ztime
+        speed0.961000speed
+      trkpt
+      trkpt lat=50.864088840 lon=16.707413400
+        ele703.200000ele
+        time2017-11-24T104719Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.864059760 lon=16.707408790
+        ele703.800000ele
+        time2017-11-24T104723Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.864038970 lon=16.707402840
+        ele703.600000ele
+        time2017-11-24T104727Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.864045420 lon=16.707409880
+        ele703.600000ele
+        time2017-11-24T104730Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.864049950 lon=16.707422870
+        ele703.600000ele
+        time2017-11-24T104732Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.864042570 lon=16.707414830
+        ele703.600000ele
+        time2017-11-24T104734Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.864041900 lon=16.707378530
+        ele703.400000ele
+        time2017-11-24T104737Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.864053810 lon=16.707450700
+        ele703.400000ele
+        time2017-11-24T104744Ztime
+        speed1.250000speed
+      trkpt
+      trkpt lat=50.864130920 lon=16.707523790
+        ele703.400000ele
+        time2017-11-24T104753Ztime
+        speed1.185000speed
+      trkpt
+      trkpt lat=50.864162020 lon=16.707543150
+        ele703.000000ele
+        time2017-11-24T104757Ztime
+        speed1.176000speed
+      trkpt
+      trkpt lat=50.864184730 lon=16.707463690
+        ele702.600000ele
+        time2017-11-24T104803Ztime
+        speed1.157000speed
+      trkpt
+      trkpt lat=50.864192020 lon=16.707448190
+        ele702.200000ele
+        time2017-11-24T104819Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.864197220 lon=16.707440390
+        ele702.000000ele
+        time2017-11-24T104828Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.864218090 lon=16.707562010
+        ele701.200000ele
+        time2017-11-24T104923Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.864316660 lon=16.707615410
+        ele701.400000ele
+        time2017-11-24T104937Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.864395790 lon=16.707634430
+        ele701.200000ele
+        time2017-11-24T104944Ztime
+        speed1.045000speed
+      trkpt
+      trkpt lat=50.864455470 lon=16.707669890
+        ele701.000000ele
+        time2017-11-24T104948Ztime
+        speed1.064000speed
+      trkpt
+      trkpt lat=50.864595530 lon=16.707673740
+        ele702.000000ele
+        time2017-11-24T104954Ztime
+        speed1.250000speed
+      trkpt
+      trkpt lat=50.864653450 lon=16.707675340
+        ele702.400000ele
+        time2017-11-24T104957Ztime
+        speed2.669000speed
+      trkpt
+      trkpt lat=50.864730640 lon=16.707741640
+        ele702.000000ele
+        time2017-11-24T105001Ztime
+        speed2.211000speed
+      trkpt
+      trkpt lat=50.864861240 lon=16.707810620
+        ele701.800000ele
+        time2017-11-24T105007Ztime
+        speed2.706000speed
+      trkpt
+      trkpt lat=50.865000210 lon=16.707693270
+        ele702.000000ele
+        time2017-11-24T105014Ztime
+        speed2.725000speed
+      trkpt
+      trkpt lat=50.865119480 lon=16.707763180
+        ele700.600000ele
+        time2017-11-24T105019Ztime
+        speed2.669000speed
+      trkpt
+      trkpt lat=50.865198360 lon=16.708002150
+        ele697.600000ele
+        time2017-11-24T105025Ztime
+        speed2.715000speed
+      trkpt
+      trkpt lat=50.865243620 lon=16.708163160
+        ele694.800000ele
+        time2017-11-24T105029Ztime
+        speed2.781000speed
+      trkpt
+      trkpt lat=50.865386190 lon=16.708307750
+        ele693.000000ele
+        time2017-11-24T105035Ztime
+        speed2.883000speed
+      trkpt
+      trkpt lat=50.865460790 lon=16.708442450
+        ele693.200000ele
+        time2017-11-24T105044Ztime
+        speed2.809000speed
+      trkpt
+      trkpt lat=50.865446790 lon=16.708646040
+        ele693.600000ele
+        time2017-11-24T105050Ztime
+        speed2.557000speed
+      trkpt
+      trkpt lat=50.865444030 lon=16.708882500
+        ele695.800000ele
+        time2017-11-24T105059Ztime
+        speed2.398000speed
+      trkpt
+      trkpt lat=50.865482920 lon=16.708922810
+        ele695.800000ele
+        time2017-11-24T105106Ztime
+        speed2.118000speed
+      trkpt
+      trkpt lat=50.865532960 lon=16.708924740
+        ele695.800000ele
+        time2017-11-24T105117Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.865683160 lon=16.709033960
+        ele695.400000ele
+        time2017-11-24T105123Ztime
+        speed3.415000speed
+      trkpt
+      trkpt lat=50.865710410 lon=16.709083830
+        ele694.000000ele
+        time2017-11-24T105125Ztime
+        speed3.331000speed
+      trkpt
+      trkpt lat=50.865764970 lon=16.709344260
+        ele688.000000ele
+        time2017-11-24T105132Ztime
+        speed2.874000speed
+      trkpt
+      trkpt lat=50.865810070 lon=16.709527070
+        ele683.000000ele
+        time2017-11-24T105137Ztime
+        speed2.874000speed
+      trkpt
+      trkpt lat=50.865868820 lon=16.709638380
+        ele678.600000ele
+        time2017-11-24T105141Ztime
+        speed2.659000speed
+      trkpt
+      trkpt lat=50.865936630 lon=16.709853620
+        ele671.600000ele
+        time2017-11-24T105146Ztime
+        speed2.687000speed
+      trkpt
+      trkpt lat=50.865960270 lon=16.710035430
+        ele667.600000ele
+        time2017-11-24T105150Ztime
+        speed2.771000speed
+      trkpt
+      trkpt lat=50.865951130 lon=16.710168530
+        ele665.800000ele
+        time2017-11-24T105153Ztime
+        speed2.846000speed
+      trkpt
+      trkpt lat=50.865915260 lon=16.710286550
+        ele663.200000ele
+        time2017-11-24T105156Ztime
+        speed2.902000speed
+      trkpt
+      trkpt lat=50.865819870 lon=16.710437010
+        ele659.400000ele
+        time2017-11-24T105201Ztime
+        speed2.976000speed
+      trkpt
+      trkpt lat=50.865695820 lon=16.710677650
+        ele654.800000ele
+        time2017-11-24T105208Ztime
+        speed2.995000speed
+      trkpt
+      trkpt lat=50.865720550 lon=16.710962300
+        ele649.800000ele
+        time2017-11-24T105214Ztime
+        speed3.079000speed
+      trkpt
+      trkpt lat=50.865764050 lon=16.711259350
+        ele645.600000ele
+        time2017-11-24T105221Ztime
+        speed3.583000speed
+      trkpt
+      trkpt lat=50.865789700 lon=16.711563450
+        ele644.200000ele
+        time2017-11-24T105228Ztime
+        speed3.070000speed
+      trkpt
+      trkpt lat=50.865860360 lon=16.711869980
+        ele643.200000ele
+        time2017-11-24T105235Ztime
+        speed3.079000speed
+      trkpt
+      trkpt lat=50.865944850 lon=16.712146830
+        ele641.600000ele
+        time2017-11-24T105241Ztime
+        speed3.135000speed
+      trkpt
+      trkpt lat=50.866070740 lon=16.712358810
+        ele638.800000ele
+        time2017-11-24T105247Ztime
+        speed3.256000speed
+      trkpt
+      trkpt lat=50.866229160 lon=16.712508930
+        ele638.000000ele
+        time2017-11-24T105253Ztime
+        speed3.303000speed
+      trkpt
+      trkpt lat=50.866320190 lon=16.712605400
+        ele636.600000ele
+        time2017-11-24T105257Ztime
+        speed3.331000speed
+      trkpt
+      trkpt lat=50.866472320 lon=16.712785870
+        ele639.400000ele
+        time2017-11-24T105303Ztime
+        speed3.340000speed
+      trkpt
+      trkpt lat=50.866570890 lon=16.712857530
+        ele640.400000ele
+        time2017-11-24T105307Ztime
+        speed3.359000speed
+      trkpt
+      trkpt lat=50.866752700 lon=16.712932470
+        ele643.000000ele
+        time2017-11-24T105314Ztime
+        speed3.266000speed
+      trkpt
+      trkpt lat=50.866920330 lon=16.713090630
+        ele643.000000ele
+        time2017-11-24T105321Ztime
+        speed3.135000speed
+      trkpt
+      trkpt lat=50.866952440 lon=16.713120300
+        ele643.400000ele
+        time2017-11-24T105322Ztime
+        speed3.126000speed
+      trkpt
+      trkpt lat=50.867134160 lon=16.713243770
+        ele643.000000ele
+        time2017-11-24T105330Ztime
+        speed3.172000speed
+      trkpt
+      trkpt lat=50.867304730 lon=16.713327670
+        ele641.000000ele
+        time2017-11-24T105339Ztime
+        speed2.174000speed
+      trkpt
+      trkpt lat=50.867367840 lon=16.713341590
+        ele639.800000ele
+        time2017-11-24T105341Ztime
+        speed2.193000speed
+      trkpt
+      trkpt lat=50.867549060 lon=16.713349050
+        ele634.000000ele
+        time2017-11-24T105348Ztime
+        speed2.398000speed
+      trkpt
+      trkpt lat=50.867740750 lon=16.713337230
+        ele628.600000ele
+        time2017-11-24T105355Ztime
+        speed2.575000speed
+      trkpt
+      trkpt lat=50.867928510 lon=16.713324320
+        ele624.200000ele
+        time2017-11-24T105403Ztime
+        speed2.697000speed
+      trkpt
+      trkpt lat=50.868004780 lon=16.713372850
+        ele622.200000ele
+        time2017-11-24T105407Ztime
+        speed2.697000speed
+      trkpt
+      trkpt lat=50.868049120 lon=16.713464460
+        ele619.800000ele
+        time2017-11-24T105411Ztime
+        speed2.650000speed
+      trkpt
+      trkpt lat=50.868067480 lon=16.713486170
+        ele619.400000ele
+        time2017-11-24T105412Ztime
+        speed2.631000speed
+      trkpt
+      trkpt lat=50.868214000 lon=16.713720030
+        ele615.600000ele
+        time2017-11-24T105418Ztime
+        speed2.575000speed
+      trkpt
+      trkpt lat=50.868291700 lon=16.714006190
+        ele613.400000ele
+        time2017-11-24T105424Ztime
+        speed2.818000speed
+      trkpt
+      trkpt lat=50.868306200 lon=16.714272820
+        ele613.600000ele
+        time2017-11-24T105430Ztime
+        speed3.051000speed
+      trkpt
+      trkpt lat=50.868287670 lon=16.714396780
+        ele613.200000ele
+        time2017-11-24T105434Ztime
+        speed3.107000speed
+      trkpt
+      trkpt lat=50.868308210 lon=16.714548160
+        ele613.800000ele
+        time2017-11-24T105438Ztime
+        speed3.060000speed
+      trkpt
+      trkpt lat=50.868350030 lon=16.714865500
+        ele611.600000ele
+        time2017-11-24T105446Ztime
+        speed2.948000speed
+      trkpt
+      trkpt lat=50.868402590 lon=16.715177730
+        ele608.600000ele
+        time2017-11-24T105453Ztime
+        speed2.939000speed
+      trkpt
+      trkpt lat=50.868439300 lon=16.715417700
+        ele608.800000ele
+        time2017-11-24T105459Ztime
+        speed3.004000speed
+      trkpt
+      trkpt lat=50.868535610 lon=16.715660020
+        ele606.400000ele
+        time2017-11-24T105505Ztime
+        speed3.023000speed
+      trkpt
+      trkpt lat=50.868618930 lon=16.715910140
+        ele605.400000ele
+        time2017-11-24T105511Ztime
+        speed3.116000speed
+      trkpt
+      trkpt lat=50.868697800 lon=16.716136200
+        ele604.200000ele
+        time2017-11-24T105516Ztime
+        speed3.172000speed
+      trkpt
+      trkpt lat=50.868832750 lon=16.716330150
+        ele602.000000ele
+        time2017-11-24T105522Ztime
+        speed3.284000speed
+      trkpt
+      trkpt lat=50.869005500 lon=16.716482370
+        ele598.400000ele
+        time2017-11-24T105529Ztime
+        speed3.303000speed
+      trkpt
+      trkpt lat=50.869168950 lon=16.716603570
+        ele594.400000ele
+        time2017-11-24T105536Ztime
+        speed3.247000speed
+      trkpt
+      trkpt lat=50.869371790 lon=16.716621760
+        ele592.800000ele
+        time2017-11-24T105543Ztime
+        speed3.144000speed
+      trkpt
+      trkpt lat=50.869558790 lon=16.716539280
+        ele592.400000ele
+        time2017-11-24T105549Ztime
+        speed3.172000speed
+      trkpt
+      trkpt lat=50.869730370 lon=16.716414220
+        ele588.200000ele
+        time2017-11-24T105555Ztime
+        speed3.247000speed
+      trkpt
+      trkpt lat=50.869909740 lon=16.716322530
+        ele584.000000ele
+        time2017-11-24T105601Ztime
+        speed3.322000speed
+      trkpt
+      trkpt lat=50.870088110 lon=16.716294610
+        ele578.200000ele
+        time2017-11-24T105609Ztime
+        speed3.303000speed
+      trkpt
+      trkpt lat=50.870256080 lon=16.716401150
+        ele573.200000ele
+        time2017-11-24T105616Ztime
+        speed3.172000speed
+      trkpt
+      trkpt lat=50.870380220 lon=16.716616650
+        ele566.200000ele
+        time2017-11-24T105623Ztime
+        speed3.088000speed
+      trkpt
+      trkpt lat=50.870492280 lon=16.716851090
+        ele562.400000ele
+        time2017-11-24T105629Ztime
+        speed3.060000speed
+      trkpt
+      trkpt lat=50.870620860 lon=16.717068350
+        ele562.000000ele
+        time2017-11-24T105635Ztime
+        speed3.126000speed
+      trkpt
+      trkpt lat=50.870667380 lon=16.717164490
+        ele562.600000ele
+        time2017-11-24T105638Ztime
+        speed3.154000speed
+      trkpt
+      trkpt lat=50.870738630 lon=16.717313520
+        ele563.000000ele
+        time2017-11-24T105643Ztime
+        speed3.154000speed
+      trkpt
+      trkpt lat=50.870828480 lon=16.717532710
+        ele560.600000ele
+        time2017-11-24T105649Ztime
+        speed3.126000speed
+      trkpt
+      trkpt lat=50.870901990 lon=16.717797910
+        ele559.600000ele
+        time2017-11-24T105656Ztime
+        speed3.088000speed
+      trkpt
+      trkpt lat=50.870924280 lon=16.717942750
+        ele558.400000ele
+        time2017-11-24T105700Ztime
+        speed3.079000speed
+      trkpt
+      trkpt lat=50.870974070 lon=16.718060850
+        ele557.200000ele
+        time2017-11-24T105703Ztime
+        speed3.060000speed
+      trkpt
+      trkpt lat=50.871013130 lon=16.718385230
+        ele554.000000ele
+        time2017-11-24T105710Ztime
+        speed3.051000speed
+      trkpt
+      trkpt lat=50.871065180 lon=16.718669040
+        ele548.400000ele
+        time2017-11-24T105717Ztime
+        speed3.070000speed
+      trkpt
+      trkpt lat=50.871054120 lon=16.718783620
+        ele546.000000ele
+        time2017-11-24T105720Ztime
+        speed3.070000speed
+      trkpt
+      trkpt lat=50.871080270 lon=16.719062070
+        ele540.800000ele
+        time2017-11-24T105727Ztime
+        speed3.042000speed
+      trkpt
+      trkpt lat=50.871090670 lon=16.719100210
+        ele539.800000ele
+        time2017-11-24T105728Ztime
+        speed3.042000speed
+      trkpt
+      trkpt lat=50.871159310 lon=16.719321490
+        ele535.800000ele
+        time2017-11-24T105734Ztime
+        speed3.014000speed
+      trkpt
+      trkpt lat=50.871182280 lon=16.719425930
+        ele532.800000ele
+        time2017-11-24T105737Ztime
+        speed3.004000speed
+      trkpt
+      trkpt lat=50.871227960 lon=16.719539420
+        ele530.200000ele
+        time2017-11-24T105741Ztime
+        speed2.976000speed
+      trkpt
+      trkpt lat=50.871288140 lon=16.719680230
+        ele528.000000ele
+        time2017-11-24T105745Ztime
+        speed2.948000speed
+      trkpt
+      trkpt lat=50.871424850 lon=16.719874780
+        ele523.600000ele
+        time2017-11-24T105752Ztime
+        speed2.921000speed
+      trkpt
+      trkpt lat=50.871442960 lon=16.719894060
+        ele523.200000ele
+        time2017-11-24T105753Ztime
+        speed2.921000speed
+      trkpt
+      trkpt lat=50.871503560 lon=16.719951890
+        ele521.400000ele
+        time2017-11-24T105756Ztime
+        speed2.911000speed
+      trkpt
+      trkpt lat=50.871586120 lon=16.720142330
+        ele517.800000ele
+        time2017-11-24T105802Ztime
+        speed2.883000speed
+      trkpt
+      trkpt lat=50.871687620 lon=16.720290440
+        ele514.400000ele
+        time2017-11-24T105808Ztime
+        speed2.855000speed
+      trkpt
+      trkpt lat=50.871826260 lon=16.720476600
+        ele510.400000ele
+        time2017-11-24T105816Ztime
+        speed2.809000speed
+      trkpt
+      trkpt lat=50.871927930 lon=16.720745910
+        ele506.800000ele
+        time2017-11-24T105825Ztime
+        speed2.743000speed
+      trkpt
+      trkpt lat=50.871983510 lon=16.721024770
+        ele503.600000ele
+        time2017-11-24T105833Ztime
+        speed2.687000speed
+      trkpt
+      trkpt lat=50.872013260 lon=16.721227360
+        ele501.200000ele
+        time2017-11-24T105840Ztime
+        speed2.650000speed
+      trkpt
+      trkpt lat=50.872102950 lon=16.721476980
+        ele505.600000ele
+        time2017-11-24T105854Ztime
+        speed2.771000speed
+      trkpt
+      trkpt lat=50.872161120 lon=16.721750980
+        ele505.800000ele
+        time2017-11-24T105903Ztime
+        speed2.827000speed
+      trkpt
+      trkpt lat=50.872187350 lon=16.721795830
+        ele505.600000ele
+        time2017-11-24T105905Ztime
+        speed2.781000speed
+      trkpt
+      trkpt lat=50.872282570 lon=16.722033620
+        ele503.600000ele
+        time2017-11-24T105914Ztime
+        speed2.566000speed
+      trkpt
+      trkpt lat=50.872347950 lon=16.722299660
+        ele498.400000ele
+        time2017-11-24T105922Ztime
+        speed2.482000speed
+      trkpt
+      trkpt lat=50.872375280 lon=16.722354310
+        ele497.200000ele
+        time2017-11-24T105924Ztime
+        speed2.482000speed
+      trkpt
+      trkpt lat=50.872503440 lon=16.722563100
+        ele491.400000ele
+        time2017-11-24T105932Ztime
+        speed2.454000speed
+      trkpt
+      trkpt lat=50.872620780 lon=16.722802660
+        ele485.600000ele
+        time2017-11-24T105941Ztime
+        speed2.510000speed
+      trkpt
+      trkpt lat=50.872658840 lon=16.722933250
+        ele483.400000ele
+        time2017-11-24T105945Ztime
+        speed2.491000speed
+      trkpt
+      trkpt lat=50.872742820 lon=16.723192500
+        ele478.800000ele
+        time2017-11-24T105951Ztime
+        speed2.510000speed
+      trkpt
+      trkpt lat=50.872801240 lon=16.723473550
+        ele475.800000ele
+        time2017-11-24T105957Ztime
+        speed3.676000speed
+      trkpt
+      trkpt lat=50.872900070 lon=16.723653840
+        ele474.800000ele
+        time2017-11-24T110002Ztime
+        speed3.527000speed
+      trkpt
+      trkpt lat=50.873037030 lon=16.723840670
+        ele475.200000ele
+        time2017-11-24T110008Ztime
+        speed3.415000speed
+      trkpt
+      trkpt lat=50.873201400 lon=16.723988360
+        ele474.600000ele
+        time2017-11-24T110015Ztime
+        speed3.368000speed
+      trkpt
+      trkpt lat=50.873397030 lon=16.724063550
+        ele474.400000ele
+        time2017-11-24T110022Ztime
+        speed3.210000speed
+      trkpt
+      trkpt lat=50.873604060 lon=16.724070340
+        ele473.400000ele
+        time2017-11-24T110029Ztime
+        speed3.182000speed
+      trkpt
+      trkpt lat=50.873687710 lon=16.724064970
+        ele472.600000ele
+        time2017-11-24T110032Ztime
+        speed3.191000speed
+      trkpt
+      trkpt lat=50.873872280 lon=16.724055170
+        ele470.800000ele
+        time2017-11-24T110040Ztime
+        speed3.116000speed
+      trkpt
+      trkpt lat=50.874052910 lon=16.724059610
+        ele466.400000ele
+        time2017-11-24T110047Ztime
+        speed2.995000speed
+      trkpt
+      trkpt lat=50.874246120 lon=16.724014180
+        ele463.200000ele
+        time2017-11-24T110054Ztime
+        speed2.948000speed
+      trkpt
+      trkpt lat=50.874436640 lon=16.723961120
+        ele460.400000ele
+        time2017-11-24T110102Ztime
+        speed2.930000speed
+      trkpt
+      trkpt lat=50.874614670 lon=16.723839670
+        ele458.600000ele
+        time2017-11-24T110109Ztime
+        speed2.883000speed
+      trkpt
+      trkpt lat=50.874780970 lon=16.723642110
+        ele454.200000ele
+        time2017-11-24T110117Ztime
+        speed2.865000speed
+      trkpt
+      trkpt lat=50.874934940 lon=16.723464410
+        ele449.400000ele
+        time2017-11-24T110125Ztime
+        speed2.855000speed
+      trkpt
+      trkpt lat=50.875107270 lon=16.723319990
+        ele445.200000ele
+        time2017-11-24T110134Ztime
+        speed2.753000speed
+      trkpt
+      trkpt lat=50.875285890 lon=16.723240530
+        ele442.200000ele
+        time2017-11-24T110142Ztime
+        speed2.641000speed
+      trkpt
+      trkpt lat=50.875424700 lon=16.723162160
+        ele439.400000ele
+        time2017-11-24T110148Ztime
+        speed2.622000speed
+      trkpt
+      trkpt lat=50.875616050 lon=16.723048840
+        ele436.800000ele
+        time2017-11-24T110155Ztime
+        speed2.706000speed
+      trkpt
+      trkpt lat=50.875815290 lon=16.723004080
+        ele434.200000ele
+        time2017-11-24T110202Ztime
+        speed2.855000speed
+      trkpt
+      trkpt lat=50.876014610 lon=16.722983540
+        ele430.400000ele
+        time2017-11-24T110209Ztime
+        speed2.958000speed
+      trkpt
+      trkpt lat=50.876200780 lon=16.722960660
+        ele424.600000ele
+        time2017-11-24T110216Ztime
+        speed2.976000speed
+      trkpt
+      trkpt lat=50.876394230 lon=16.722918580
+        ele420.400000ele
+        time2017-11-24T110223Ztime
+        speed3.014000speed
+      trkpt
+      trkpt lat=50.876575200 lon=16.722880530
+        ele418.000000ele
+        time2017-11-24T110229Ztime
+        speed3.032000speed
+      trkpt
+      trkpt lat=50.876754230 lon=16.722907600
+        ele415.400000ele
+        time2017-11-24T110235Ztime
+        speed3.070000speed
+      trkpt
+      trkpt lat=50.876940310 lon=16.722940460
+        ele413.000000ele
+        time2017-11-24T110241Ztime
+        speed3.116000speed
+      trkpt
+      trkpt lat=50.877128150 lon=16.722984380
+        ele409.200000ele
+        time2017-11-24T110247Ztime
+        speed3.200000speed
+      trkpt
+      trkpt lat=50.877322690 lon=16.723066690
+        ele407.000000ele
+        time2017-11-24T110253Ztime
+        speed3.266000speed
+      trkpt
+      trkpt lat=50.877505760 lon=16.723152180
+        ele406.000000ele
+        time2017-11-24T110300Ztime
+        speed3.303000speed
+      trkpt
+      trkpt lat=50.877689910 lon=16.723267020
+        ele406.600000ele
+        time2017-11-24T110307Ztime
+        speed3.266000speed
+      trkpt
+      trkpt lat=50.877708930 lon=16.723288140
+        ele406.400000ele
+        time2017-11-24T110308Ztime
+        speed3.266000speed
+      trkpt
+      trkpt lat=50.877831560 lon=16.723512610
+        ele403.400000ele
+        time2017-11-24T110314Ztime
+        speed3.247000speed
+      trkpt
+      trkpt lat=50.877935080 lon=16.723764730
+        ele398.000000ele
+        time2017-11-24T110321Ztime
+        speed3.256000speed
+      trkpt
+      trkpt lat=50.878062150 lon=16.723970340
+        ele391.400000ele
+        time2017-11-24T110327Ztime
+        speed3.238000speed
+      trkpt
+      trkpt lat=50.878199360 lon=16.724186090
+        ele384.200000ele
+        time2017-11-24T110334Ztime
+        speed3.247000speed
+      trkpt
+      trkpt lat=50.878360540 lon=16.724366890
+        ele380.600000ele
+        time2017-11-24T110341Ztime
+        speed3.219000speed
+      trkpt
+      trkpt lat=50.878522820 lon=16.724559090
+        ele377.000000ele
+        time2017-11-24T110348Ztime
+        speed3.210000speed
+      trkpt
+      trkpt lat=50.878696740 lon=16.724699230
+        ele374.600000ele
+        time2017-11-24T110355Ztime
+        speed3.200000speed
+      trkpt
+      trkpt lat=50.878883150 lon=16.724780540
+        ele371.400000ele
+        time2017-11-24T110403Ztime
+        speed3.172000speed
+      trkpt
+      trkpt lat=50.879070320 lon=16.724824120
+        ele371.200000ele
+        time2017-11-24T110411Ztime
+        speed3.107000speed
+      trkpt
+      trkpt lat=50.879254640 lon=16.724869890
+        ele372.400000ele
+        time2017-11-24T110420Ztime
+        speed2.995000speed
+      trkpt
+      trkpt lat=50.879437030 lon=16.724912220
+        ele376.600000ele
+        time2017-11-24T110429Ztime
+        speed2.855000speed
+      trkpt
+      trkpt lat=50.879631570 lon=16.724969970
+        ele379.200000ele
+        time2017-11-24T110438Ztime
+        speed2.743000speed
+      trkpt
+      trkpt lat=50.879739360 lon=16.725025620
+        ele379.600000ele
+        time2017-11-24T110442Ztime
+        speed2.706000speed
+      trkpt
+      trkpt lat=50.879889230 lon=16.725219750
+        ele380.200000ele
+        time2017-11-24T110450Ztime
+        speed2.687000speed
+      trkpt
+      trkpt lat=50.879945310 lon=16.725321920
+        ele379.800000ele
+        time2017-11-24T110453Ztime
+        speed2.687000speed
+      trkpt
+      trkpt lat=50.880084700 lon=16.725547400
+        ele380.600000ele
+        time2017-11-24T110500Ztime
+        speed2.734000speed
+      trkpt
+      trkpt lat=50.880233730 lon=16.725777230
+        ele377.600000ele
+        time2017-11-24T110507Ztime
+        speed2.790000speed
+      trkpt
+      trkpt lat=50.880352580 lon=16.726008490
+        ele374.200000ele
+        time2017-11-24T110514Ztime
+        speed2.874000speed
+      trkpt
+      trkpt lat=50.880478480 lon=16.726216780
+        ele370.400000ele
+        time2017-11-24T110523Ztime
+        speed2.893000speed
+      trkpt
+      trkpt lat=50.880615190 lon=16.726381310
+        ele365.600000ele
+        time2017-11-24T110536Ztime
+        speed2.603000speed
+      trkpt
+      trkpt lat=50.880788700 lon=16.726555740
+        ele363.000000ele
+        time2017-11-24T110544Ztime
+        speed2.473000speed
+      trkpt
+      trkpt lat=50.880933370 lon=16.726762690
+        ele362.200000ele
+        time2017-11-24T110553Ztime
+        speed2.482000speed
+      trkpt
+      trkpt lat=50.881070830 lon=16.726973160
+        ele362.600000ele
+        time2017-11-24T110601Ztime
+        speed2.482000speed
+      trkpt
+      trkpt lat=50.881196890 lon=16.727203490
+        ele362.600000ele
+        time2017-11-24T110609Ztime
+        speed2.501000speed
+      trkpt
+      trkpt lat=50.881288760 lon=16.727402310
+        ele363.200000ele
+        time2017-11-24T110616Ztime
+        speed2.529000speed
+      trkpt
+      trkpt lat=50.881411550 lon=16.727666680
+        ele363.800000ele
+        time2017-11-24T110624Ztime
+        speed2.547000speed
+      trkpt
+      trkpt lat=50.881517420 lon=16.727872790
+        ele365.400000ele
+        time2017-11-24T110630Ztime
+        speed2.594000speed
+      trkpt
+      trkpt lat=50.881646670 lon=16.728052830
+        ele366.600000ele
+        time2017-11-24T110636Ztime
+        speed2.669000speed
+      trkpt
+      trkpt lat=50.881788490 lon=16.728287360
+        ele365.200000ele
+        time2017-11-24T110643Ztime
+        speed2.753000speed
+      trkpt
+      trkpt lat=50.881910280 lon=16.728510480
+        ele363.000000ele
+        time2017-11-24T110650Ztime
+        speed2.827000speed
+      trkpt
+      trkpt lat=50.882018320 lon=16.728760100
+        ele360.400000ele
+        time2017-11-24T110655Ztime
+        speed4.264000speed
+      trkpt
+      trkpt lat=50.882081020 lon=16.729069810
+        ele356.800000ele
+        time2017-11-24T110700Ztime
+        speed4.721000speed
+      trkpt
+      trkpt lat=50.882101550 lon=16.729123030
+        ele356.800000ele
+        time2017-11-24T110701Ztime
+        speed4.768000speed
+      trkpt
+      trkpt lat=50.882138850 lon=16.729264690
+        ele355.400000ele
+        time2017-11-24T110704Ztime
+        speed4.479000speed
+      trkpt
+      trkpt lat=50.882186040 lon=16.729492090
+        ele355.400000ele
+        time2017-11-24T110709Ztime
+        speed4.395000speed
+      trkpt
+      trkpt lat=50.882230630 lon=16.729801380
+        ele354.400000ele
+        time2017-11-24T110715Ztime
+        speed4.180000speed
+      trkpt
+      trkpt lat=50.882297270 lon=16.730086620
+        ele353.800000ele
+        time2017-11-24T110721Ztime
+        speed4.003000speed
+      trkpt
+      trkpt lat=50.882361560 lon=16.730400180
+        ele354.400000ele
+        time2017-11-24T110728Ztime
+        speed3.826000speed
+      trkpt
+      trkpt lat=50.882396930 lon=16.730712910
+        ele354.000000ele
+        time2017-11-24T110734Ztime
+        speed3.686000speed
+      trkpt
+      trkpt lat=50.882449230 lon=16.731028240
+        ele352.800000ele
+        time2017-11-24T110740Ztime
+        speed3.667000speed
+      trkpt
+      trkpt lat=50.882494080 lon=16.731323950
+        ele350.600000ele
+        time2017-11-24T110746Ztime
+        speed3.676000speed
+      trkpt
+      trkpt lat=50.882556100 lon=16.731624700
+        ele348.000000ele
+        time2017-11-24T110752Ztime
+        speed3.667000speed
+      trkpt
+      trkpt lat=50.882624000 lon=16.731922340
+        ele344.200000ele
+        time2017-11-24T110758Ztime
+        speed3.695000speed
+      trkpt
+      trkpt lat=50.882703040 lon=16.732228860
+        ele341.800000ele
+        time2017-11-24T110804Ztime
+        speed3.704000speed
+      trkpt
+      trkpt lat=50.882838490 lon=16.732439000
+        ele340.000000ele
+        time2017-11-24T110810Ztime
+        speed3.723000speed
+      trkpt
+      trkpt lat=50.883008220 lon=16.732581490
+        ele338.600000ele
+        time2017-11-24T110816Ztime
+        speed3.704000speed
+      trkpt
+      trkpt lat=50.883186840 lon=16.732728090
+        ele338.000000ele
+        time2017-11-24T110823Ztime
+        speed3.648000speed
+      trkpt
+      trkpt lat=50.883366630 lon=16.732858600
+        ele336.200000ele
+        time2017-11-24T110830Ztime
+        speed3.471000speed
+      trkpt
+      trkpt lat=50.883497310 lon=16.733020620
+        ele334.800000ele
+        time2017-11-24T110835Ztime
+        speed3.415000speed
+      trkpt
+      trkpt lat=50.883485070 lon=16.733133190
+        ele334.000000ele
+        time2017-11-24T110839Ztime
+        speed3.424000speed
+      trkpt
+      trkpt lat=50.883301170 lon=16.733279950
+        ele334.000000ele
+        time2017-11-24T110848Ztime
+        speed2.379000speed
+      trkpt
+      trkpt lat=50.883136970 lon=16.733407440
+        ele334.000000ele
+        time2017-11-24T110855Ztime
+        speed2.855000speed
+      trkpt
+      trkpt lat=50.882955420 lon=16.733483970
+        ele332.800000ele
+        time2017-11-24T110902Ztime
+        speed2.883000speed
+      trkpt
+      trkpt lat=50.882773700 lon=16.733459660
+        ele333.800000ele
+        time2017-11-24T110908Ztime
+        speed2.967000speed
+      trkpt
+      trkpt lat=50.882578400 lon=16.733356570
+        ele337.200000ele
+        time2017-11-24T110915Ztime
+        speed3.098000speed
+      trkpt
+      trkpt lat=50.882438420 lon=16.733176350
+        ele339.200000ele
+        time2017-11-24T110922Ztime
+        speed3.107000speed
+      trkpt
+      trkpt lat=50.882294170 lon=16.732956920
+        ele342.000000ele
+        time2017-11-24T110930Ztime
+        speed3.042000speed
+      trkpt
+      trkpt lat=50.882164000 lon=16.732756500
+        ele343.800000ele
+        time2017-11-24T110937Ztime
+        speed2.967000speed
+      trkpt
+      trkpt lat=50.882046060 lon=16.732491470
+        ele344.400000ele
+        time2017-11-24T110944Ztime
+        speed2.948000speed
+      trkpt
+      trkpt lat=50.881936260 lon=16.732264740
+        ele345.200000ele
+        time2017-11-24T110950Ztime
+        speed3.032000speed
+      trkpt
+      trkpt lat=50.881810110 lon=16.732060220
+        ele346.200000ele
+        time2017-11-24T110956Ztime
+        speed3.116000speed
+      trkpt
+      trkpt lat=50.881692100 lon=16.731845220
+        ele349.600000ele
+        time2017-11-24T111002Ztime
+        speed3.182000speed
+      trkpt
+      trkpt lat=50.881585060 lon=16.731616060
+        ele351.600000ele
+        time2017-11-24T111008Ztime
+        speed3.228000speed
+      trkpt
+      trkpt lat=50.881515660 lon=16.731340470
+        ele351.600000ele
+        time2017-11-24T111013Ztime
+        speed3.303000speed
+      trkpt
+      trkpt lat=50.881485570 lon=16.731013490
+        ele353.000000ele
+        time2017-11-24T111019Ztime
+        speed3.452000speed
+      trkpt
+      trkpt lat=50.881466960 lon=16.730708970
+        ele354.200000ele
+        time2017-11-24T111025Ztime
+        speed3.583000speed
+      trkpt
+      trkpt lat=50.881495540 lon=16.730411330
+        ele352.400000ele
+        time2017-11-24T111031Ztime
+        speed3.630000speed
+      trkpt
+      trkpt lat=50.881532920 lon=16.730112520
+        ele347.200000ele
+        time2017-11-24T111038Ztime
+        speed3.602000speed
+      trkpt
+      trkpt lat=50.881492270 lon=16.729828540
+        ele346.800000ele
+        time2017-11-24T111045Ztime
+        speed3.424000speed
+      trkpt
+      trkpt lat=50.881365370 lon=16.729603070
+        ele345.800000ele
+        time2017-11-24T111052Ztime
+        speed3.266000speed
+      trkpt
+      trkpt lat=50.881197650 lon=16.729497290
+        ele346.200000ele
+        time2017-11-24T111058Ztime
+        speed3.210000speed
+      trkpt
+      trkpt lat=50.881006370 lon=16.729410030
+        ele347.600000ele
+        time2017-11-24T111105Ztime
+        speed3.247000speed
+      trkpt
+      trkpt lat=50.880811070 lon=16.729348590
+        ele347.400000ele
+        time2017-11-24T111112Ztime
+        speed3.219000speed
+      trkpt
+      trkpt lat=50.880634970 lon=16.729238870
+        ele348.800000ele
+        time2017-11-24T111119Ztime
+        speed3.200000speed
+      trkpt
+      trkpt lat=50.880484100 lon=16.729076510
+        ele349.000000ele
+        time2017-11-24T111126Ztime
+        speed3.163000speed
+      trkpt
+      trkpt lat=50.880328110 lon=16.728890100
+        ele350.200000ele
+        time2017-11-24T111133Ztime
+        speed3.126000speed
+      trkpt
+      trkpt lat=50.880153680 lon=16.728710900
+        ele352.200000ele
+        time2017-11-24T111140Ztime
+        speed3.126000speed
+      trkpt
+      trkpt lat=50.879990490 lon=16.728509140
+        ele354.000000ele
+        time2017-11-24T111147Ztime
+        speed3.154000speed
+      trkpt
+      trkpt lat=50.879835420 lon=16.728351060
+        ele354.800000ele
+        time2017-11-24T111153Ztime
+        speed3.182000speed
+      trkpt
+      trkpt lat=50.879656220 lon=16.728232290
+        ele353.600000ele
+        time2017-11-24T111200Ztime
+        speed3.210000speed
+      trkpt
+      trkpt lat=50.879483470 lon=16.728137490
+        ele350.600000ele
+        time2017-11-24T111207Ztime
+        speed3.200000speed
+      trkpt
+      trkpt lat=50.879461090 lon=16.727848980
+        ele351.400000ele
+        time2017-11-24T111216Ztime
+        speed3.126000speed
+      trkpt
+      trkpt lat=50.879397970 lon=16.727724850
+        ele353.000000ele
+        time2017-11-24T111221Ztime
+        speed3.060000speed
+      trkpt
+      trkpt lat=50.879257740 lon=16.727502640
+        ele355.800000ele
+        time2017-11-24T111230Ztime
+        speed2.911000speed
+      trkpt
+      trkpt lat=50.879168390 lon=16.727248340
+        ele362.200000ele
+        time2017-11-24T111241Ztime
+        speed2.725000speed
+      trkpt
+      trkpt lat=50.879049870 lon=16.727011130
+        ele367.800000ele
+        time2017-11-24T111252Ztime
+        speed2.501000speed
+      trkpt
+      trkpt lat=50.879035120 lon=16.726995790
+        ele368.200000ele
+        time2017-11-24T111253Ztime
+        speed2.482000speed
+      trkpt
+      trkpt lat=50.878875110 lon=16.726869480
+        ele371.800000ele
+        time2017-11-24T111303Ztime
+        speed2.351000speed
+      trkpt
+      trkpt lat=50.878805790 lon=16.726801160
+        ele372.200000ele
+        time2017-11-24T111307Ztime
+        speed2.305000speed
+      trkpt
+      trkpt lat=50.878673520 lon=16.726599830
+        ele375.800000ele
+        time2017-11-24T111317Ztime
+        speed2.230000speed
+      trkpt
+      trkpt lat=50.878600100 lon=16.726479630
+        ele376.800000ele
+        time2017-11-24T111324Ztime
+        speed2.165000speed
+      trkpt
+      trkpt lat=50.878508060 lon=16.726199680
+        ele380.600000ele
+        time2017-11-24T111336Ztime
+        speed2.053000speed
+      trkpt
+      trkpt lat=50.878501780 lon=16.726081490
+        ele382.400000ele
+        time2017-11-24T111340Ztime
+        speed2.025000speed
+      trkpt
+      trkpt lat=50.878542090 lon=16.725913180
+        ele384.400000ele
+        time2017-11-24T111346Ztime
+        speed2.015000speed
+      trkpt
+      trkpt lat=50.878623730 lon=16.725638590
+        ele384.400000ele
+        time2017-11-24T111356Ztime
+        speed2.025000speed
+      trkpt
+      trkpt lat=50.878646530 lon=16.725463750
+        ele383.800000ele
+        time2017-11-24T111403Ztime
+        speed2.025000speed
+      trkpt
+      trkpt lat=50.878660110 lon=16.725453770
+        ele384.000000ele
+        time2017-11-24T111414Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.878627840 lon=16.725264590
+        ele384.400000ele
+        time2017-11-24T111425Ztime
+        speed1.418000speed
+      trkpt
+      trkpt lat=50.878558770 lon=16.725106170
+        ele385.200000ele
+        time2017-11-24T111434Ztime
+        speed1.493000speed
+      trkpt
+      trkpt lat=50.878619880 lon=16.725097120
+        ele385.200000ele
+        time2017-11-24T111439Ztime
+        speed1.484000speed
+      trkpt
+      trkpt lat=50.878804200 lon=16.725073400
+        ele383.400000ele
+        time2017-11-24T111449Ztime
+        speed1.596000speed
+      trkpt
+      trkpt lat=50.878991360 lon=16.725141880
+        ele382.600000ele
+        time2017-11-24T111459Ztime
+        speed1.782000speed
+      trkpt
+      trkpt lat=50.879181130 lon=16.725234420
+        ele381.000000ele
+        time2017-11-24T111507Ztime
+        speed1.978000speed
+      trkpt
+      trkpt lat=50.879340640 lon=16.725399960
+        ele379.400000ele
+        time2017-11-24T111516Ztime
+        speed2.221000speed
+      trkpt
+      trkpt lat=50.879497460 lon=16.725607410
+        ele374.800000ele
+        time2017-11-24T111524Ztime
+        speed2.323000speed
+      trkpt
+      trkpt lat=50.879666780 lon=16.725733140
+        ele372.200000ele
+        time2017-11-24T111531Ztime
+        speed2.529000speed
+      trkpt
+      trkpt lat=50.879817650 lon=16.725890130
+        ele368.000000ele
+        time2017-11-24T111538Ztime
+        speed2.678000speed
+      trkpt
+      trkpt lat=50.879953440 lon=16.726031030
+        ele364.400000ele
+        time2017-11-24T111546Ztime
+        speed2.715000speed
+      trkpt
+      trkpt lat=50.880073220 lon=16.726097250
+        ele362.000000ele
+        time2017-11-24T111551Ztime
+        speed2.631000speed
+      trkpt
+      trkpt lat=50.880249740 lon=16.726208730
+        ele358.400000ele
+        time2017-11-24T111559Ztime
+        speed2.650000speed
+      trkpt
+      trkpt lat=50.880432300 lon=16.726373350
+        ele356.800000ele
+        time2017-11-24T111607Ztime
+        speed2.491000speed
+      trkpt
+      trkpt lat=50.880600940 lon=16.726542250
+        ele353.000000ele
+        time2017-11-24T111614Ztime
+        speed2.557000speed
+      trkpt
+      trkpt lat=50.880626840 lon=16.726572170
+        ele352.200000ele
+        time2017-11-24T111615Ztime
+        speed2.575000speed
+      trkpt
+      trkpt lat=50.880742340 lon=16.726672330
+        ele351.400000ele
+        time2017-11-24T111619Ztime
+        speed2.631000speed
+      trkpt
+      trkpt lat=50.880916690 lon=16.726849110
+        ele350.200000ele
+        time2017-11-24T111626Ztime
+        speed2.753000speed
+      trkpt
+      trkpt lat=50.880933950 lon=16.726879370
+        ele350.400000ele
+        time2017-11-24T111627Ztime
+        speed2.762000speed
+      trkpt
+      trkpt lat=50.881081390 lon=16.727092350
+        ele351.000000ele
+        time2017-11-24T111634Ztime
+        speed2.846000speed
+      trkpt
+      trkpt lat=50.881225310 lon=16.727324780
+        ele352.000000ele
+        time2017-11-24T111641Ztime
+        speed2.921000speed
+      trkpt
+      trkpt lat=50.881246180 lon=16.727346660
+        ele352.400000ele
+        time2017-11-24T111643Ztime
+        speed2.939000speed
+      trkpt
+      trkpt lat=50.881271490 lon=16.727350180
+        ele353.800000ele
+        time2017-11-24T111646Ztime
+        speed2.948000speed
+      trkpt
+      trkpt lat=50.881279040 lon=16.727351100
+        ele354.200000ele
+        time2017-11-24T111647Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.881290600 lon=16.727357220
+        ele354.600000ele
+        time2017-11-24T111649Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.881311140 lon=16.727389400
+        ele355.200000ele
+        time2017-11-24T111651Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.881417250 lon=16.727561400
+        ele357.200000ele
+        time2017-11-24T111657Ztime
+        speed2.837000speed
+      trkpt
+      trkpt lat=50.881488920 lon=16.727761390
+        ele359.000000ele
+        time2017-11-24T111702Ztime
+        speed3.135000speed
+      trkpt
+      trkpt lat=50.881528900 lon=16.727891400
+        ele359.400000ele
+        time2017-11-24T111705Ztime
+        speed3.480000speed
+      trkpt
+      trkpt lat=50.881604340 lon=16.727997850
+        ele360.400000ele
+        time2017-11-24T111709Ztime
+        speed2.846000speed
+      trkpt
+      trkpt lat=50.881748930 lon=16.728209830
+        ele360.200000ele
+        time2017-11-24T111716Ztime
+        speed2.902000speed
+      trkpt
+      trkpt lat=50.881887730 lon=16.728456500
+        ele358.400000ele
+        time2017-11-24T111723Ztime
+        speed2.958000speed
+      trkpt
+      trkpt lat=50.882011780 lon=16.728721290
+        ele354.800000ele
+        time2017-11-24T111729Ztime
+        speed3.079000speed
+      trkpt
+      trkpt lat=50.882088730 lon=16.728992020
+        ele351.600000ele
+        time2017-11-24T111734Ztime
+        speed3.266000speed
+      trkpt
+      trkpt lat=50.882161730 lon=16.729278270
+        ele350.200000ele
+        time2017-11-24T111741Ztime
+        speed3.499000speed
+      trkpt
+      trkpt lat=50.882232900 lon=16.729603900
+        ele350.600000ele
+        time2017-11-24T111747Ztime
+        speed3.480000speed
+      trkpt
+      trkpt lat=50.882267930 lon=16.729889470
+        ele351.600000ele
+        time2017-11-24T111752Ztime
+        speed3.574000speed
+      trkpt
+      trkpt lat=50.882308920 lon=16.730228690
+        ele351.800000ele
+        time2017-11-24T111759Ztime
+        speed3.658000speed
+      trkpt
+      trkpt lat=50.882381760 lon=16.730516520
+        ele350.400000ele
+        time2017-11-24T111805Ztime
+        speed3.648000speed
+      trkpt
+      trkpt lat=50.882444540 lon=16.730825570
+        ele349.000000ele
+        time2017-11-24T111811Ztime
+        speed3.686000speed
+      trkpt
+      trkpt lat=50.882478570 lon=16.731139800
+        ele350.600000ele
+        time2017-11-24T111817Ztime
+        speed3.732000speed
+      trkpt
+      trkpt lat=50.882522070 lon=16.731455470
+        ele350.600000ele
+        time2017-11-24T111823Ztime
+        speed3.751000speed
+      trkpt
+      trkpt lat=50.882585860 lon=16.731760230
+        ele350.200000ele
+        time2017-11-24T111829Ztime
+        speed3.770000speed
+      trkpt
+      trkpt lat=50.882523330 lon=16.732068520
+        ele348.000000ele
+        time2017-11-24T111837Ztime
+        speed3.658000speed
+      trkpt
+      trkpt lat=50.882416290 lon=16.732327850
+        ele345.400000ele
+        time2017-11-24T111844Ztime
+        speed3.471000speed
+      trkpt
+      trkpt lat=50.882339430 lon=16.732556010
+        ele342.600000ele
+        time2017-11-24T111850Ztime
+        speed3.359000speed
+      trkpt
+      trkpt lat=50.882228370 lon=16.732527600
+        ele343.000000ele
+        time2017-11-24T111854Ztime
+        speed3.294000speed
+      trkpt
+      trkpt lat=50.882062070 lon=16.732328270
+        ele341.800000ele
+        time2017-11-24T111902Ztime
+        speed3.210000speed
+      trkpt
+      trkpt lat=50.882025780 lon=16.732279570
+        ele341.800000ele
+        time2017-11-24T111904Ztime
+        speed3.191000speed
+      trkpt
+      trkpt lat=50.881884800 lon=16.732045380
+        ele341.200000ele
+        time2017-11-24T111912Ztime
+        speed3.088000speed
+      trkpt
+      trkpt lat=50.881749850 lon=16.731825530
+        ele342.000000ele
+        time2017-11-24T111919Ztime
+        speed3.042000speed
+      trkpt
+      trkpt lat=50.881633760 lon=16.731591760
+        ele344.000000ele
+        time2017-11-24T111925Ztime
+        speed3.070000speed
+      trkpt
+      trkpt lat=50.881549940 lon=16.731309540
+        ele346.800000ele
+        time2017-11-24T111931Ztime
+        speed3.135000speed
+      trkpt
+      trkpt lat=50.881510290 lon=16.731026310
+        ele348.400000ele
+        time2017-11-24T111937Ztime
+        speed3.228000speed
+      trkpt
+      trkpt lat=50.881491430 lon=16.730743090
+        ele351.600000ele
+        time2017-11-24T111943Ztime
+        speed3.284000speed
+      trkpt
+      trkpt lat=50.881513310 lon=16.730421310
+        ele351.600000ele
+        time2017-11-24T111950Ztime
+        speed3.303000speed
+      trkpt
+      trkpt lat=50.881530070 lon=16.730110590
+        ele352.400000ele
+        time2017-11-24T111957Ztime
+        speed3.303000speed
+      trkpt
+      trkpt lat=50.881479950 lon=16.729810430
+        ele352.600000ele
+        time2017-11-24T112004Ztime
+        speed3.266000speed
+      trkpt
+      trkpt lat=50.881350700 lon=16.729573810
+        ele350.400000ele
+        time2017-11-24T112011Ztime
+        speed3.228000speed
+      trkpt
+      trkpt lat=50.881155990 lon=16.729455290
+        ele350.800000ele
+        time2017-11-24T112018Ztime
+        speed3.238000speed
+      trkpt
+      trkpt lat=50.880968650 lon=16.729370970
+        ele349.800000ele
+        time2017-11-24T112025Ztime
+        speed3.238000speed
+      trkpt
+      trkpt lat=50.880772690 lon=16.729299470
+        ele352.600000ele
+        time2017-11-24T112032Ztime
+        speed3.228000speed
+      trkpt
+      trkpt lat=50.880625160 lon=16.729214140
+        ele352.600000ele
+        time2017-11-24T112038Ztime
+        speed3.219000speed
+      trkpt
+      trkpt lat=50.880475130 lon=16.729050110
+        ele350.400000ele
+        time2017-11-24T112045Ztime
+        speed3.182000speed
+      trkpt
+      trkpt lat=50.880357110 lon=16.728815670
+        ele350.200000ele
+        time2017-11-24T112052Ztime
+        speed3.144000speed
+      trkpt
+      trkpt lat=50.880221490 lon=16.728614170
+        ele349.000000ele
+        time2017-11-24T112059Ztime
+        speed3.116000speed
+      trkpt
+      trkpt lat=50.880058210 lon=16.728450800
+        ele348.200000ele
+        time2017-11-24T112106Ztime
+        speed3.088000speed
+      trkpt
+      trkpt lat=50.879879590 lon=16.728297750
+        ele349.800000ele
+        time2017-11-24T112113Ztime
+        speed3.088000speed
+      trkpt
+      trkpt lat=50.879685050 lon=16.728195070
+        ele348.800000ele
+        time2017-11-24T112120Ztime
+        speed3.107000speed
+      trkpt
+      trkpt lat=50.879507350 lon=16.728114020
+        ele349.600000ele
+        time2017-11-24T112127Ztime
+        speed3.126000speed
+      trkpt
+      trkpt lat=50.879520850 lon=16.727994830
+        ele349.400000ele
+        time2017-11-24T112131Ztime
+        speed3.107000speed
+      trkpt
+      trkpt lat=50.879430830 lon=16.727740610
+        ele351.600000ele
+        time2017-11-24T112140Ztime
+        speed2.986000speed
+      trkpt
+      trkpt lat=50.879328900 lon=16.727478000
+        ele355.400000ele
+        time2017-11-24T112150Ztime
+        speed2.837000speed
+      trkpt
+      trkpt lat=50.879320270 lon=16.727455960
+        ele356.200000ele
+        time2017-11-24T112151Ztime
+        speed2.827000speed
+      trkpt
+      trkpt lat=50.879228400 lon=16.727258480
+        ele360.800000ele
+        time2017-11-24T112200Ztime
+        speed2.659000speed
+      trkpt
+      trkpt lat=50.879136620 lon=16.727048260
+        ele365.600000ele
+        time2017-11-24T112210Ztime
+        speed2.463000speed
+      trkpt
+      trkpt lat=50.879072580 lon=16.726985150
+        ele367.000000ele
+        time2017-11-24T112214Ztime
+        speed2.398000speed
+      trkpt
+      trkpt lat=50.879058080 lon=16.726972070
+        ele367.400000ele
+        time2017-11-24T112215Ztime
+        speed2.379000speed
+      trkpt
+      trkpt lat=50.878898410 lon=16.726817670
+        ele371.400000ele
+        time2017-11-24T112226Ztime
+        speed2.258000speed
+      trkpt
+      trkpt lat=50.878818530 lon=16.726741230
+        ele373.000000ele
+        time2017-11-24T112232Ztime
+        speed2.193000speed
+      trkpt
+      trkpt lat=50.878766480 lon=16.726676360
+        ele374.800000ele
+        time2017-11-24T112236Ztime
+        speed2.146000speed
+      trkpt
+      trkpt lat=50.878657510 lon=16.726433620
+        ele380.600000ele
+        time2017-11-24T112248Ztime
+        speed2.034000speed
+      trkpt
+      trkpt lat=50.878541170 lon=16.726193560
+        ele386.000000ele
+        time2017-11-24T112300Ztime
+        speed1.969000speed
+      trkpt
+      trkpt lat=50.878533540 lon=16.726097330
+        ele388.200000ele
+        time2017-11-24T112304Ztime
+        speed1.950000speed
+      trkpt
+      trkpt lat=50.878569330 lon=16.725797850
+        ele391.800000ele
+        time2017-11-24T112313Ztime
+        speed1.931000speed
+      trkpt
+      trkpt lat=50.878611580 lon=16.725513620
+        ele393.800000ele
+        time2017-11-24T112323Ztime
+        speed1.987000speed
+      trkpt
+      trkpt lat=50.878617200 lon=16.725389900
+        ele394.400000ele
+        time2017-11-24T112328Ztime
+        speed2.006000speed
+      trkpt
+      trkpt lat=50.878574620 lon=16.725213460
+        ele394.800000ele
+        time2017-11-24T112336Ztime
+        speed1.987000speed
+      trkpt
+      trkpt lat=50.878549390 lon=16.725128220
+        ele396.000000ele
+        time2017-11-24T112340Ztime
+        speed1.969000speed
+      trkpt
+      trkpt lat=50.878614510 lon=16.725079850
+        ele396.600000ele
+        time2017-11-24T112344Ztime
+        speed1.941000speed
+      trkpt
+      trkpt lat=50.878795140 lon=16.725079690
+        ele393.600000ele
+        time2017-11-24T112353Ztime
+        speed1.950000speed
+      trkpt
+      trkpt lat=50.878977870 lon=16.725142890
+        ele389.200000ele
+        time2017-11-24T112401Ztime
+        speed2.015000speed
+      trkpt
+      trkpt lat=50.879160180 lon=16.725225030
+        ele387.000000ele
+        time2017-11-24T112409Ztime
+        speed2.118000speed
+      trkpt
+      trkpt lat=50.879323450 lon=16.725420750
+        ele381.400000ele
+        time2017-11-24T112416Ztime
+        speed2.230000speed
+      trkpt
+      trkpt lat=50.879505010 lon=16.725572710
+        ele378.200000ele
+        time2017-11-24T112423Ztime
+        speed2.379000speed
+      trkpt
+      trkpt lat=50.879556890 lon=16.725621410
+        ele377.200000ele
+        time2017-11-24T112425Ztime
+        speed2.426000speed
+      trkpt
+      trkpt lat=50.879734250 lon=16.725764320
+        ele375.000000ele
+        time2017-11-24T112432Ztime
+        speed2.566000speed
+      trkpt
+      trkpt lat=50.879905580 lon=16.725884600
+        ele373.000000ele
+        time2017-11-24T112440Ztime
+        speed2.687000speed
+      trkpt
+      trkpt lat=50.880092410 lon=16.725983170
+        ele370.000000ele
+        time2017-11-24T112446Ztime
+        speed2.715000speed
+      trkpt
+      trkpt lat=50.880266420 lon=16.726110410
+        ele366.400000ele
+        time2017-11-24T112454Ztime
+        speed2.809000speed
+      trkpt
+      trkpt lat=50.880445880 lon=16.726271090
+        ele362.000000ele
+        time2017-11-24T112502Ztime
+        speed2.809000speed
+      trkpt
+      trkpt lat=50.880616030 lon=16.726448540
+        ele358.400000ele
+        time2017-11-24T112508Ztime
+        speed2.846000speed
+      trkpt
+      trkpt lat=50.880699010 lon=16.726564630
+        ele356.200000ele
+        time2017-11-24T112511Ztime
+        speed2.883000speed
+      trkpt
+      trkpt lat=50.880855830 lon=16.726773420
+        ele353.400000ele
+        time2017-11-24T112517Ztime
+        speed3.004000speed
+      trkpt
+      trkpt lat=50.880993800 lon=16.726964610
+        ele352.000000ele
+        time2017-11-24T112523Ztime
+        speed3.116000speed
+      trkpt
+      trkpt lat=50.881129750 lon=16.727169630
+        ele351.200000ele
+        time2017-11-24T112529Ztime
+        speed3.191000speed
+      trkpt
+      trkpt lat=50.881260510 lon=16.727366860
+        ele351.600000ele
+        time2017-11-24T112536Ztime
+        speed3.238000speed
+      trkpt
+      trkpt lat=50.881357660 lon=16.727511700
+        ele353.200000ele
+        time2017-11-24T112540Ztime
+        speed3.238000speed
+      trkpt
+      trkpt lat=50.881470060 lon=16.727777400
+        ele355.000000ele
+        time2017-11-24T112547Ztime
+        speed3.247000speed
+      trkpt
+      trkpt lat=50.881608860 lon=16.728007400
+        ele354.600000ele
+        time2017-11-24T112554Ztime
+        speed3.256000speed
+      trkpt
+      trkpt lat=50.881739040 lon=16.728227760
+        ele353.200000ele
+        time2017-11-24T112601Ztime
+        speed3.256000speed
+      trkpt
+      trkpt lat=50.881817660 lon=16.728427420
+        ele353.800000ele
+        time2017-11-24T112607Ztime
+        speed3.238000speed
+      trkpt
+      trkpt lat=50.881914470 lon=16.728618190
+        ele353.200000ele
+        time2017-11-24T112612Ztime
+        speed3.191000speed
+      trkpt
+      trkpt lat=50.882006080 lon=16.728883230
+        ele352.200000ele
+        time2017-11-24T112618Ztime
+        speed3.172000speed
+      trkpt
+      trkpt lat=50.882080850 lon=16.729155390
+        ele351.600000ele
+        time2017-11-24T112623Ztime
+        speed3.200000speed
+      trkpt
+      trkpt lat=50.882122840 lon=16.729478170
+        ele352.000000ele
+        time2017-11-24T112629Ztime
+        speed3.303000speed
+      trkpt
+      trkpt lat=50.882214880 lon=16.729757120
+        ele351.000000ele
+        time2017-11-24T112635Ztime
+        speed3.387000speed
+      trkpt
+      trkpt lat=50.882256950 lon=16.729969610
+        ele349.800000ele
+        time2017-11-24T112639Ztime
+        speed3.424000speed
+      trkpt
+      trkpt lat=50.882294170 lon=16.730208740
+        ele349.000000ele
+        time2017-11-24T112644Ztime
+        speed3.471000speed
+      trkpt
+      trkpt lat=50.882371110 lon=16.730482240
+        ele349.800000ele
+        time2017-11-24T112650Ztime
+        speed3.490000speed
+      trkpt
+      trkpt lat=50.882446550 lon=16.730772260
+        ele350.400000ele
+        time2017-11-24T112656Ztime
+        speed3.508000speed
+      trkpt
+      trkpt lat=50.882467840 lon=16.731058250
+        ele350.000000ele
+        time2017-11-24T112702Ztime
+        speed3.518000speed
+      trkpt
+      trkpt lat=50.882528020 lon=16.731340210
+        ele349.200000ele
+        time2017-11-24T112708Ztime
+        speed3.508000speed
+      trkpt
+      trkpt lat=50.882577480 lon=16.731630230
+        ele348.000000ele
+        time2017-11-24T112714Ztime
+        speed3.508000speed
+      trkpt
+      trkpt lat=50.882631960 lon=16.731927530
+        ele346.400000ele
+        time2017-11-24T112720Ztime
+        speed3.508000speed
+      trkpt
+      trkpt lat=50.882695240 lon=16.732222330
+        ele344.200000ele
+        time2017-11-24T112726Ztime
+        speed3.518000speed
+      trkpt
+      trkpt lat=50.882810750 lon=16.732453330
+        ele341.400000ele
+        time2017-11-24T112732Ztime
+        speed3.536000speed
+      trkpt
+      trkpt lat=50.882956090 lon=16.732615350
+        ele338.400000ele
+        time2017-11-24T112738Ztime
+        speed3.518000speed
+      trkpt
+      trkpt lat=50.883121970 lon=16.732759690
+        ele336.200000ele
+        time2017-11-24T112744Ztime
+        speed3.499000speed
+      trkpt
+      trkpt lat=50.883304690 lon=16.732904530
+        ele333.400000ele
+        time2017-11-24T112750Ztime
+        speed3.490000speed
+      trkpt
+      trkpt lat=50.883470900 lon=16.733033860
+        ele331.000000ele
+        time2017-11-24T112755Ztime
+        speed3.508000speed
+      trkpt
+      trkpt lat=50.883583390 lon=16.733168980
+        ele330.600000ele
+        time2017-11-24T112759Ztime
+        speed3.546000speed
+      trkpt
+      trkpt lat=50.883767710 lon=16.733313730
+        ele328.600000ele
+        time2017-11-24T112805Ztime
+        speed3.826000speed
+      trkpt
+      trkpt lat=50.883923110 lon=16.733458660
+        ele325.800000ele
+        time2017-11-24T112811Ztime
+        speed3.854000speed
+      trkpt
+      trkpt lat=50.884085970 lon=16.733551190
+        ele324.000000ele
+        time2017-11-24T112816Ztime
+        speed3.779000speed
+      trkpt
+      trkpt lat=50.884249500 lon=16.733674070
+        ele320.600000ele
+        time2017-11-24T112821Ztime
+        speed3.770000speed
+      trkpt
+      trkpt lat=50.884414540 lon=16.733823770
+        ele317.000000ele
+        time2017-11-24T112827Ztime
+        speed3.816000speed
+      trkpt
+      trkpt lat=50.884575810 lon=16.733964420
+        ele312.400000ele
+        time2017-11-24T112833Ztime
+        speed3.751000speed
+      trkpt
+      trkpt lat=50.884751320 lon=16.734119490
+        ele307.400000ele
+        time2017-11-24T112839Ztime
+        speed3.686000speed
+      trkpt
+      trkpt lat=50.884919550 lon=16.734290730
+        ele303.200000ele
+        time2017-11-24T112846Ztime
+        speed3.658000speed
+      trkpt
+      trkpt lat=50.885083330 lon=16.734456190
+        ele299.600000ele
+        time2017-11-24T112853Ztime
+        speed3.490000speed
+      trkpt
+      trkpt lat=50.885260690 lon=16.734613520
+        ele296.400000ele
+        time2017-11-24T112859Ztime
+        speed3.443000speed
+      trkpt
+      trkpt lat=50.885432100 lon=16.734751650
+        ele292.600000ele
+        time2017-11-24T112905Ztime
+        speed3.471000speed
+      trkpt
+      trkpt lat=50.885592360 lon=16.734904120
+        ele287.800000ele
+        time2017-11-24T112912Ztime
+        speed3.443000speed
+      trkpt
+      trkpt lat=50.885758410 lon=16.735106200
+        ele284.800000ele
+        time2017-11-24T112919Ztime
+        speed3.322000speed
+      trkpt
+      trkpt lat=50.885906690 lon=16.735264540
+        ele283.000000ele
+        time2017-11-24T112925Ztime
+        speed3.303000speed
+      trkpt
+      trkpt lat=50.886065190 lon=16.735448100
+        ele281.600000ele
+        time2017-11-24T112932Ztime
+        speed3.322000speed
+      trkpt
+      trkpt lat=50.886229390 lon=16.735644570
+        ele279.200000ele
+        time2017-11-24T112939Ztime
+        speed3.294000speed
+      trkpt
+      trkpt lat=50.886424850 lon=16.735762170
+        ele278.400000ele
+        time2017-11-24T112945Ztime
+        speed3.322000speed
+      trkpt
+      trkpt lat=50.886603470 lon=16.735898380
+        ele277.800000ele
+        time2017-11-24T112951Ztime
+        speed3.424000speed
+      trkpt
+      trkpt lat=50.886775050 lon=16.736035760
+        ele276.800000ele
+        time2017-11-24T112957Ztime
+        speed3.508000speed
+      trkpt
+      trkpt lat=50.886922740 lon=16.736202890
+        ele275.000000ele
+        time2017-11-24T113003Ztime
+        speed3.536000speed
+      trkpt
+      trkpt lat=50.887126420 lon=16.736320410
+        ele274.400000ele
+        time2017-11-24T113009Ztime
+        speed3.536000speed
+      trkpt
+      trkpt lat=50.887293970 lon=16.736461560
+        ele273.400000ele
+        time2017-11-24T113015Ztime
+        speed3.592000speed
+      trkpt
+      trkpt lat=50.887439740 lon=16.736632800
+        ele270.600000ele
+        time2017-11-24T113021Ztime
+        speed3.583000speed
+      trkpt
+      trkpt lat=50.887628500 lon=16.736789210
+        ele265.800000ele
+        time2017-11-24T113028Ztime
+        speed3.536000speed
+      trkpt
+      trkpt lat=50.887803090 lon=16.736920800
+        ele262.800000ele
+        time2017-11-24T113034Ztime
+        speed3.518000speed
+      trkpt
+      trkpt lat=50.887988160 lon=16.737077540
+        ele258.400000ele
+        time2017-11-24T113041Ztime
+        speed3.527000speed
+      trkpt
+      trkpt lat=50.888168790 lon=16.737152390
+        ele256.000000ele
+        time2017-11-24T113047Ztime
+        speed3.499000speed
+      trkpt
+      trkpt lat=50.888366190 lon=16.737223640
+        ele256.200000ele
+        time2017-11-24T113053Ztime
+        speed3.508000speed
+      trkpt
+      trkpt lat=50.888538440 lon=16.737338980
+        ele255.200000ele
+        time2017-11-24T113059Ztime
+        speed3.518000speed
+      trkpt
+      trkpt lat=50.888708500 lon=16.737467550
+        ele252.800000ele
+        time2017-11-24T113105Ztime
+        speed3.527000speed
+      trkpt
+      trkpt lat=50.888880420 lon=16.737632090
+        ele250.200000ele
+        time2017-11-24T113112Ztime
+        speed3.508000speed
+      trkpt
+      trkpt lat=50.889027940 lon=16.737802410
+        ele247.800000ele
+        time2017-11-24T113118Ztime
+        speed3.480000speed
+      trkpt
+      trkpt lat=50.889191800 lon=16.737990580
+        ele245.600000ele
+        time2017-11-24T113125Ztime
+        speed3.452000speed
+      trkpt
+      trkpt lat=50.889347290 lon=16.738137350
+        ele244.000000ele
+        time2017-11-24T113131Ztime
+        speed3.424000speed
+      trkpt
+      trkpt lat=50.889516850 lon=16.738295350
+        ele241.200000ele
+        time2017-11-24T113138Ztime
+        speed3.406000speed
+      trkpt
+      trkpt lat=50.889658090 lon=16.738499780
+        ele237.000000ele
+        time2017-11-24T113144Ztime
+        speed3.378000speed
+      trkpt
+      trkpt lat=50.889805280 lon=16.738697600
+        ele232.800000ele
+        time2017-11-24T113150Ztime
+        speed3.378000speed
+      trkpt
+      trkpt lat=50.889924550 lon=16.738917620
+        ele229.400000ele
+        time2017-11-24T113156Ztime
+        speed3.396000speed
+      trkpt
+      trkpt lat=50.890030330 lon=16.739165220
+        ele225.000000ele
+        time2017-11-24T113202Ztime
+        speed3.406000speed
+      trkpt
+      trkpt lat=50.890143230 lon=16.739416010
+        ele220.000000ele
+        time2017-11-24T113208Ztime
+        speed3.424000speed
+      trkpt
+      trkpt lat=50.890258740 lon=16.739697560
+        ele219.200000ele
+        time2017-11-24T113214Ztime
+        speed3.462000speed
+      trkpt
+      trkpt lat=50.890378680 lon=16.739956890
+        ele219.200000ele
+        time2017-11-24T113220Ztime
+        speed3.508000speed
+      trkpt
+      trkpt lat=50.890495020 lon=16.740180440
+        ele218.000000ele
+        time2017-11-24T113226Ztime
+        speed3.546000speed
+      trkpt
+      trkpt lat=50.890637850 lon=16.740416390
+        ele214.600000ele
+        time2017-11-24T113233Ztime
+        speed3.546000speed
+      trkpt
+      trkpt lat=50.890773470 lon=16.740604900
+        ele211.200000ele
+        time2017-11-24T113239Ztime
+        speed3.518000speed
+      trkpt
+      trkpt lat=50.890916880 lon=16.740800620
+        ele209.600000ele
+        time2017-11-24T113245Ztime
+        speed3.490000speed
+      trkpt
+      trkpt lat=50.891054850 lon=16.741002620
+        ele208.800000ele
+        time2017-11-24T113251Ztime
+        speed3.490000speed
+      trkpt
+      trkpt lat=50.891188210 lon=16.741215940
+        ele207.000000ele
+        time2017-11-24T113257Ztime
+        speed3.480000speed
+      trkpt
+      trkpt lat=50.891325750 lon=16.741421800
+        ele206.200000ele
+        time2017-11-24T113303Ztime
+        speed3.480000speed
+      trkpt
+      trkpt lat=50.891458100 lon=16.741624810
+        ele205.800000ele
+        time2017-11-24T113309Ztime
+        speed3.480000speed
+      trkpt
+      trkpt lat=50.891579310 lon=16.741886830
+        ele204.600000ele
+        time2017-11-24T113316Ztime
+        speed3.471000speed
+      trkpt
+      trkpt lat=50.891675950 lon=16.742066030
+        ele205.400000ele
+        time2017-11-24T113321Ztime
+        speed3.452000speed
+      trkpt
+      trkpt lat=50.891848030 lon=16.742226630
+        ele207.800000ele
+        time2017-11-24T113328Ztime
+        speed3.434000speed
+      trkpt
+      trkpt lat=50.892022880 lon=16.742307180
+        ele210.000000ele
+        time2017-11-24T113335Ztime
+        speed3.378000speed
+      trkpt
+      trkpt lat=50.892211550 lon=16.742335340
+        ele211.400000ele
+        time2017-11-24T113341Ztime
+        speed3.340000speed
+      trkpt
+      trkpt lat=50.892390840 lon=16.742359320
+        ele212.600000ele
+        time2017-11-24T113347Ztime
+        speed3.331000speed
+      trkpt
+      trkpt lat=50.892590000 lon=16.742358730
+        ele213.000000ele
+        time2017-11-24T113354Ztime
+        speed3.331000speed
+      trkpt
+      trkpt lat=50.892771970 lon=16.742350350
+        ele214.600000ele
+        time2017-11-24T113400Ztime
+        speed3.312000speed
+      trkpt
+      trkpt lat=50.892982440 lon=16.742341550
+        ele216.000000ele
+        time2017-11-24T113407Ztime
+        speed3.322000speed
+      trkpt
+      trkpt lat=50.893172200 lon=16.742358900
+        ele214.400000ele
+        time2017-11-24T113413Ztime
+        speed3.331000speed
+      trkpt
+      trkpt lat=50.893370940 lon=16.742409610
+        ele212.400000ele
+        time2017-11-24T113420Ztime
+        speed3.350000speed
+      trkpt
+      trkpt lat=50.893552070 lon=16.742463840
+        ele208.800000ele
+        time2017-11-24T113428Ztime
+        speed3.312000speed
+      trkpt
+      trkpt lat=50.893740750 lon=16.742485380
+        ele207.800000ele
+        time2017-11-24T113435Ztime
+        speed3.219000speed
+      trkpt
+      trkpt lat=50.893918110 lon=16.742567940
+        ele203.400000ele
+        time2017-11-24T113442Ztime
+        speed3.163000speed
+      trkpt
+      trkpt lat=50.894098240 lon=16.742580930
+        ele201.200000ele
+        time2017-11-24T113448Ztime
+        speed3.135000speed
+      trkpt
+      trkpt lat=50.894303170 lon=16.742606750
+        ele199.000000ele
+        time2017-11-24T113455Ztime
+        speed3.144000speed
+      trkpt
+      trkpt lat=50.894388840 lon=16.742581520
+        ele199.200000ele
+        time2017-11-24T113458Ztime
+        speed3.154000speed
+      trkpt
+      trkpt lat=50.894382880 lon=16.742369540
+        ele196.400000ele
+        time2017-11-24T113503Ztime
+        speed3.172000speed
+      trkpt
+      trkpt lat=50.894341560 lon=16.742064360
+        ele197.000000ele
+        time2017-11-24T113510Ztime
+        speed3.182000speed
+      trkpt
+      trkpt lat=50.894338960 lon=16.741750040
+        ele197.400000ele
+        time2017-11-24T113517Ztime
+        speed3.172000speed
+      trkpt
+      trkpt lat=50.894335690 lon=16.741436720
+        ele197.600000ele
+        time2017-11-24T113524Ztime
+        speed3.172000speed
+      trkpt
+      trkpt lat=50.894331840 lon=16.741122150
+        ele197.600000ele
+        time2017-11-24T113531Ztime
+        speed3.172000speed
+      trkpt
+      trkpt lat=50.894329410 lon=16.740816040
+        ele197.000000ele
+        time2017-11-24T113538Ztime
+        speed3.163000speed
+      trkpt
+      trkpt lat=50.894325380 lon=16.740513790
+        ele196.400000ele
+        time2017-11-24T113545Ztime
+        speed3.154000speed
+      trkpt
+      trkpt lat=50.894343740 lon=16.740236430
+        ele197.600000ele
+        time2017-11-24T113551Ztime
+        speed3.135000speed
+      trkpt
+      trkpt lat=50.894370230 lon=16.739908780
+        ele198.200000ele
+        time2017-11-24T113558Ztime
+        speed3.144000speed
+      trkpt
+      trkpt lat=50.894414650 lon=16.739597310
+        ele201.800000ele
+        time2017-11-24T113605Ztime
+        speed3.163000speed
+      trkpt
+      trkpt lat=50.894460580 lon=16.739498740
+        ele203.400000ele
+        time2017-11-24T113611Ztime
+        speed1.418000speed
+      trkpt
+      trkpt lat=50.894468380 lon=16.739517010
+        ele205.000000ele
+        time2017-11-24T113623Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.894469720 lon=16.739523380
+        ele205.600000ele
+        time2017-11-24T113628Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.894466200 lon=16.739521870
+        ele206.000000ele
+        time2017-11-24T113632Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.894459240 lon=16.739505530
+        ele206.800000ele
+        time2017-11-24T113639Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.894474580 lon=16.739504780
+        ele206.400000ele
+        time2017-11-24T113646Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.894475760 lon=16.739505780
+        ele206.400000ele
+        time2017-11-24T113648Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.894476930 lon=16.739506200
+        ele206.200000ele
+        time2017-11-24T113650Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.894475840 lon=16.739504610
+        ele206.200000ele
+        time2017-11-24T113653Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.894476510 lon=16.739504360
+        ele206.200000ele
+        time2017-11-24T113656Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.894448180 lon=16.739710800
+        ele206.200000ele
+        time2017-11-24T113734Ztime
+        speed2.221000speed
+      trkpt
+      trkpt lat=50.894453630 lon=16.740027720
+        ele207.400000ele
+        time2017-11-24T113743Ztime
+        speed2.407000speed
+      trkpt
+      trkpt lat=50.894458910 lon=16.740170970
+        ele208.400000ele
+        time2017-11-24T113750Ztime
+        speed2.379000speed
+      trkpt
+      trkpt lat=50.894446250 lon=16.740191340
+        ele207.400000ele
+        time2017-11-24T113800Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.894441310 lon=16.740192430
+        ele207.600000ele
+        time2017-11-24T113808Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.894420180 lon=16.740175080
+        ele207.800000ele
+        time2017-11-24T113832Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.894413560 lon=16.740180940
+        ele207.200000ele
+        time2017-11-24T113843Ztime
+        speed0.000000speed
+      trkpt
+      trkpt lat=50.894411130 lon=16.740182790
+        ele207.200000ele
+        time2017-11-24T113844Ztime
+        speed0.000000speed
+      trkpt
+    trkseg
+  trk
+gpx

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1527775023 source:c:\prawie_dysk_d\programy_c++\projekt_wojtek\wojtek\p_zad7.cpp
+	"zad7.hpp"
+
+1527029207 c:\prawie_dysk_d\programy_c++\projekt_wojtek\wojtek\zad7.hpp
+	<iostream>
+	<string>
+	<vector>
+
+1527774823 source:c:\prawie_dysk_d\programy_c++\projekt_wojtek\wojtek\zad7.cpp
+	"zad7.hpp"
+	<bits/stdc++.h>
+

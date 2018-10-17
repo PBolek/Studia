@@ -1,0 +1,1 @@
+puts "the number is 42"[/\d+/]

@@ -1,0 +1,97 @@
+\documentclass[a4paper]{article}
+\usepackage[polish]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{enumerate}
+\frenchspacing
+
+\title{Projekt - Programowanie obiektowe 2018}
+\author{Piotr Bolek}
+\date{\today}
+
+\begin{document}
+	
+	\begin{enumerate}
+		\huge \item \textbf{Opis projektu} \\
+			\normalsize 
+				Celem projektu było napisanie gry planszowej dla wielu graczy z podziałem na tury. Gra polega na przemieszczaniu się postacią po planszy z 
+				polami, tak jak w "Chińczyku" i zebraniu jak największej ilości kryształów. Gracz może poruszać się w górę, w dół, w lewo i w prawo. Każdy
+				gracz posiada trzy przedmioty którymi może wpływać na wygląd planszy, czy też na stan rozgrywki. Pierwszym z nich jest kilof. Za pomocą 
+				tego przedmiotu gracz może tworzyć nowe ścieżki czy też niszczyć pozostawione przez innych graczy ściany. Również może usuwać czarne, 
+				niebieskie i żółte pola. Drugim przedmiotem jest łopata, za pomocą której każdy gracz może zebrać kryształy ukryte pod niebieskimi polami, 
+				które w każdej rozgrywce są ustawiane losowo na planszy. Trzecim i ostatnim przedmiotem jest bomba, przy pomocy której gracz może 
+				ustawić ścianę. Gra jest podzielona na tury. Kolejność graczy jest, z każdym uruchomieniem gry, generowana losowo, przez co nie ma 
+				znaczenia kto jaki number wyberze, a gra i tak będzie za każdym razem uczciwa. Wygrywa drużyna, która uzbiera najwięcej kryształów 
+				do momentu zakończenia gry.
+			\huge \item \textbf{System gry}
+				\begin{enumerate}
+					\Large \item \textbf {Pola}
+						\begin{enumerate}
+							\large \item \textbf {Zwyczajne} \\
+								\normalsize
+									Do pól zwyczajnych zaliczamy: zielone oraz brązowe pola. Wejście przez gracza na pole zwyczajnie nie wpływa w żaden
+									sposób na rozgrywkę czy też na stan gracza. Po użyciu kilofa powstaje zielone pole. \\
+							\large \item \textbf {Pola specjalne} \\
+								\normalsize
+									Do pól specjalnych zaliczamy: czarne, niebieskie, fioletowe oraz żółte pola. \\
+									\begin{enumerate}
+										\large \item \textbf {Pole czarne} \\
+											\normalsize 
+												Po wkroczeniu przez gracza na pole czarne, zostaje wywołane negatywne losowe zdarzenie.
+												Losowaniu podlegają cztery zdarzenia w przypadku normalnego pola czarnego: utrata jednej
+												łopaty, utrata jednej bomby, utrata jednego kilofa lub stracenia losowej ilości (od 1 do 9)
+												punktów ruchu gracza, który wszedł na czarne pole.\\
+										\large \item \textbf {Pole niebieskie} \\
+											\normalsize
+												Po wkroczeniu przez gracza na niebieskie pole nic się nie dzieje. Dopiero gry gracz użyje
+												łopaty, to wykopuje jeden, losowy, kryształ. Na pierwszym poziomie planszy (zielone pola)
+												jest mniejsze prawdopodobieństwo otrzymania lepszego kryształu niż na poziomie drugim
+												(brązowe pola).\\
+										\large \item \textbf {Pole żółte} \\
+											\normalsize
+												Pola żółte po wkroczeniu na nie przez gracza znikają. Efektem wejścia na pole żółte jest jedno
+												z następujących wydarzeń: zwiększenie liczby łopat o 1, zwiększenie liczby kilofów o 1, zwiększenie
+												liczby bomb o 1, zwiększenie punktów ruchu (modulo 5). \\
+										\large \item \textbf {Pola fioletowe} \\
+											\normalsize
+												Pola filoetowe po wkroczeniu na nie przez gracza przenoszą go na inne, losowe, pole fioletowe na mapie.
+												Po wejściu na pole filoetowe i przeniesieniu gracza w inne miejsce na mapie, gracz posiada jeden punkt
+												ruchu niezależnie od poprzeniej ilości punktów ruchu. \\									
+									\end{enumerate}
+						\end{enumerate}
+					\Large \item \textbf {Przedmioty} \\
+						\normalsize
+							Każdy gracz posiada trzy przedmioty do użycia. Wpłwają one na wygląd planszy jak i na przebieg rozgrywki. Standardową ilość wszystkich
+							trzech przedmiotów to 5. Gracz może uzupełnić stan swoich przedmiotów do 5, gdy powróci do miasta (miejsce w którym zaczyna każdy gracz).
+							\begin{enumerate}
+								\large \item \textbf {Kilof} \\
+									\normalsize
+										Za pomocą tego przedmiotu gracz może tworzyć nowe ścieżki. \\
+								\large \item \textbf {Łopata} \\
+									\normalsize											
+										Za pomocą tego przedmiotu gracz może podnosić klejnoty ukryte pod niebieskimi polami. \\
+								\large \item \textbf {Bomba} \\
+									\normalsize
+										Za pomocą tego przedmiotu gracz może tworzyć ściany, przez które nikt nie może przejść. Jedyną możliwością usunięcia ściany jest wykopanie
+										jej przy pomocy kilofa. \\
+							\end{enumerate}
+					\Large \item \textbf {Tury} \\
+						\normalsize
+							Kolejność graczy jest losowa. Ilość punktów ruchu gracza w danej turze jest losowa (modulo 11).
+				\end{enumerate}
+		\huge \item \textbf {Opis klas} \\
+			\Large \item \textbf {Application} \\
+			\Large \item \textbf {Board} \\
+			\Large \item \textbf {Map} \\
+			\Large \item \textbf {Menu} \\
+			\Large \item \textbf {End game} \\
+			\Large \item \textbf {Turn} \\
+			\Large \item \textbf {Random events} \\
+			\Large \item \textbf {Equipement} \\
+			\Large \item \textbf {Player} \\
+			\Large \item \textbf {Shovel, Pickaxe, Bomb} \\
+			\Large \item \textbf {Yellow jewel, Green jewel, Blue jewel, White jewel} \\
+			\Large \item \textbf {Game stats} \\
+	\end{enumerate}
+\end{document}

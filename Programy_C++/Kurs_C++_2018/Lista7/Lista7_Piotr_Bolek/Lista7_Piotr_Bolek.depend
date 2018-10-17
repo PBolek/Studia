@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1523991973 source:c:\prawie_dysk_d\programy_c++\lista7\lista7_piotr_bolek\main.cpp
+	<iostream>
+	"Lista7.h"
+
+1524063643 c:\prawie_dysk_d\programy_c++\lista7\lista7_piotr_bolek\lista7.h
+
+1524059196 source:c:\prawie_dysk_d\programy_c++\lista7\lista7_piotr_bolek\lista7.cpp
+	<bits/stdc++.h>
+	"Lista7.h"
+

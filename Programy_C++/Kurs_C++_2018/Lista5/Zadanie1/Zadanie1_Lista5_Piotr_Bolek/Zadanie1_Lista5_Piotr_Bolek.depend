@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1522195146 source:c:\prawie_dysk_d\programy_c++\kurs_c++_2018\lista5\zadanie1\zadanie1_lista5_piotr_bolek\lista5_zadanie1.cpp
+	<bits/stdc++.h>
+	"Lista5_Zadanie1.h"
+	<windows.h>
+
+1522195734 c:\prawie_dysk_d\programy_c++\kurs_c++_2018\lista5\zadanie1\zadanie1_lista5_piotr_bolek\lista5_zadanie1.h
+
+1522180547 source:c:\prawie_dysk_d\programy_c++\kurs_c++_2018\lista5\zadanie1\zadanie1_lista5_piotr_bolek\main.cpp
+	<bits/stdc++.h>
+	"Lista5_Zadanie1.h"
+

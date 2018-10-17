@@ -1,0 +1,6 @@
+C:\Prawie_dysk_D\Programy_C#\Lista3_Zadanie4_Piotr_Bolek\Lista3_Zadanie4_Piotr_Bolek\obj\Debug\Lista3_Zadanie4_Piotr_Bolek.csprojResolveAssemblyReference.cache
+C:\Prawie_dysk_D\Programy_C#\Lista3_Zadanie4_Piotr_Bolek\Lista3_Zadanie4_Piotr_Bolek\bin\Debug\Lista3_Zadanie4_Piotr_Bolek.exe.config
+C:\Prawie_dysk_D\Programy_C#\Lista3_Zadanie4_Piotr_Bolek\Lista3_Zadanie4_Piotr_Bolek\bin\Debug\Lista3_Zadanie4_Piotr_Bolek.exe
+C:\Prawie_dysk_D\Programy_C#\Lista3_Zadanie4_Piotr_Bolek\Lista3_Zadanie4_Piotr_Bolek\bin\Debug\Lista3_Zadanie4_Piotr_Bolek.pdb
+C:\Prawie_dysk_D\Programy_C#\Lista3_Zadanie4_Piotr_Bolek\Lista3_Zadanie4_Piotr_Bolek\obj\Debug\Lista3_Zadanie4_Piotr_Bolek.exe
+C:\Prawie_dysk_D\Programy_C#\Lista3_Zadanie4_Piotr_Bolek\Lista3_Zadanie4_Piotr_Bolek\obj\Debug\Lista3_Zadanie4_Piotr_Bolek.pdb

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1521635857 source:c:\prawie_dysk_d\programy_c++\kurs_c++_2018\lista4\main.cpp
+	<bits/stdc++.h>
+
+1521642459 source:c:\prawie_dysk_d\programy_c++\kurs_c++_2018\lista4\lista4.cpp
+	<bits/stdc++.h>
+	"Lista4.h"
+
+1521640998 c:\prawie_dysk_d\programy_c++\kurs_c++_2018\lista4\lista4.h
+

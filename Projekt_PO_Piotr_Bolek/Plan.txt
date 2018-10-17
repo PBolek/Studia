@@ -1,0 +1,4 @@
+1. Dopisac klasy dla wszystkich przedmiotow [V]
+2. Skonczyc system uzywania przedmiotow w kalsie Board [V]
+3. Zrobic menu startowe
+4. Zrobic tablice wynikow, cos zrobilem, klasa End_game, ale nie dziala tak jak powinno
