@@ -1,0 +1,7 @@
+--- !ruby/object:CD
+id: 1
+track_list: asd asd asd
+author: asd
+is_borrowed: true
+when_borrowed: 1998-10-10 00:00:00.000000000 +02:00
+is_borrowed_for_too_long: true
